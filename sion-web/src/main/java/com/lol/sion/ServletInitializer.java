@@ -1,4 +1,4 @@
-package com.lol;
+package com.lol.sion;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
