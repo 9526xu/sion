@@ -15,6 +15,7 @@
         <module>sion-mybatisgen</module>
         <module>sion-web</module>
         <module>sion-dal</module>
+        <module>sion-core</module>
     </modules>
 
     <parent>
@@ -28,11 +29,27 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
+        <sion.version>0.0.1-SNAPSHOT</sion.version>
     </properties>
 
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>com.lol</groupId>
+                <artifactId>sion-core</artifactId>
+                <version>${sion.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.lol</groupId>
+                <artifactId>sion-web</artifactId>
+                <version>${sion.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.lol</groupId>
+                <artifactId>sion-dal</artifactId>
+                <version>${sion.version}</version>
+            </dependency>
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
@@ -82,6 +99,7 @@
     </dependencyManagement>
 
     <dependencies>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
