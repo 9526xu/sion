@@ -1,8 +1,8 @@
 package ${queryPackage};
 
 
-import com.saab.finance.core.dao.query.support.BaseCriteria;
-import com.saab.finance.core.dao.query.support.BaseQuery;
+import com.lol.sion.core.dao.query.support.BaseCriteria;
+import com.lol.sion.core.dao.query.support.BaseQuery;
 import org.apache.commons.lang.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang.builder.ToStringStyle;
 

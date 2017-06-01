@@ -1,6 +1,6 @@
 package ${managerImplPackage};
 
-import com.saab.finance.core.dao.query.support.PageResult;
+import com.lol.sion.core.dao.query.support.PageResult;
 import ${doPackage}.${className}${doSuffix};
 import ${queryPackage}.${className}${queryPrefix};
 import ${mapperExtPackage}.${className}${extMapperSuffix};
