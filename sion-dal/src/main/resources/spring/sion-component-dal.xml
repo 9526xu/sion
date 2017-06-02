@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns="http://www.springframework.org/schema/beans"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+           http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/tx      http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+       "
+       default-autowire="byName">
+
+    <!-- 加载dal和biz中的mapper.java文件 -->
+    <bean id="mapperScanner" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.lol.sion.core.dao.mapper"/>
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactoryBean"/>
+    </bean>
+
+    <bean id="springManagedTransactionFactory"
+          class="org.mybatis.spring.transaction.SpringManagedTransactionFactory"/>
+
+    <bean id="sqlSessionFactoryBean" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <!-- 加载dal和biz中的mapper.xml文件 -->
+        <property name="mapperLocations" value="classpath*:/mybatis/**/*Mapper.xml"/>
+        <!-- 同一个model -->
+        <property name="typeAliasesPackage" value="com.lol.sion.core.dao.dataobject.***"/>
+        <property name="transactionFactory" ref="springManagedTransactionFactory"/>
+        <property name="failFast" value="true"/>
+    </bean>
+
+    <!-- spring 事务管理器 -->
+    <bean id="transactionManager"
+          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+
+
+    <import resource="classpath:spring/data-source.xml"/>
+</beans>
