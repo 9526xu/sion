@@ -3,7 +3,6 @@ package com.lol.sion.core.config;
 import com.alibaba.druid.pool.DruidDataSource;
 import lombok.extern.slf4j.Slf4j;
 import org.mybatis.spring.annotation.MapperScan;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -22,73 +21,37 @@ import java.sql.SQLException;
 @EnableTransactionManagement
 @EnableConfigurationProperties(DruidDataSourceProperties.class)
 public class DruidDBConfig {
-    @Value("${spring.datasource.driverClassName}")
-    private String driver;
-    @Value("${spring.datasource.url}")
-    private String url;
-    @Value("${spring.datasource.username}")
-    private String username;
-    @Value("${spring.datasource.password}")
-    private String password;
 
-    @Value("${spring.datasource.initialSize}")
-    private int initialSize;
-    @Value("${spring.datasource.minIdle}")
-    private int minIdle;
-    @Value("${spring.datasource.maxActive}")
-    private int maxActive;
-    @Value("${spring.datasource.maxWait}")
-    private int maxWait;
-    @Value("${spring.datasource.timeBetweenEvictionRunsMillis}")
-    private int timeBetweenEvictionRunsMillis;
-    @Value("${spring.datasource.minEvictableIdleTimeMillis}")
-    private int minEvictableIdleTimeMillis;
-    @Value("${spring.datasource.validationQuery}")
-    private String validationQuery;
-    @Value("${spring.datasource.testWhileIdle}")
-    private boolean testWhileIdle;
-    @Value("${spring.datasource.testOnBorrow}")
-    private boolean testOnBorrow;
-    @Value("${spring.datasource.testOnReturn}")
-    private boolean testOnReturn;
-    @Value("${spring.datasource.poolPreparedStatements}")
-    private boolean poolPreparedStatements;
-    @Value("${spring.datasource.maxOpenPreparedStatementPerConnectionSize}")
-    private int maxOpenPreparedStatementPerConnectionSize;
-    @Value("${spring.datasource.filters}")
-    private String filters;
-    @Value("{spring.datasource.connectionProperties}")
-    private String connectionProperties;
 
 
     @Bean
-    public DataSource dataSource() {
+    public DataSource dataSource(DruidDataSourceProperties properties) {
 
         DruidDataSource dataSource = new DruidDataSource();
-        dataSource.setDriverClassName(driver);
-        dataSource.setUrl(url);
-        dataSource.setUsername(username);
-        dataSource.setPassword(password);
+        dataSource.setDriverClassName(properties.getDriver());
+        dataSource.setUrl(properties.getUrl());
+        dataSource.setUsername(properties.getUsername());
+        dataSource.setPassword(properties.getPassword());
 
         //configuration
-        dataSource.setInitialSize(initialSize);
-        dataSource.setMinIdle(minIdle);
-        dataSource.setMaxActive(maxActive);
-        dataSource.setMaxWait(maxWait);
-        dataSource.setTimeBetweenEvictionRunsMillis(timeBetweenEvictionRunsMillis);
-        dataSource.setMinEvictableIdleTimeMillis(minEvictableIdleTimeMillis);
-        dataSource.setValidationQuery(validationQuery);
-        dataSource.setTestWhileIdle(testWhileIdle);
-        dataSource.setTestOnBorrow(testOnBorrow);
-        dataSource.setTestOnReturn(testOnReturn);
-        dataSource.setPoolPreparedStatements(poolPreparedStatements);
-        dataSource.setMaxOpenPreparedStatements(maxOpenPreparedStatementPerConnectionSize);
+        dataSource.setInitialSize(properties.getInitialSize());
+        dataSource.setMinIdle(properties.getMinIdle());
+        dataSource.setMaxActive(properties.getMaxActive());
+        dataSource.setMaxWait(properties.getMaxWait());
+        dataSource.setTimeBetweenEvictionRunsMillis(properties.getTimeBetweenEvictionRunsMillis());
+        dataSource.setMinEvictableIdleTimeMillis(properties.getMinEvictableIdleTimeMillis());
+        dataSource.setValidationQuery(properties.getValidationQuery());
+        dataSource.setTestWhileIdle(properties.isTestWhileIdle());
+        dataSource.setTestOnBorrow(properties.isTestOnBorrow());
+        dataSource.setTestOnReturn(properties.isTestOnReturn());
+        dataSource.setPoolPreparedStatements(properties.isPoolPreparedStatements());
+        dataSource.setMaxOpenPreparedStatements(properties.getMaxOpenPreparedStatementPerConnectionSize());
         try {
-            dataSource.setFilters(filters);
+            dataSource.setFilters(properties.getFilters());
         } catch (SQLException e) {
             log.error("druid configuration initialization filter", e);
         }
-        dataSource.setConnectionProperties(connectionProperties);
+        dataSource.setConnectionProperties(properties.getConnectionProperties());
         return dataSource;
     }
 }
