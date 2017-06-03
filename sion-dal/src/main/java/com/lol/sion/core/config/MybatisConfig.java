@@ -4,10 +4,8 @@ import lombok.extern.slf4j.Slf4j;
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.mapper.MapperScannerConfigurer;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import org.springframework.jdbc.datasource.DataSourceTransactionManager;
-import org.springframework.transaction.PlatformTransactionManager;
-import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import javax.sql.DataSource;
 
@@ -16,18 +14,16 @@ import javax.sql.DataSource;
  * @Date 2017/6/1
  */
 @Slf4j
-@EnableTransactionManagement
+//@Configuration
+//@EnableTransactionManagement
 public class MybatisConfig {
+
 
     @Autowired
     DataSource dataSource;
 
-   // @Bean(name = "transactionManager")
-    public PlatformTransactionManager transactionManager() {
-        return new DataSourceTransactionManager(dataSource);
-    }
 
-    //@Bean(name = "sqlSessionFactoryBean")
+    @Bean(name = "sqlSessionFactoryBean")
     public SqlSessionFactoryBean sqlSessionFactoryBean() {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(dataSource);
@@ -51,8 +47,9 @@ public class MybatisConfig {
 
     }
 
-    //@Bean(name = "mapperScanner")
-    public MapperScannerConfigurer mapperScannerConfigurer() {
+   // @Bean(name = "mapperScanner")
+    public  MapperScannerConfigurer mapperScannerConfigurer() {
+
         MapperScannerConfigurer mapperScanner = new MapperScannerConfigurer();
         mapperScanner.setSqlSessionFactoryBeanName("sqlSessionFactoryBean");
         mapperScanner.setBasePackage("com.lol.sion.core.dao.mapper");

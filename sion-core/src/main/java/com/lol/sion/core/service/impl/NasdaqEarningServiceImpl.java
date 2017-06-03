@@ -11,6 +11,7 @@ import org.apache.commons.lang3.time.DateFormatUtils;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Nullable;
 import java.util.Date;
@@ -43,5 +44,20 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
             }
         });
         return list;
+    }
+
+    @Transactional(rollbackFor = Exception.class)
+    @Override
+    public void transactionTest() {
+        NasdqEarningDO nasdqEarningDO = new NasdqEarningDO();
+        nasdqEarningDO.setCode("Test");
+        nasdqEarningDO.setCompany("测试小黑公司");
+
+        nasdqEarningManager.insertSelective(nasdqEarningDO);
+
+        int a = 1 / 0;
+
+
+
     }
 }

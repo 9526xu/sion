@@ -11,4 +11,8 @@ import java.util.List;
 public interface NasdaqEarningService {
 
     List<NasdaqEarningListResponse> query();
+
+    void transactionTest();
+
+
 }

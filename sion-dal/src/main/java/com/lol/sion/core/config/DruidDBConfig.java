@@ -4,6 +4,7 @@ import com.alibaba.druid.pool.DruidDataSource;
 import lombok.extern.slf4j.Slf4j;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
@@ -19,6 +20,7 @@ import java.sql.SQLException;
 @Slf4j
 @MapperScan("com.lol.sion.core.dao.mapper")
 @EnableTransactionManagement
+@EnableConfigurationProperties(DruidDataSourceProperties.class)
 public class DruidDBConfig {
     @Value("${spring.datasource.driverClassName}")
     private String driver;
@@ -57,6 +59,7 @@ public class DruidDBConfig {
     private String filters;
     @Value("{spring.datasource.connectionProperties}")
     private String connectionProperties;
+
 
     @Bean
     public DataSource dataSource() {

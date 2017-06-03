@@ -46,5 +46,11 @@ public class IndexController {
         return "index";
     }
 
+    @RequestMapping("/test")
+    public String test() {
+        nasdaqEarningService.transactionTest();
+        return "index";
+    }
+
 
 }
