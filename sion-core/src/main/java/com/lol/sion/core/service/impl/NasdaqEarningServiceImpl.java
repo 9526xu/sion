@@ -40,7 +40,7 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
     public List<NasdaqEarningListResponse> query() {
         String time = DateFormatUtils.format(new Date(), "M/d/yyyy");
         NasdqEarningQuery query = new NasdqEarningQuery();
-        // query.or().andExpectDateEqualTo(time);
+        query.or().andExpectDateEqualTo(time);
         List<NasdqEarningDO> earningDOS = nasdqEarningManager.selectByQuery(query);
 
         List<NasdaqEarningListResponse> list = Lists.transform(earningDOS, nasdqEarningDO -> {
