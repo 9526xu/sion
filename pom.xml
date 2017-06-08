@@ -30,6 +30,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <sion.version>0.0.1-SNAPSHOT</sion.version>
+        <start-class>com.lol.sion.SionApplication</start-class>
     </properties>
 
 
