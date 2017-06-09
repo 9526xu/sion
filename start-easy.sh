@@ -25,4 +25,4 @@ cd sion-web/target
 # 显示下目录
 ls
 
-java -jar sion-web-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev | tee $BUILD_LOG &
+java -jar sion-web-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev | tee $BUILD_LOG

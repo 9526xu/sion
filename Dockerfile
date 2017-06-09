@@ -1,6 +1,12 @@
 FROM maven:3-jdk-8
 
 #RUN apt-get update && apt-get install -y less vim telnet ifconfig
+#apt-get update
+
+#apt install net-tools       # ifconfig
+
+#apt install iputils-ping     # ping
+
 # 创建目录
 RUN mkdir -p /home/admin/app
 # 切换当前目录
@@ -22,5 +28,6 @@ WORKDIR /home/admin/app
 #
 #RUN java -jar java -jar sion-web-0.0.1-SNAPSHOT.jar
 
+EXPOSE 8082
 
 CMD  sh start-easy.sh
