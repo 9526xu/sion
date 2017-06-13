@@ -5,11 +5,13 @@ import com.lol.sion.core.dao.query.NasdqEarningQuery;
 import com.lol.sion.core.pojo.response.NasdaqEarningListResponse;
 import com.lol.sion.core.service.intf.NasdaqEarningService;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang3.time.DateFormatUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -40,9 +42,8 @@ public class IndexController {
         NasdqEarningQuery query = new NasdqEarningQuery();
         List<NasdaqEarningListResponse> listResponses = nasdaqEarningService.query();
         //根据时间分档
-
-
         model.addAttribute("list", listResponses);
+        model.addAttribute("time", DateFormatUtils.format(new Date(), "yyyy-MM-dd"));
         return "index";
     }
 

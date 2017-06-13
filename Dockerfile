@@ -9,6 +9,9 @@ FROM maven:3-jdk-8
 
 # 创建目录
 RUN mkdir -p /home/admin/app
+
+# 时区切换
+RUN export TZ='Asia/Shanghai'
 # 切换当前目录
 
 # 将 当前目录下的东西移到
