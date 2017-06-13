@@ -10,9 +10,7 @@ FROM maven:3-jdk-8
 # 创建目录
 RUN mkdir -p /home/admin/app
 
-# 时区切换
-
-
+# 切换 docker 容器的时间让 设置的 java 读到时区为中国时间
 RUN echo "Asia/Shanghai" > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata
 
