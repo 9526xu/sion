@@ -9,16 +9,21 @@
 
 <!--/*@thymesVar id="time" type="String"*/-->
 财报日期<h2 th:text="${time}">财报日期</h2>
+<button id="btn">是否显示预测报告</button>
 
-<table style="width:700px;border-collapse:collapse;" align="CENTER" width="537PX" bgcolor="#FFFFFF" bordercolor="#000000" border="1">
+<table style="width:700px;border-collapse:collapse;" align="CENTER" width="537PX" bgcolor="#FFFFFF"
+       bordercolor="#000000" border="1">
     <tr>
-        <td width="55" valign="center" style="width:56px;padding:0px 7px;"><p><span style="font-size:14px">时间</span><span
+        <td width="55" valign="center" style="width:56px;padding:0px 7px;"><p><span
+                style="font-size:14px">时间</span><span
                 style="font-size:14px"></span></p></td>
         <td width="277" valign="center" style="width:278px;padding:0px 7px;"><p><span
                 style="font-size:14px">公司名称</span><span style="font-size:14px"></span></p></td>
-        <td width="52" valign="center" style="width:53px;padding:0px 7px;"><p><span style="font-size:14px">代码</span><span
+        <td width="52" valign="center" style="width:53px;padding:0px 7px;"><p><span
+                style="font-size:14px">代码</span><span
                 style="font-size:14px"></span></p></td>
-        <td width="80" valign="center" style="width:81px;padding:0px 7px;"><p><span style="font-size:14px">市值</span><span
+        <td width="80" valign="center" style="width:81px;padding:0px 7px;"><p><span
+                style="font-size:14px">市值</span><span
                 style="font-size:14px"></span></p></td>
         <td width="69" valign="center" style="width:100px;padding:0px 7px;"><p><span
                 style="font-size:14px">预期EPS</span><span style="font-size:14px"></span></p></td>
@@ -26,6 +31,8 @@
                 style="font-size:14px">财季截止</span><span style="font-size:14px"></span></p></td>
         <td width="69" valign="center" style="width:110px;padding:0px 7px;"><p><span
                 style="font-size:14px">去年同期EPS</span><span style="font-size:14px"></span></p></td>
+        <td name="report"  width="200" valign="center" style="width:110px;padding:0px 7px;"><p><span
+                style="font-size:14px">预测报告</span><span style="font-size:14px"></span></p></td>
     </tr>
     <!--/*@thymesVar id="list" type="List<NasdaqEarningListResponse>"*/-->
     <!--/*@thymesVar id="data" type="com.lol.sion.core.pojo.response.NasdaqEarningListResponse"*/-->
@@ -37,8 +44,15 @@
         <td th:text="${data.perShareEarningsExpect}"></td>
         <td th:text="${data.deadlineDate}"></td>
         <td th:text="${data.lastYearPerShareEarnings}"></td>
+        <td name="report" th:text="${data.reportStr}"></td>
     </tr>
 </table>
 
 </body>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $("#btn").click(function () {
+       $("td[name='report']").slideToggle();
+    });
+</script>
 </html>

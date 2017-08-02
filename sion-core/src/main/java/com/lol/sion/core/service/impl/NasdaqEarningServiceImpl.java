@@ -76,6 +76,8 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
             String parseTime = DateFormatUtils.format(date, "yyyy MM");
             nasdaqEarningListResponse.setDeadlineDate(parseTime);
 
+            String report = getReport(nasdqEarningDO);
+            nasdaqEarningListResponse.setReportStr(report);
             //财报截止
             return nasdaqEarningListResponse;
         });
@@ -96,6 +98,81 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
 
 
         return listResponses;
+    }
+
+    /**
+     * 获取财报预报
+     * <p>
+     * 模板：
+     * 苹果公司将于8月1日盘后公布截止2017年6月的业绩报告，分析师预期本季度每股收益为1.57美元，去年同期每股收益为1.42美元。
+     *
+     * @param nasdqEarningDO
+     * @return
+     */
+    private String getReport(NasdqEarningDO nasdqEarningDO) {
+        StringBuilder report = new StringBuilder();
+
+        try {
+            report.append(nasdqEarningDO.getCompany() + "将于");
+
+            Date expect = DateUtils.parseDate(nasdqEarningDO.getExpectDate(), "M/d/yyyy");
+            String expectStr = DateFormatUtils.format(expect, "M月d日");
+
+            report.append(expectStr);
+            if (nasdqEarningDO.getPublishTime().equalsIgnoreCase("Pre-market Quotes")) {
+                report.append("盘前");
+            } else if (nasdqEarningDO.getPublishTime().equalsIgnoreCase("After Hour Quotes")) {
+                report.append("盘后");
+            } else {
+                report.append("");
+            }
+            report.append("公布截止");
+
+
+            String deadLine = nasdqEarningDO.getDeadlineDate();
+            Date date = DateUtils.parseDate(deadLine, Locale.ENGLISH, "MMM yyyy");
+
+            String deadLineDate = DateFormatUtils.format(date, "yyyy年M月");
+
+            report.append(deadLineDate).append("的业绩报告，");
+
+
+            String perShareEarningsExpect = nasdqEarningDO.getPerShareEarningsExpect();
+            if (perShareEarningsExpect.contains("N/A")) {
+
+            } else {
+                perShareEarningsExpect = perShareEarningsExpect.replace("$", "");
+
+                if (perShareEarningsExpect.contains("-")) {
+                    perShareEarningsExpect = perShareEarningsExpect.replace("-", "");
+                    report.append("分析师预期本季度每股" + "亏损" + perShareEarningsExpect + "美元,");
+                } else {
+                    report.append("分析师预期本季度每股" + "收益" + perShareEarningsExpect + "美元,");
+                }
+            }
+
+            String lastEarningsExpect = nasdqEarningDO.getLastYearPerShareEarnings();
+
+            if (lastEarningsExpect.equalsIgnoreCase("N/A")) {
+
+            } else {
+                lastEarningsExpect = lastEarningsExpect.replace("$", "");
+
+                if (lastEarningsExpect.contains("-")) {
+                    lastEarningsExpect = lastEarningsExpect.replace("-", "");
+                    report.append("去年同期每股" + "亏损" + "为" + lastEarningsExpect + "美元。");
+                } else {
+                    report.append("去年同期每股" + "收益" + "为" + lastEarningsExpect + "美元。");
+                }
+            }
+
+            return report.toString();
+
+        } catch (ParseException e) {
+            log.error("预测报告出过错", e);
+        }
+        return null;
+
     }
 
     private Double getTotal(String capitalAmount) {
