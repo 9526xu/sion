@@ -5,18 +5,21 @@
     <title></title>
 </head>
 <body>
-<h1>nasdq 财报数据</h1>
+<div align="CENTER">
+    <h1>nasdq 财报数据</h1>
 
-<!--/*@thymesVar id="time" type="String"*/-->
-财报日期<h2 th:text="${time}">财报日期</h2>
-<button id="btn">是否显示预测报告</button>
+    <!--/*@thymesVar id="time" type="String"*/-->
+    财报日期<h2 th:text="${time}">财报日期</h2>
+    <button id="btn">是否显示预测报告</button>
 
-<!--/*@thymesVar id="list" type="java.util.List"*/-->
-总数:<h3 th:text="${list.size()}"></h3>
-盘前:<h3 th:text="${timeMap.before}"></h3>
-盘后<h3 th:text="${timeMap.after}">:</h3>
-<!--/*@thymesVar id="unknown" type="java.util.Map"*/-->
-未知:<h3 th:text="${timeMap.unknown}"></h3>
+    <!--/*@thymesVar id="list" type="java.util.List"*/-->
+    <h3  th:text="|总数:${list.size()}|"></h3>
+    <h3 th:text="|盘前:${timeMap.before}|"></h3>
+    <h3 th:text="|盘后:${timeMap.after}|">:</h3>
+    <h3 th:text="|未知:${timeMap.unknown}|"></h3>
+
+</div>
+
 <table style="width:700px;border-collapse:collapse;" align="CENTER" width="537PX" bgcolor="#FFFFFF"
        bordercolor="#000000" border="1">
     <tr>
