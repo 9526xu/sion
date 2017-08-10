@@ -1,0 +1,5599 @@
+代码	名称
+AAPC	Atlantic Alliance
+ABAC	奥信天力
+ABCD	新生集团
+ABEO	Abeona Therapeutics
+ABIL	Ability
+ABIO	方舟生物医药
+ABTL	汽车通贩网路
+ACHV	Achieve Life
+ACNB	ACNB
+ACST	Acasti制药
+ADMA	Adma生物制品
+ADMP	Adamis制药
+ADOM	ADOMANI
+AEHR	Aehr测试系统
+AEMD	Aethlon Medical
+AETI	美国电力技术
+AEZS	依特钠
+AGEN	安帝君斯
+AHPA	阿维斯塔医疗公共收购
+AHPI	Allied Healthcare
+AIRG	Airgain
+AIRT	Air T
+AKER	埃克斯生科
+AKTS	Akoustis技术
+AKTX	Akari Therapeutics
+ALBO	Albireo Pharma
+ALDX	Aldexa Therapeutics
+ALQA	Alliqua BioMedical
+AMD	超微半导体
+AMDA	Amedica
+AMMA	Alliance MMA
+ANDA	Andina Acquisition
+ANY	Sphere 3d
+APDN	应用dna科学
+APOP	Cellect生物科技
+APPS	Digital Turbine
+APRI	Apricus生物科技
+APTO	Aptose生物科技
+AQB	Aquabounty
+AQMS	Aqua Metals
+ARCI	美国电器回收中心
+ARCW	ARC Group Worldwide
+ARDM	Aradigm
+ARIS	Ari Network
+ARTW	自流资源
+ASMB	Assembly生物
+ASPU	Aspen集团
+ASTC	Astrotech
+ASUR	福景网络
+ASV	ASV Holdings
+ATHX	Athersys
+ATLO	艾姆斯国家
+ATOM	Atomera
+ATOS	Atossa Genetics
+ATRS	Antares制药
+ATTU	Attunity
+ATXI	Avenue Therapeutics
+AVEO	AVEO制药
+AVXL	Anavex Life Sciences
+AXAR	Axar Acquisition
+AXAS	Abraxas石油
+AXDX	Accelr科技
+AXGN	Axogen
+AZRX	AzurRx BioPharma
+BASI	生物分析系统
+BCAC	野牛资本收购
+BCLI	头脑风暴细胞治疗
+BCTF	Bancorp 34
+BDSI	BioDelivery科学国际
+BEBE	Bebe Stores
+BHAC	Barington/hilco
+BIOC	Biocept
+BIOL	拜拉斯
+BIOP	Bioptix
+BKSC	南卡罗来纳银行
+BKYI	Bio-key国际
+BLFS	BioLife Solutions
+BLIN	Bridgeline数字
+BLMT	BSB银行
+BLRX	BioLineRx
+BLVD	Boulevard
+BMRA	Biomerica
+BMRC	马林银行
+BNSO	Bonso Electronics
+BNTC	Benitec Biopharma
+BOMN	Boston Omaha
+BOSC	BOS科技
+BOTJ	詹姆斯金融银行
+BPTH	Bio-Path Holdings
+BSPM	奥星制药
+BSTG	Biostage
+BVXV	Biondvax制药
+BWEN	Broadwind能源
+BYBK	Bay Bancorp
+BYFC	百老汇金融
+BYSI	万春医药
+CAAS	中汽系统
+CADC	新奥混凝土
+CALI	中国汽车物流
+CAPR	Capricor
+CARO	Carolina Financial
+CART	Carolina Trust
+CARV	卡弗储蓄
+CASI	CASI制药
+CASM	CAS医疗
+CATS	Catasys
+CBAY	Cymabay Therapeutics
+CBIO	凯赛生物
+CBLI	克利夫兰生物实验室
+CBMX	Combimatrix
+CCCL	中国陶瓷
+CCCR	吴江鲈乡小贷
+CCRC	泰盈科技
+CDEV	百年资源开发
+CDTI	清洁柴油科技
+CDXC	Chromadex
+CELH	Celsius控股
+CEMI	Chembio诊断
+CERC	Cerecor
+CETX	Cemtrex
+CETXP	Cemtrex优先
+CFBI	Community First
+CFBK	中央联储
+CFCO	CF
+CFRX	Contrafect
+CGIX	癌症遗传学
+CGNT	Cogentix Medical
+CHCI	康斯托克控股
+CHEK	Check-cap
+CHFN	Charter金融
+CHFS	CHF Solutions
+CHNR	中国天然资源
+CIVB	Civista Bancshares
+CIVBP	克利夫兰公民银行存优
+CJJD	九洲大药房
+CKPT	Checkpoint医疗
+CLBS	Caladrius生物科学
+CLDC	中国贷款
+CLIR	Clearsign Combustion
+CLNT	中国风能技术
+CLRB	Cellectar
+CLRO	ClearOne通讯
+CLSN	克莱瑞恩
+CLWT	欧陆科仪集团
+CMLS	积云媒体
+CNET	中网在线
+CNIT	中国信息技术
+CNTY	世纪赌场
+CODA	Coda Octopus Group
+CODX	Co-diagnostics
+COOL	PolarityTE
+CORT	Corcept医疗
+CPAH	Counterpath
+CPRX	催化剂制药
+CPSH	Cps科技
+CPST	凯普斯通涡轮
+CRDS	Crossroads系统
+CREG	中国循环能源
+CRME	Cardiome药业
+CRTN	笛卡尔
+CRWS	Crown Crafts制衣
+CSBR	冠军肿瘤
+CTIB	CTI工业
+CTIC	CTI BioPharma
+CTRV	Contravir
+CTSO	Cytosorbents
+CTXR	Citius
+CUBN	Commerce
+CUI	CUI Global
+CUNB	Cu Bancorp
+CUR	Neuralstem
+CVCY	中央谷地
+CVV	CVD设备
+CWAY	Coastway Bancorp
+CYAN	赛安诺科技
+CYCC	赛拉喜
+CYCCP	赛拉喜优先
+CYRN	CYREN
+CYRX	Cryoport
+CYTR	赛特科科技
+CYTX	赛托瑞医疗
+CZNC	市民北方
+DAIO	Data I/O
+DARE	Dare Bioscience
+DCTH	迪卡斯
+DELT	江苏长三角精细化工
+DENN	丹尼快餐店
+DFBG	Differential Brands
+DFFN	Diffusion
+DGLT	Digiliti Money Group
+DGLY	Digital Ally
+DJCO	日报期刊
+DLHC	DLH控股
+DMPI	德尔玛制药
+DNBF	DNB金融
+DRIO	DarioHealth
+DRWI	龙波
+DRYS	干船
+DSKE	Daseke
+DTRM	Determine
+DVAX	Dynavax Technologies
+DVCR	Diversicare医疗服务
+DWCH	Datawatch
+DXTR	Dextera Surgical
+DYNT	Dynatronics
+DYSL	Dynasil of America
+DZSI	DASAN Zhone
+EACQ	东风收购
+EAGL	双鹰收购
+EFBI	Eagle Financial
+EFOI	核心能源
+EGAN	eGain
+EGBN	伊格尔合众银行
+EKSO	Ekso Bionics
+ELEC	电金特收购
+ELSE	伊莱克森
+ELTK	Eltek
+EMCF	恩克莱尔金融
+ENG	ENG环球
+ENT	全球鹰娱乐公司
+EPIX	Essa制药
+EQFN	Equitable Financial
+ESBK	埃尔迈拉储蓄银行
+ESEA	欧海
+ESES	Eco-stim能源解决方案
+ESQ	Esquire Financial
+ESXB	社区银行家信托
+ETRM	项由永恒医疗器材
+EVAR	Lombard Medical
+EVOK	Evoke Pharma
+EVOL	进化系统
+EXAS	精密科学
+EYEG	Eyegate制药
+EYES	Second Sight医疗产品
+FALC	飞康软件
+FBIO	Fortress Biotech
+FBSS	Fauquier银行股份
+FCAP	第一资本
+FCCO	第一社区
+FCSC	Fibrocell Science
+FFHL	富维薄膜
+FH	FORM Holdings
+FLIC	长岛第一
+FLL	Full House Resorts
+FMAO	Farmers & Merchants
+FMCI	Forum Merger
+FMNB	Farmers National
+FNJN	Finjan
+FNTE	FinTech Acquisition
+FONR	Fonar
+FORD	福沃德工业
+FORK	富岭环球
+FPAY	Flexshopper
+FRSX	Foresight Autonomous
+FSBC	FSB Bancorp
+FSBW	FS银行
+FSFG	第一储蓄金融集团
+FSNN	Fusion国际电讯
+FUSB	First US Bancshares
+FVE	五星高级生活
+GALE	格拉纳生物制药
+GALT	Galectin治疗
+GCBC	格林县万通金控
+GENE	基因技术
+GEVO	Gevo
+GGAL	加利西亚金融集团
+GIGA	千兆微波
+GIGM	和信超媒体
+GLBS	Globus海运
+GLBZ	格伦伯尼万通金控
+GLMD	Galmed
+GNUS	Genius Brands
+GPAC	全球合作收购
+GPIA	Gp投资收购
+GRBK	Green Brick
+GROW	美国全球投资者
+GRVY	重力商业
+GSHT	Gores Holdings II
+GSVC	Gsv Capital
+GTIM	恋上餐厅
+GTXI	GTx
+GTYH	GTY Technology
+GWGH	GWG Holdings
+GYRO	Gyrodyne
+HBK	汉密尔顿银行
+HBMD	Howard Bancorp
+HBP	Huttig Building
+HDSN	哈德森科技
+HEBT	希伯伦科技
+HFBL	Home Federal Bancorp
+HGSH	汉广厦房地产
+HIHO	骇维金属加工控股
+HMNY	Helios and Matheson
+HMTA	Hometown Bankshares
+HNH	Handy & Harman
+HNNA	Hennessy Advisors
+HNRG	Hallador能源
+HOTR	Chanticleer
+HRTX	Heron Therapeutics
+HSGX	Histogenics
+HSKA	赫斯卡医疗
+HTBX	热生物制剂
+HTGM	Htg分子诊断
+HUNT	Hunter Maritime
+HVBC	HV Bancorp
+ICAD	iCAD
+ICCC	伊芙美尔医疗
+ICCH	ICC Holdings
+IDRA	井寺制药
+IDSA	美国工业服务
+IDXG	Interpace诊断
+IFMK	iFresh
+IFON	InfoSonics
+IKNX	Ikonics
+IMMY	Imprimis制药
+IMNP	Immune制药
+IMRN	Immuron
+INPX	Inpixon
+INSE	Inspired
+INTG	The Intergroup
+INVE	单片机微系统
+IOTS	Adesto Technologies
+IPCI	智能医药国际
+IPDN	专业多样网络
+IPWR	Ideal Power
+IRMD	Iradimed
+IROQ	IF Bancorp
+ISIG	徽章系统
+ISNS	Image Sensing
+ISRL	Isramco
+ITI	Iteris
+ITUS	ITUS
+IZEA	IZEA
+JAGX	Jaguar动物健康
+JASN	杰森实业
+JCTCF	朱伊特卡梅伦贸易
+JSYN	Jensyn Acquisition
+JTPY	JetPay
+JVA	Coffee控股
+JXSB	Jacksonville Bancorp
+JYNT	The Joint
+KAAC	Kayne Anderson
+KBLM	KBL Merger IV
+KBSF	KBS服饰集团
+KERX	克律克斯生物制药
+KGJI	金凰珠宝
+KIN	Kindred Biosciences
+KINS	金石公司
+KONE	联合信息
+KOOL	Cesca Therapeutics
+KOSS	高斯电子
+KTOV	Kitov制药
+LBIX	领导品牌
+LCA	Landcadia Holdings
+LCNB	LCNB
+LE	Lands'End
+LEDS	旭明光电
+LFVN	Lifevantage
+LIND	Lindblad
+LINK	互联电子
+LINU	LiNiu科技
+LIVE	Live Ventures
+LJPC	La Jolla制药
+LLIT	联络智能
+LMB	Limbach Holdings
+LMFA	Lm Funding America
+LOAN	曼哈顿大桥投资股份
+LPCN	Lipocine
+LPTH	光路技术
+LRAD	LRAD
+LTBR	Lightbridge
+LTEA	长岛冰茶
+LTRX	创力
+LUNA	Luna创新
+MACQ	M I Acquisitions
+MAMS	Mam Software
+MARA	Marathon Patent
+MARK	Remark控股
+MARPS	海洋石油信托
+MAYS	J.W. Mays
+MBCN	Middlefield Banc
+MBII	马罗尼生物创新
+MBOT	Microbot Medical
+MBRX	Moleculin Biotech
+MBVX	Mabvax Therapeutics
+MDGL	新泰医药
+MDGS	Medigus
+MDVX	Medovex
+MDXG	Mimedx Group
+MEET	Meet Group
+MEIP	美制药
+MELR	Melrose Bancorp
+MFNC	麦基诺金融
+MGCD	MGC诊断
+MGEN	Miragen Therapeutics
+MICT	微网依内太克科技
+MIII	M III Acquisition
+MITK	Mitek系统
+MMAC	MMA投资管理
+MMDM	Modern Media
+MNGA	Magnegas
+MNTX	摩尼综合机械
+MOSY	正一科技
+MOTA	Mota Group
+MOXC	魔线
+MPAC	Matlin & Partners
+MRDN	Meridian Waste
+MRTX	Mirati Therapeutics
+MRVC	MRV Communications
+MSDI	Monster Digital
+MTBC	医疗转录计费
+MTBCP	医疗转录计费A类优先
+MTEM	Molecular Templates
+MTFB	Motif Bio
+MTP	Midatech Pharma
+MTSL	Mer Telemanagement
+MYND	MYnd Analytics
+MYOS	MYOS RENS Technology
+MYSZ	My Size
+NAKD	Naked Brand Group
+NATR	天然阳光产品
+NBEV	New Age Beverages
+NCBS	Nicolet Bankshares
+NDRA	Endra Life Sciences
+NEO	Neogenomics
+NEON	Neonode
+NEOT	Neothetics
+NEPT	海王星科技
+NESR	国家能源服务
+NETE	网元
+NEWA	金正环保
+NEXT	NextDecade
+NFEC	能发伟业
+NHLD	国家控股
+NHTC	天然健康指数
+NKSH	国家银行
+NLST	网表
+NNDM	Nano Dimension
+NODK	NI Holdings
+NSYS	诺泰克电子
+NTEC	Intec Pharma
+NTRP	Neurotrope
+NTWK	奈特阳科技
+NURO	神经矩阵医疗
+NVCN	Neovasc
+NVEC	NVE科技
+NVEE	NV5 Global
+NVGN	诺维金
+NVUS	Novus Therapeutics
+NXEO	Nexeo Solutions
+NXTD	Nxt-ID
+NYMX	耐莫斯制药
+OACQ	Origo Acquisition
+OASM	Oasmia药业
+OBCI	海洋生化
+OESX	猎户能源系统
+OFED	Oconee联邦金融
+OHGI	One Horizon Group
+OHRP	Ohr制药
+OLBK	欧德兰银行
+OMEX	奥德赛海洋探索
+OMNT	Ominto
+ONCS	OncoSec医疗
+ONTX	Onconova医疗
+ONVI	Onvia
+OPGN	OpGen
+OPHC	合宜银行控股
+OPOF	Old Point金融
+OPTT	海洋动力科技
+OPXA	欧普萨医疗
+ORMP	Oramed制药
+ORPN	Bioblast Pharma
+ORRF	奥斯城金融服务
+OSN	奥盛创新
+OTEL	Otelco
+OTIV	正轨科技创新
+OTTW	Ottawa Bancorp
+OVLY	橡木谷银行
+OXBR	Oxbridge Re
+PAAC	太平洋特种收购
+PANL	盘古物流解决方案
+PAVM	PAVmed
+PBBI	PB Bancorp
+PBHC	探路者合众银行
+PBIB	波特合众银行
+PBNC	Paragon商业
+PBSK	Poage Bankshares
+PCO	Pendrell
+PCOM	Points国际
+PCSB	PCSB Financial
+PCYG	Park City Group
+PCYO	Pure Cycle
+PDEX	Pro-Dex
+PDVW	pdvWireless
+PEIX	太平洋乙醇
+PERF	彭福马尼亚控股
+PESI	佩尔马福克斯环境服务
+PFBX	人民金融
+PFIE	Profire Energy
+PFSW	PFS网络
+PIRS	Pieris制药
+PIXY	Shiftpixy
+PKBK	帕克合众银行
+PLBC	普卢默斯合众银行
+PLPM	Planet Payment
+PLSE	脉冲生物科学
+PLUG	普拉格能源
+PLXP	PLx Pharma
+PMD	Psychemedics
+PME	平潭海洋
+PNRG	青春能源
+PNTR	Pointer Telocation
+POLA	Polar Power
+POPE	波普资源
+PPHM	佩莱格林制药
+PPHMP	佩莱格林制药E类优先
+PPSI	先驱电气
+PRAN	Prana Biotechnology
+PRKR	Parkervision
+PRPH	ProPhase实验室
+PRPO	Precipio
+PSTI	Pluristem
+PUB	People's Utah
+PVBC	Provident Bancorp
+PXS	Pyxis Tankers
+PYDS	支付数据系统
+PZRX	Phaserx
+QBAK	柯斯达
+QRHC	Quest Resource控股
+RADA	拉达电子工业
+RAND	兰德资本
+RAVE	狂欢餐饮集团
+RBCN	Rubicon Technology
+RCM	R1 RCM
+RCON	研控科技
+RDCM	RADCOM
+RDHL	Redhill Biopharma
+RDI	全球阅读A
+RDIB	全球阅读B
+REFR	前沿研究
+RELV	Reliv国际制药
+REPH	Recro制药
+RESN	Resonant
+REXX	雷克斯能源
+RGSE	实物太阳能
+RIBT	米糠科技
+RKDA	阿凯迪亚生物科学
+RLJE	Rlj Entertainment
+RLOG	蓝德物流
+RMGN	RMG网络控股
+RMR	The Rmr Group
+RNVA	Rennova Health
+ROSE	Rosehill Resources
+ROSG	罗塞塔基因制药
+RPRX	雷伯雷斯治疗
+RTK	Rentech
+RTNB	root9B Holdings
+RTTR	里特制药
+RVEN	Reven Housing Reit
+RVLT	Revolution Lighting
+RWLK	ReWalk Robotics
+RXDX	Ignyta
+RXII	Rxi Pharmaceuticals
+SAL	Salisbury银行
+SANW	S&W Seed
+SAUC	Diversified饭店
+SBCP	Sunshine Bancorp
+SBFG	SB金融
+SBFGP	SB金融存托优先
+SBOT	恒星生物技术
+SBPH	Spring Bank制药
+SCAC	Saban资本收购
+SCKT	SOCKET移动
+SCON	超导技术
+SELF	全球自存储
+SEV	Sevcon
+SFBC	Sound Financial银行
+SGBX	SG Blocks
+SGLB	Sigma Labs
+SGMA	喜玛庆国际
+SGOC	上为集团
+SGRP	SPAR商业服务集团
+SHIP	Seanergy海事控股
+SHOS	西尔斯家乡和奥特莱斯
+SHSP	SharpSpring
+SIEB	西伯特金融
+SIFY	思飞科技
+SINO	中环球船务
+SITO	Sito移动
+SKLN	天际线医疗
+SKYS	天华阳光
+SLNO	Soleno Therapeutics
+SLP	Simulations Plus
+SMBK	Smartfinancial
+SMED	Sharps Compliance
+SMIT	施密特工业
+SMMF	萨米特银行
+SMPL	Simply Good Foods
+SMSI	史密斯微软件
+SNES	SenesTech
+SNGX	Soligenix
+SNOA	Sonoma
+SNSS	Sunesis制药
+SOFO	索尼克铸造科技
+SPCB	Supercom
+SPEX	芬里克斯生物
+SPHS	Sophiris Bio
+SPNS	智人国际
+SPRT	在线赞助
+SQBG	Sequential Brands
+SRAX	Social Reality
+SRNE	索伦托医疗
+SRTS	申舒斯医疗保健
+SRUN	Silver Run
+SSC	优点互动
+SSFN	Stewardship银行
+SSKN	STRATA Skin Sciences
+SSNT	Silversun
+SSTI	Shotspotter
+STAF	Staffing 360
+STBZ	State Bank Financial
+STKS	The One
+STLR	Stellar Acquisition
+STML	Stemline医疗
+STRM	流线保健
+SUMR	夏婴
+SUNW	Sunworks
+SVBI	塞弗恩银行
+SVRA	Savara
+SYMX	综合能源
+TACO	Del Taco Restaurants
+TAIT	Taitron电子配件
+TANH	碳博士控股
+TAYD	泰勒设备
+TCCO	Technical通信
+TCFC	社区金融
+TCX	Tucows
+TEAR	TearLab
+TELL	Tellurian
+TENX	Tenax Therapeutics
+TGEN	Tecogen
+TGLS	Tecnoglass
+TGTX	TG治疗
+THST	Truett-Hurst
+TIPT	Tiptree
+TISA	热门图像系统
+TOPS	超轮海运
+TORM	TOR矿物国际
+TPIV	Tapimmune
+TRCH	炬光能源
+TRIL	延龄草治疗
+TROV	Trovagene
+TRPX	Therapix Biosciences
+TSRI	TSR软件
+TST	TheStreet
+TTNP	Titan制药
+TWNK	Hostess Brands
+TYHT	尚高
+TYME	Tyme科技
+UBCP	联合合众银行
+UFPT	UFP技术
+UIHC	United Insurance控股
+UNXL	统一像素
+UONE	Urban One
+UONEK	Urban OneD类普通
+URRE	铀资源开发
+USAU	U.S. Gold
+USCR	U.S. Concrete
+USEG	美国能源
+VALU	Value Line
+VBFC	农村金融信托银行
+VBIV	VBI Vaccines
+VCEL	Vericel
+VDSI	瓦斯科数据安全
+VEAC	Vantage Energy
+VERU	Veru
+VICL	伟科
+VIVE	Viveve Medical
+VKTX	Viking Therapeutics
+VLRX	Valeritas Holdings
+VRML	Vermillion
+VTGN	Vistagen
+VTNR	顶点能源
+VUZI	Vuzix
+VVPR	VivoPower
+WATT	Energous
+WBB	Westbury Bancorp
+WBKC	Wolverine银行
+WCFB	WCF Bancorp
+WEBK	Wellesley银行
+WFBI	WashingtonFirst
+WHLM	Wilhelmina国际
+WHLR	Wheeler房产投资信托
+WHLRD	Wheeler房产优先D
+WHLRP	Wheeler房产优先B
+WILC	G. Will食品国际
+WINS	稳盛金融
+WKHS	Workhorse集团
+WMIH	WMIH
+WPCS	WPCS国际
+WRLS	Pensare Acquisition
+WSCI	WSI Industries
+WSTL	韦斯特尔科技
+WVVI	维拉美特酒庄
+WVVIP	维拉美特酒庄优先
+WYIG	JM环球控股
+WYIGU	Jm环球控股
+XBIO	Xenetic Biosciences
+XELA	Exela Technologies
+XGTI	xG科技
+XPLR	Xplore Technologies
+XTLB	Xtl生物制药
+YERR	长江发展
+YGYI	Youngevity国际
+YTEN	Yield10 Bioscience
+YTRA	Yatra Online
+ZAIS	ZAIS Group Holdings
+ZIOP	ZIOPHARM肿瘤
+ZSAN	Zosano Pharma
+AAAP	Advanced Accelerator
+AABA	Altaba
+AAL	美国航空
+AAME	美国大西洋
+AAOI	应用光电
+AAON	艾伦建材
+AAPL	苹果
+AAWW	阿特拉斯环球航空
+AAXJ	亚洲非日国家指数ETF
+AAXN	Axon Enterprise
+ABAX	亚贝克希斯
+ABCB	ABC银行集团
+ABCO	艾瑞博德
+ABMD	阿比奥梅德
+ABTX	Allegiance
+ABUS	Arbutus生物制药
+ABY	Atlantica Yield
+ACAD	阿卡迪亚
+ACBI	Atlantic Capital
+ACET	艾切托
+ACFC	大西洋沿岸金融
+ACGL	艾奇资本
+ACGLP	艾奇资本优先
+ACHC	阿卡迪亚医疗保健
+ACHN	爱克莱恩
+ACIA	相思通信
+ACIU	AC Immune
+ACIW	ACI环球
+ACLS	亚舍立科技
+ACOR	阿索尔达治疗
+ACRS	Aclaris Therapeutics
+ACRX	AcelRx制药
+ACSF	美国资本高级浮动
+ACTA	Actua
+ACTG	阿卡西亚
+ACTX	股东积极行动ETF
+ACWI	MSCI所有国家指数ETF
+ACWX	所有国家非美指数ETF
+ACXM	艾克希姆
+ADAP	Adaptimmune治疗
+ADBE	奥多比系统
+ADES	Advanced Emissions
+ADHD	Alcobra
+ADI	亚德诺半导体
+ADMS	Adamas
+ADP	自动数据处理
+ADRA	亚洲50 ADR指数
+ADRD	发达市场100 ADR指数
+ADRE	新兴市场50 ADR指数
+ADRO	Aduro Biotech
+ADRU	欧洲100Adr指数ETF
+ADSK	欧特克
+ADTN	亚川
+ADUS	爱德斯
+ADVM	Adverum生物科技
+ADXS	Advaxis
+AEGN	Aegion
+AEIS	领先能源工业
+AERI	Aerie
+AEY	先进科技
+AFAM	阿莫斯特家庭保健
+AFH	阿特拉斯金融控股
+AFMD	Affimed
+AFSI	AFSI保险
+AGFS	AgroFresh Solutions
+AGII	Argo集团国际控股
+AGIO	Agios制药
+AGLE	Aeglea生物制药
+AGNC	AGNC Investment
+AGNCB	AGNC投资优先B
+AGNCP	AGNC Investment Pr A
+AGND	对冲美国负五期指数
+AGRX	Agile Therapeutics
+AGTC	Applied Genetic
+AGYS	阿吉赛斯
+AGZD	美国综合债券负期基金
+AHGP	阿莱恩斯控股
+AIA	亚洲50指数ETF
+AIMC	Altra Industrial
+AIMT	Aimmune治疗
+AINV	阿波罗投资
+AIQ	阿莱恩斯保健服务
+AIRR	美国工业复兴指数
+AKAM	阿卡迈科技
+AKAO	Achaogen
+AKBA	Akebia Therapeutics
+AKCA	Akcea治疗
+AKRX	爱克龙药业
+ALCO	阿里科
+ALDR	Alder
+ALGN	艾利科技
+ALGT	忠实航空
+ALIM	Alimera医疗科学
+ALJJ	ALJ Regional
+ALKS	阿尔凯默斯
+ALLT	艾奥特通讯
+ALNY	阿里拉姆制药
+ALOG	Analogic
+ALOT	AstroNova
+ALPN	Alpine Immune
+ALRM	Alarm.com控股
+ALRN	Aileron Therapeutics
+ALSK	阿拉斯加通信系统
+ALT	Altimmune
+ALTY	超级股息替代指数ETF
+ALXN	亚力兄制药
+AMAG	Amag制药
+AMAT	应用材料
+AMBA	安霸
+AMBC	Ambac Financial
+AMCN	航美传媒
+AMCX	AMC网络
+AMED	阿米斯医疗
+AMGN	安进
+AMKR	艾克尔科技
+AMNB	美国国家银行股份
+AMOT	Allied Motion科技
+AMPH	Amphastar
+AMRB	里弗银行
+AMRI	奥尔巴尼
+AMRK	A-mark Precious
+AMRN	阿玛琳
+AMRS	Amyris生物科技
+AMSC	美国超导
+AMSF	Amerisafe
+AMSWA	美国软件
+AMTD	TD Ameritrade
+AMTX	Aemetis
+AMWD	伍德马克
+AMZN	亚马逊
+ANAB	AnaptysBio
+ANAT	美国国家保险
+ANCB	Anchor Bancorp
+ANCX	Access银行
+ANDE	安德松斯
+ANGI	Angie's List
+ANGO	盎格鲁力学
+ANIK	阿尼哥医疗
+ANIP	阿尼制药
+ANSS	安斯科技
+ANTH	Anthera制药
+AOBC	美国户外品牌
+AOSL	万国半导体
+APEI	美国公共教育
+APEN	Apollo Endosurgery
+APLP	Archrock Partners
+APOG	爱宝奇
+APPF	Appfolio
+APPN	Appian
+APTI	Apptio
+APVO	Aptevo Therapeutics
+APWC	亚太电线电缆
+AQXP	Aquinox制药
+ARAY	艾柯雷
+ARCB	ArcBest
+ARCC	阿瑞斯资本
+ARDX	Ardelyx
+AREX	Approach资源
+ARGS	Argos医疗
+ARGX	argenx
+ARII	美国有轨车工业
+ARKR	方舟餐厅
+ARLP	阿莱恩斯资源
+ARLZ	Aralez制药
+ARNA	阿里纳制药
+AROW	箭牌金融
+ARQL	Arqule
+ARRS	Arris International
+ARRY	Array生物制药
+ARTNA	自流井
+ARTX	阿罗特克
+ARWR	箭头制药
+ASBB	Asb Bancorp
+ASCMA	艾森媒体集团
+ASET	实物资产分配指数ETF
+ASFI	艾斯塔基金公司
+ASML	阿斯麦
+ASNA	Ascena Retail Group
+ASND	Ascendis制药
+ASPS	Altisource Portfolio
+ASRV	美斯夫银行
+ASTE	雅达电子工业
+ASYS	阿姆科技
+ATAI	Ata
+ATAX	美国第一多户家庭投资
+ATEC	阿尔法泰克控股
+ATHN	阿森纳
+ATLC	Atlanticus Holdings
+ATNI	ATN International
+ATNX	Athenex
+ATRA	Atara生物治疗
+ATRC	AtriCure
+ATRI	Atrion
+ATRO	太空电子
+ATSG	航空运输服务
+ATVI	动视暴雪
+AUBN	奥本银行
+AUDC	奥科
+AUPH	Aurinia制药
+AVAV	航空环境
+AVDL	Avadel制药
+AVGO	博通
+AVGR	Avinger
+AVHI	阿凡达控股
+AVID	艾维科技
+AVIR	Aviragen
+AVNW	Aviat网络
+AVXS	Avexis
+AWRE	Aware
+AXSM	Axsome Therapeutics
+AXTI	AXT
+AZPN	Aspen技术
+BABY	纳图斯医疗
+BANF	BancFirst银行
+BANR	邦纳
+BATRA	Liberty Braves A
+BATRK	Liberty Braves C
+BBBY	万能卫浴
+BBC	生物技术临床试验指数
+BBGI	比斯利广播
+BBH	MVIS美国上市生物技术
+BBOX	黑盒子科技
+BBP	生物技术产品指数
+BBRG	Bravo Brio饭店
+BBRY	黑莓
+BBSI	巴雷特商业服务
+BCBP	BCB银行
+BCOM	B通讯
+BCOR	Blucora
+BCOV	Brightcove
+BCPC	柏尔肯
+BCRX	Biocryst医药
+BDE	黑钻石
+BDGE	Bridge银行
+BEAT	生物遥测
+BECN	比肯鲁夫
+BELFA	贝尔保险丝A
+BELFB	贝尔保险丝B
+BFIN	BankFinancial
+BFIT	Indxx全球健康与养生
+BGCP	BGC Partners
+BGFV	Big 5体育用品
+BGNE	百济神州
+BHBK	Blue Hills Bancorp
+BHF	Brighthouse
+BIB	生物技术指数两倍做多
+BICK	信息安全工程BICK指数
+BIDU	百度
+BIIB	生化基因
+BIOS	拜尔斯普保健
+BIS	生物技术指数两倍做空
+BIVV	Bioverativ
+BJRI	Bjs餐饮
+BKCC	黑岩凯尔索资本
+BKEP	Blueknight
+BKEPP	Blueknight优先
+BKMU	互助银行
+BL	BlackLine
+BLBD	Blue Bird
+BLCM	Bellicum制药
+BLDP	巴拉德动力系统
+BLDR	Builders Firstsource
+BLKB	布莱克波特科技
+BLMN	Bloomin'Brands
+BLPH	柏勒罗丰治疗
+BLUE	bluebird bio
+BMCH	BMC Stock Holdings
+BMLA	LatAm选择领先指数ETF
+BMLP	DWA MLP选择指数
+BMRN	拜玛林制药
+BMTC	布林摩尔银行
+BNCL	Beneficial Bancorp
+BNDX	全球国际债券ETF
+BNFT	集益软件
+BOBE	鲍勃·埃文斯农场
+BOCH	科默斯银行控股
+BOFI	BofI控股
+BOJA	Bojangles
+BOKF	BOK银行
+BOLD	Audentes
+BONT	邦顿百货
+BOOM	DMC Global
+BOTZ	全球机器人与人工智能
+BPFH	波士顿金融控股
+BPFHP	波士顿金融控股存优
+BPMC	蓝图医药
+BPOP	大众银行
+BPRN	Princeton银行
+BRCD	博科通信
+BREW	工艺酿酒联盟
+BRID	Bridgford食品
+BRKL	布鲁克赖恩银行
+BRKR	Bruker
+BRKS	布鲁克斯自动化
+BSET	巴西特家具
+BSF	Bear State Financial
+BSFT	BroadSoft
+BSQR	BSQUARE科技
+BSRR	塞拉银行
+BSTC	BioSpecifics生物
+BTEC	纳斯达克医疗保健创新
+BUFF	蓝爵宠物用品
+BUR	Burcon NutraScience
+BUSE	布西第一银行
+BV	Bazaarvoice
+BVSN	宏道资讯
+BWFG	Bankwell Financial
+BWINA	鲍德温与里昂A
+BWINB	鲍德温与里昂B
+BWLD	布法罗鸡翅烧烤吧
+BZUN	宝尊电商
+CA	国际联合电脑
+CAC	卡姆登国家银行
+CACC	Credit Acceptance
+CACG	ClearBridge所有成长
+CACQ	凯撒收购
+CAFD	8point3 Energy
+CAKE	起司工坊
+CALA	Calithera生物科学
+CALD	卡利都斯软件
+CALL	Magicjack Vocaltec
+CALM	卡尔梅尔食品
+CAMP	Calamp
+CAMT	Camtek
+CAR	安飞士
+CARA	Cara Therapeutics
+CARB	Carbonite
+CARZ	纳斯达克全球汽车指数
+CASC	Cascadian治疗
+CASH	米塔金融
+CASS	卡斯信息系统
+CASY	凯西通用零售
+CATB	缓解制药
+CATH	标普500天主教价值ETF
+CATM	Cardtronics
+CATY	国泰万通金控
+CAVM	卡姆网络
+CBAK	CBAK能源科技
+CBAN	科勒尼
+CBF	首都银行金融
+CBFV	CB金融服务
+CBMG	Cellular Biomedicine
+CBOE	芝加哥期权交易所
+CBPO	泰邦生物
+CBRL	CB乡村店
+CBSH	科默斯银行
+CBSHP	科默斯银行优先
+CCBG	都市银行集团
+CCIH	蓝汛
+CCLP	CSI Compressco
+CCMP	卡博特微电子
+CCNE	CNB金融
+CCOI	Cogent通讯
+CCRN	越野保健
+CCUR	并行计算机
+CCXI	ChemoCentryx
+CDC	高股息100长/现货波动
+CDK	CDK Global
+CDL	美大盘股高波动性加权
+CDNA	CareDx
+CDNS	卡得斯设计规划
+CDTX	Cidara Therapeutics
+CDW	CDW
+CDXS	Codexis
+CDZI	加的斯
+CECE	CECO环保
+CECO	职业教育
+CELG	新基医药
+CEMP	Cempra
+CENT	中央花园和宠物
+CENTA	中央花园和宠物A
+CENX	世纪铝业
+CERN	塞纳
+CERS	Cerus
+CETV	中欧媒体
+CEVA	基华物流
+CEZ	新兴市场500波动加权
+CFA	美国大型500波动加权
+CFFI	C&F金融
+CFFN	国会大厦联储
+CFMS	ConforMIS
+CFNB	California First
+CFO	美国大型500增强波动
+CG	凯雷集团
+CGEN	Compugen医疗
+CGNX	康耐视科技
+CHCO	城市控股
+CHDN	邱吉尔园
+CHEF	厨师的仓库
+CHFC	化学金融
+CHKE	切诺基
+CHKP	Check Point软件
+CHMA	Chiasma
+CHMG	Chemung Financial
+CHRS	Coherus生物科技
+CHRW	罗宾逊全球物流
+CHSCL	CHS优先B4
+CHSCM	CHS优先B3
+CHSCN	CHS优先B2
+CHSCO	CHS优先B1
+CHSCP	CHS优先
+CHTR	Charter通信
+CHUBA	CommerceHub A
+CHUBK	CommerceHub C
+CHUY	Chuy's Holdings
+CIBR	纳斯达克网络安全ETF
+CID	高股息100波动加权
+CIDM	Cinedigm
+CIFS	圣盈信
+CIGI	高力国际集团
+CIL	国际500波动加权指数
+CINF	辛辛那提金融
+CIU	美国中间信用债券指数
+CIZ	500长期/现金波动加权
+CIZN	市民金融控股
+CLCT	环球收藏者
+CLDX	塞德斯医疗
+CLFD	克利尔菲尔德
+CLLS	Cellectis
+CLMT	卡路美
+CLNE	清洁能源
+CLSD	Clearside生物医学
+CLUB	汤姆运动国际控股
+CLVS	Clovis肿瘤药物
+CLXT	Calyxt
+CMCO	哥伦布-麦金农
+CMCSA	康卡斯特A
+CMCT	CIM商业信托
+CME	芝加哥商业交易所
+CMFN	CM金融
+CMPR	Cimpress
+CMRX	Chimerix
+CMTA	Clementia制药
+CMTL	Comtech
+CNAT	中大制药
+CNBKA	世纪银行
+CNCE	Concert
+CNCR	癌症免疫治疗指数ETF
+CNFR	康年控股
+CNMD	康美
+CNOB	ConnectOne
+CNSL	联合通讯
+CNTF	泰克飞石无线技术
+CNXN	PC联络商务
+CNXR	Connecture
+COBZ	CoBiz银行
+COGT	康源
+COHR	Coherent
+COHU	科休半导体
+COKE	可口可乐装瓶
+COLB	哥伦比亚银行系统
+COLL	Collegium制药
+COLM	哥伦比亚时装
+COMM	康普
+COMT	商品选择策略ETF
+CONE	Cyrusone
+CONN	科恩
+CORE	科尔.马克控股
+CORI	Corium International
+COST	好市多
+COUP	Coupa Software
+COWN	Cowen
+CPHC	坎特伯雷帕克控股
+CPIX	坎伯兰药业
+CPLA	卡佩拉教育
+CPLP	Capital Product
+CPRT	Copart
+CPSI	计算机程序和系统
+CPSS	消费信贷组合服务
+CPTA	Capitala金融
+CRAI	CRA国际
+CRAY	克雷科技
+CRBP	Corbus制药控股
+CRDT	战略企业债券基金
+CRED	美国信用债券指数
+CREE	克里科技
+CRESY	Cresud
+CRIS	居里
+CRMT	美国汽车行
+CRNT	Ceragon网络
+CROX	卡骆驰
+CRSP	CRISPR Therapeutics
+CRTO	Criteo
+CRUS	凌云半导体
+CRVL	CorVel
+CRVS	Corvus制药
+CRZO	卡里索油气
+CSA	美小盘股500波动加权
+CSB	美小盘股高息100波动
+CSBK	克利夫顿储蓄
+CSCO	思科系统
+CSF	美小盘股500长期/现金
+CSFL	州立中心银行
+CSGP	科斯塔集团
+CSGS	CSG系统国际
+CSII	泰尔茂心血管系统
+CSIQ	阿特斯
+CSJ	巴克莱美国信用债券
+CSML	美国小盘股指数
+CSOD	Cornerstone Ondemand
+CSPI	CSP
+CSTE	Caesarstone
+CSTR	CapStar金融控股
+CSWC	西南资本
+CSWI	Csw
+CSX	CSX运输
+CTAS	信达思
+CTBI	大众信托合众银行
+CTG	计算机作业集团
+CTHR	诗思（香港）
+CTMX	CytomX医疗
+CTRE	房地产投资信托基金
+CTRL	Control4
+CTRN	Citi Trends
+CTRP	携程
+CTSH	高知特信息技术
+CTWS	康涅狄格水服务
+CTXS	思杰系统
+CUTR	古特拉
+CVBF	CVB金融
+CVCO	卡寇工业
+CVGI	商用汽车
+CVGW	卡拉沃养殖
+CVLT	康沃系统
+CVLY	科多勒斯谷万通金控
+CVO	森维欧
+CVTI	契诺货运
+CWBC	西部社区银行
+CWCO	统一水务
+CWST	卡塞拉废物系统
+CXDC	鑫达集团
+CXRX	协和国际
+CXSE	中国企业指数ETF
+CY	赛普拉斯半导体
+CYAD	Celyad
+CYBE	数码光学科技
+CYBR	CyberArk Software
+CYOU	畅游
+CYTK	细胞动力科技
+CZFC	第一民众集团
+CZR	凯撒娱乐
+CZWI	市民大众
+DAKT	Daktronics
+DAVE	美国著名戴夫
+DAX	法兰克福指数ETF
+DBVT	Dbv Technologies
+DCIX	戴安娜集装箱船
+DCOM	迪募社区银行
+DDBI	发展非美国多元化指数
+DEPO	Depomed
+DERM	Dermira
+DEST	Destination
+DFNL	戴维斯选择金融ETF
+DFRG	Del Frisco'S
+DFVL	铅价指数ETN
+DFVS	5Y国债期货暴露做空
+DGAS	德尔塔天然气
+DGICA	多尼戈尔股份A
+DGICB	多尼戈尔股份B
+DGII	美国迪进国际
+DGLD	标普GSCI黄金三倍做空
+DGRE	新兴市场优质红利增长
+DGRS	美国小盘优质红利增长
+DGRW	美国优质股息增长指数
+DHIL	钻石山投资集团
+DIOD	Diodes
+DISCA	探索传播A
+DISCB	探索传播B
+DISCK	探索传播C
+DISH	视频网络
+DLBL	国债期货目标暴露指数
+DLBS	棉花指数ETN
+DLTH	德卢斯控股
+DLTR	美元树
+DMLP	多尔切斯特
+DMRC	数字标识
+DMTX	Dimension
+DNKN	唐恩都乐
+DORM	Dorman
+DOVA	Dova制药
+DOX	Amdocs
+DRAD	Digirad
+DRNA	Dicerna制药
+DRRX	Durect
+DSGX	笛卡尔物流系统集团
+DSLV	银指数每日三倍做空
+DSPG	DSP集团
+DSWL	德斯维尔实业
+DTEA	DAVIDsTEA
+DTUL	2Y国债期货目标暴露
+DTUS	美国2年国债期货做空
+DTYL	美国10年国债期货做多
+DTYS	美国10年国债期货做空
+DUSA	戴维斯选择美国股票
+DVY	道琼斯美国精选股息
+DWAC	商品轮换策略ETF
+DWAQ	纳斯达克动态投资组合
+DWAS	小盘动态组合ETF
+DWAT	投资信托DWA战术ETF
+DWFI	DW固定收益分配指数
+DWIN	战术多资产收益组合
+DWLD	戴维斯选择全球ETF
+DWLV	多因素全球股票指数
+DWSN	道森地探
+DWTR	Tactical Sector旋转
+DXCM	德康医疗
+DXGE	德国对冲股票指数
+DXJS	日本小盘股对冲股票
+DXLG	目标XL集团
+DXPE	DXP企业
+DXPS	英国对冲股票指数ETF
+DXYN	迪克希
+EA	艺电
+EARS	Auris Medical
+EBAY	eBay
+EBIO	Eleven生物制药
+EBIX	亚太交换中心
+EBMT	Eagle Bancorp
+EBSB	莫里迪恩洲际合众银行
+EBTC	Enterprise Bancorp
+ECHO	Echo Global
+ECOL	美国生态
+ECPG	安可资本集团
+ECYT	Endocyte
+EDAP	EDAP TMS
+EDBI	新兴市场多元化指数
+EDGE	Edge Therapeutics
+EDGW	厄奇沃特科技
+EDIT	Editas Medicine
+EDUC	Educational
+EEFT	嘉银通
+EEI	生态与环境
+EEMA	MSCI新兴市场亚洲指数
+EFAS	MSCI EAFE 50强分红
+EFII	电子影像
+EFSC	企业财务服务
+EGHT	8x8
+EGLE	伊格尔散货航运
+EGLT	Egalet
+EGOV	Nic
+EGRX	Eagle
+EHTH	eHealth
+EIGI	耐力国际控股集团
+EIGR	Eiger
+ELGX	恩多勒吉克斯
+ELON	埃斯朗
+EMB	EMBI全球核心指数ETF
+EMCB	新兴市场公司债券基金
+EMCG	新兴市场消费者增长
+EMCI	易安信保险集团
+EMIF	标普新兴市场基础设施
+EMITF	Elbit Imaging
+EMKR	埃姆科
+EML	The Eastern
+EMMS	艾米斯传播
+EMXC	iShares MSCI新兴市场
+ENDP	远藤制药
+ENFC	Entegra金融
+ENPH	Enphase能源
+ENSG	旗帜集团
+ENTA	Enanta制药
+ENTG	英特格
+ENTL	Entellus医疗
+ENZL	新西兰指数IMI25/50
+ENZY	Enzymotec
+EPAY	底线科技
+EPZM	Epizyme
+EQBK	Equity Bancshares
+EQIX	易昆尼克斯
+EQRR	ProShares股票增长率
+ERI	Eldorado Resorts
+ERIC	爱立信
+ERIE	伊瑞保险
+ERII	能源回收
+ESCA	攀登者
+ESG	STOXX美国ESG影响
+ESGD	EAFE ESG焦点指数
+ESGE	新兴市场ESG焦点指数
+ESGG	全球ESG影响指数ETF
+ESGR	恩斯塔集团
+ESGU	MSCI美国ESG焦点指数
+ESIO	电子科技工业
+ESLT	Elbit系统
+ESND	Essendant
+ESPR	Esperion
+ESRX	快捷药方
+ESSA	萨万通金控
+ETFC	E*TRADE金融
+ETSY	Etsy
+EUFN	欧洲金融指数-MSCI
+EVBG	Everbridge
+EVEP	EV能源合作伙伴
+EVGN	Evogene
+EVK	江苏华瑞
+EVLV	EVINE Live
+EWBC	华美集团
+EWZS	MSCI巴西小盘股指数
+EXA	Exa
+EXAC	精技医疗器械
+EXEL	伊克力西斯
+EXFO	EXFO
+EXLS	伊克赛尔服务控股
+EXPD	康捷国际
+EXPE	Expedia
+EXPO	毅博科技咨询
+EXTR	极速网络
+EXXI	Energy Xxi Gulf
+EZPW	艾茨克普
+FAAR	可替代绝对回报策略
+FAB	纳斯达克多头价值指数
+FAD	纳斯达克多头成长指数
+FALN	美国高收益封顶指数
+FANG	Diamondback能源
+FANH	泛华金控
+FARM	Farmer Bros
+FARO	法如科技
+FAST	快扣
+FATE	Fate Therapeutics
+FB	脸谱网
+FBIZ	第一商业金融服务
+FBMS	The First Bancshares
+FBNC	第一万能金控
+FBNK	First Connecticut
+FBZ	阿尔法巴西ETF
+FCA	阿尔法中国ETF
+FCAL	加州市高收入ETF
+FCAN	阿尔法加拿大ETF
+FCBC	第一社区银行股份
+FCCY	第一机构银行
+FCEF	CEF收入机会ETF
+FCEL	燃料电池能源
+FCNCA	第一公民银行股份
+FCVT	战略可转换证券ETF-
+FDEF	第一迪法恩斯金融
+FDIV	战略收入ETF
+FDT	阿尔法非美发达市场
+FDTS	阿尔法新兴市场ETF
+FDUS	Fidus投资
+FEIM	高频电子
+FELE	富兰克林电子
+FEM	AlphaDEX新兴市场指数
+FEMB	新兴市场本地货币债券
+FEMS	阿尔法新兴市场小盘
+FEP	阿尔法欧洲ETF
+FEUZ	阿尔法欧元区ETF
+FEX	阿尔法大盘核心股ETF
+FEYE	火眼
+FFBC	第一金融银行股份
+FFIC	法拉盛金融
+FFIN	第一金融银行
+FFIV	F5网络
+FFKT	农民投资银行集团
+FFNW	第一财经西北
+FFWM	First Foundation
+FGBI	第一抵押银行
+FGEN	纤维蛋白原
+FGM	阿尔法德国ETF
+FHB	First Hawaiian
+FHK	阿尔法香港ETF
+FIBK	First Bancsystem国际
+FINL	终点线
+FINX	INDXX全球金融主题
+FISI	金融机构
+FISV	费哲金融服务
+FITB	五三银行
+FITBI	五三银行I类存托优先
+FITS	健康和健身ETF
+FIVE	Five Below
+FIVN	Five9
+FIXD	第一信托TCW固定收益
+FIZZ	全国饮料
+FJP	阿尔法日本ETF
+FKO	阿尔法韩国ETF
+FKU	阿尔法英国ETF
+FLAG	法务会计长期短期指数
+FLAT	2Y/10Y收益率曲线做空
+FLDM	Fluidigm
+FLEX	Flex
+FLGT	Fulgent Genetics
+FLIR	菲利尔系统
+FLKS	Flex制药
+FLN	拉美洲AlphaDEX  ETF
+FLWS	1-800-FLOWERS.COM
+FLXN	Flexion Therapeutics
+FLXS	弗莱克斯蒂尔工业
+FMB	管理型市场ETF
+FMBH	First Mid-illinois
+FMBI	第一中西部银行
+FMI	Foundation Medicine
+FMK	阿尔法巨盘股ETF
+FNBG	FNB Bancorp
+FNGN	Financial Engines
+FNHC	FEDERATED NATIONAL
+FNK	阿尔法中盘股ETF
+FNLC	第一万通金控
+FNSR	菲尼萨网络通信
+FNWB	First Northwest
+FNX	阿尔法中盘核心股ETF
+FNY	阿尔法中盘成长股ETF
+FOGO	Fogo De Chao
+FOLD	爱美医疗
+FOMX	Foamix
+FONE	纳斯达克智能手机指数
+FORM	FormFactor
+FORR	弗雷斯特研究
+FORTY	配方系统
+FOSL	福斯尔
+FOX	二十一世纪福克斯B
+FOXA	二十一世纪福克斯
+FOXF	福克斯工厂控股
+FPA	阿尔法亚太非日ETF
+FPRX	Five Prime
+FPXI	国际IPO ETF
+FRAN	Francesca'S控股
+FRBA	First Bank
+FRBK	共和国第一万通金控
+FRED	弗雷德
+FRGI	嘉年华酒店集团
+FRME	第一招商股份
+FRPH	FRP Holdings
+FRPT	Freshpet
+FRSH	Papa Murphy's 控股
+FRTA	Forterra
+FSAM	Fifth Street资产管理
+FSBK	第一南方万通金控
+FSC	第五大道金融
+FSFR	五街高级浮动利率
+FSLR	第一太阳能
+FSTR	LB福斯特
+FSV	Firstservice
+FSZ	阿尔法瑞士ETF
+FTA	大额头寸AlphaDEX基金
+FTAG	全球农业ETF
+FTC	大盘成长AlphaDEX基金
+FTCS	纳斯达克资本实力指数
+FTD	FTD Companies
+FTEK	燃料技术
+FTEO	FRONTEO
+FTFT	未来金融科技集团
+FTGC	主动型商品战略ETF
+FTHI	高收入ETF
+FTLB	低贝塔收益ETF
+FTNT	飞塔信息
+FTR	边界通信
+FTRI	全球自然资源收入ETF
+FTSL	高级贷款基金ETF
+FTSM	增强短期到期ETF
+FTW	阿尔法台湾ETF
+FTXD	纳斯达克智能零售指数
+FTXG	纳斯达克智能食品饮料
+FTXH	纳斯达克美国智能药品
+FTXL	纳斯达克半导体指数
+FTXN	纳斯达克智能油气指数
+FTXO	纳斯达克智能银行ETF
+FTXR	纳斯达克智能交通指数
+FUEL	Rocket Fuel
+FULT	富尔顿金融
+FUNC	马里兰第一联合
+FV	多尔西赖特焦点五ETF
+FVC	赖特动态焦点五指数
+FWONA	自由传媒 A
+FWONK	自由传媒 C
+FWP	Forward Pharma
+FWRD	福沃运输
+FYC	阿尔法小盘增长股ET
+FYT	阿尔法小盘价值股ETF
+FYX	纳斯达克小盘核心指数
+GABC	德美银行
+GAIA	Gaia
+GAIN	格拉德斯通投资
+GARS	Garrison资产
+GASS	斯蒂加斯海运
+GBCI	冰川万通金控
+GBDC	Golub Capital BDC
+GBLI	Global Indemnity A
+GBNK	担保银行集团
+GBT	全球血液疗法
+GDEN	黄金娱乐
+GDS	万国数据
+GEC	Great Elm Capital
+GECC	Great Elm Capital
+GEMP	Gemphire治疗
+GENC	范科工业
+GENY	千年机会指数ETF
+GEOS	Geospace
+GERN	杰龙
+GFED	GFED银行
+GFN	General Finance
+GFNCP	通用金融C类优先
+GHDX	基因组健康
+GIFI	海湾岛制造
+GIII	G-III服装集团
+GILD	吉利德科学
+GILT	吉来特卫星网络
+GLAD	Gladstone Capital
+GLADO	格拉德斯通资本优先O
+GLBL	环球实业
+GLBR	Global Brokerage
+GLDD	大湖船坞
+GLDI	黄金看涨ETN
+GLNG	Golar LNG
+GLPG	Galapagos
+GLPI	Gaming And Leisure
+GLRE	绿光资本
+GLUU	Glu移动
+GLYC	Glycomimetics
+GMLP	Golar Lng
+GNBC	Green Bancorp
+GNCA	Genocea Biosciences
+GNCMA	通用通讯
+GNMA	美国GNMA债券指数ETF
+GNMK	GenMark诊断
+GNMX	Aevi Genomic
+GNRX	全球通用 新制药指数
+GNTX	真泰克
+GNTY	Guaranty Bancshares
+GOGL	金海洋集团
+GOGO	Gogo
+GOLD	Randgold资源
+GOOD	格拉德斯通商业
+GOODM	格拉德斯通商业优先D
+GOODO	格拉德斯通商业优先B
+GOODP	格拉德斯通商业优先A
+GOOG	Alphabet C
+GOOGL	Alphabet A
+GOV	GOV基金
+GPIC	国际博彩合伙人
+GPOR	格尔夫波特能源
+GPP	Green Plains
+GPRE	绿色平原
+GPRO	Gopro
+GRFS	GRIFOLS
+GRID	纳斯达克清洁智能电网
+GRIF	格里芬工业地产
+GRMN	佳明
+GRPN	Groupon
+GSBC	南方万通金控
+GSIT	广船国际技术
+GSM	Ferroglobe
+GSOL	环球资源
+GSUM	国双
+GT	固特异轮胎橡胶
+GTHX	G1治疗
+GTLS	查特工业
+GUID	盖登斯软件
+GULF	中东红利指数ETF
+GURE	海湾资源
+GWPH	吉瓦制药
+GWRS	Water Resources
+HA	夏威夷控股
+HABT	The Habit餐饮
+HAFC	韩美金融
+HAIN	海恩时富
+HALL	标志金融服务
+HALO	奥洛兹美医疗
+HAS	孩之宝
+HAWK	黑鹰网络控股A
+HAYN	Haynes International
+HBAN	亨廷顿银行
+HBANN	亨廷顿银行优先C
+HBANO	亨廷顿银行优先存托
+HBANP	亨廷顿银行优先
+HBCP	Home合众银行
+HBHC	汉考克控股银行
+HBIO	哈佛生物科学
+HBNC	哈里逊合众银行
+HCAP	汉威资本信贷
+HCCI	传承水晶清洁
+HCKT	哈克特集团
+HCM	和黄药业
+HCOM	Hawaiian Telcom
+HCSG	医疗保健服务集团
+HDNG	哈丁兄弟
+HDP	Hortonworks
+HDS	HD Supply
+HEAR	乌龟海岸
+HEES	HE设备服务
+HELE	海伦特洛伊家电
+HEWG	德国100％对冲至USD
+HFBC	HopFed银行
+HFWA	传承金融银行
+HIBB	希贝特体育
+HIFS	欣厄姆银行
+HIIQ	Health Insurance
+HIMX	奇景光电
+HLG	海亮教育集团
+HLIT	谐波
+HLNE	Hamilton Lane
+HMHC	霍顿米夫林夏
+HMNF	HMN金融
+HMST	Homestreet
+HMSY	HMS控股
+HMTV	半球传媒集团
+HOFT	胡克家具
+HOLI	和利时自动化
+HOLX	Hologic
+HOMB	首页银行投资
+HONE	Harborone Bancorp
+HOPE	Hope Bancorp
+HOVNP	霍夫纳尼安存托优先
+HPJ	豪鹏国际
+HPT	HPT房产信托
+HQCL	韩华新能源
+HQY	Healthequity
+HRZN	Horizon科技金融
+HSIC	亨利香恩服务
+HSII	海德思哲服务
+HSNI	HSN
+HSON	哈德森全球
+HSTM	健康流科技
+HTBI	Hometrust Bancshares
+HTBK	文物商业
+HTHT	华住
+HTLD	哈特兰快递
+HTLF	哈特兰金融
+HUBG	枢纽
+HURC	赫克
+HURN	休伦咨询集团
+HWBK	Hawthorn Bancshares
+HWCC	休斯顿电线电缆
+HWKN	霍金斯材料
+HYGS	Hydrogenics
+HYLS	Iv First Trust高收益
+HYND	0-5年美国高收益指数
+HYXE	高收益美元债券指数
+HYZD	5年内高收益指数
+HZNP	Horizon制药
+IAC	互动服务
+IART	英特格拉生命科学
+IBB	纳斯达克生物技术指数
+IBCP	独立银行
+IBKC	Iberiabank
+IBKCO	Iberiabank存托优先C
+IBKCP	Iberiabank存托优先B
+IBKR	盈透证券
+IBOC	国际银行
+IBTX	独立银行集团
+IBUY	在线零售ETF
+ICBK	County Bancorp
+ICFI	ICF国际
+ICHR	Ichor Holdings
+ICLN	中国小盘股指数-MSCI
+ICLR	Icon
+ICON	艾康尼斯
+ICPT	Intercept制药
+ICUI	ICU医疗
+IDCC	交叉指型科技
+IDLB	新华富时国际低贝塔
+IDSY	编号系统
+IDTI	集成设备技术
+IDXX	IDEXX实验室
+IEF	国债7-10年债券指数
+IEI	国债3-7年债券指数ETF
+IEP	伊坎企业
+IESC	IES Holdings
+IEUS	欧洲小盘股ETF-Msci
+IFEU	EPRA/NAREIT发展欧洲
+IFGL	除美国外发展房地产
+IFV	赖特国际焦点五指数
+IGF	全球基础设施指数ETF
+IGLD	金线网络
+IGOV	标普花旗国际非美债券
+III	信息服务集团
+IIIN	Insteel Industries
+IIJI	首创网络
+IIN	IntriCon
+IIVI	二六
+IJT	标普600小盘增长指数
+ILG	ILG
+ILMN	Illumina
+IMDZ	Immune Design
+IMED	健康技术指数ETF
+IMGN	ImmunoGen
+IMI	Intermolecular
+IMKTA	安格莱斯市场
+IMMR	浸入科技
+IMMU	Immunomedics
+IMOS	南茂科技
+IMPV	Imperva
+INAP	Internap
+INBK	第一互联网
+INCR	INC 研究控股
+INCY	因塞特医疗
+INDB	美国独立银行
+INDY	印度50ETF--iShares
+INFI	无限制药
+INFN	英飞朗
+INFO	IHS Markit
+INFR	RARE全球基础设施指数
+INGN	Inogen
+INO	Inovio制药
+INOD	Innodata
+INOV	Inovalon控股
+INSG	Inseego
+INSM	Insmed
+INSY	Insys医疗
+INTC	英特尔
+INTL	国际资产控股
+INTU	财捷
+INTX	交叉口
+INVA	亚邦丝医疗
+INWK	Innerworkings
+IONS	伊奥尼斯制药
+IOSP	英诺斯派材料
+IOVA	Iovance
+IPAR	依特香水
+IPAS	iPass
+IPCC	无限保险
+IPGP	IPG光电
+IPHS	Innophos控股
+IPKW	纳斯达克国际指数
+IPXL	Impax制药
+IRBT	iRobot
+IRCP	IRSA Propiedades
+IRDM	铱星通讯
+IRDMB	铱星通讯B优先
+IRIX	艾里德克斯
+IRTC	iRhythm Technologies
+IRWD	Ironwood医药
+ISBC	投资者银行
+ISCA	国际赛道
+ISHG	标普国际债券指数
+ISRG	直觉外科
+ISSC	创新软件
+ISTB	美国通用1-5年指数ETF
+ISTR	Investar Holding
+ITCI	Intra-cellular
+ITEK	Inotek制药
+ITEQ	以色列全球技术指数
+ITIC	投资者不动产
+ITRI	伊管
+ITRN	Ituran定位和控制
+IUSB	巴克莱美国通用指数
+IUSG	罗素3000增长指数
+IUSV	罗素3000价值指数
+IVAC	因特瓦克
+IVTY	Invuity
+IXUS	国家非美可投资市场
+IXYS	IXYS
+JACK	Jack In The Box
+JAKK	Jakks Pacific
+JASO	晶澳太阳能
+JAZZ	爵士制药
+JBHT	JB Hunt运输服务
+JBLU	捷蓝航空
+JBSS	John B. Sanfilippo
+JCOM	J2全球通信
+JCS	通信系统
+JD	京东
+JJSF	JJSF食品
+JKHY	杰克亨利
+JKI	晨星中值指数ETF
+JMBA	然巴
+JMU	众美窝窝
+JNCE	Jounce Therapeutics
+JNP	瞻博制药
+JOBS	前程无忧
+JOUT	约翰逊户外
+JRJC	金融界
+JRVR	詹姆斯河集团控股
+JSMD	阿尔法小/中盘增长ETF
+JSML	阿尔法小盘增长股ETF
+JUNO	Juno Therapeutics
+KALA	Kala制药
+KALU	凯撒铝业
+KALV	KalVista制药
+KANG	爱康国宾
+KBAL	金柏国际
+KBWB	银行投资组合ETF
+KBWD	高股息率金融投资组合
+KBWP	PS KBW P&C Ins
+KBWR	地区银行投资组合ETF
+KBWY	高收益股票投资组合
+KCAP	科尔伯格资本
+KE	金博尔电子
+KELYA	凯利服务A
+KELYB	凯利服务B
+KEQU	基瓦尼科技
+KEYW	KEYW控股
+KFFB	肯塔基第一银行
+KFRC	K力
+KHC	卡夫亨氏
+KIRK	Kirklands家具
+KITE	Kite Pharma
+KLAC	科磊
+KLIC	库力索法半导体
+KLXI	KLX
+KMDA	Kamada
+KMPH	KemPharm
+KNDI	康迪车业
+KNSL	Kinsale Capital
+KONA	科纳烧烤
+KOPN	高平电子
+KPTI	Karyopharm
+KRMA	国家意识指数
+KRNT	Kornit数码
+KRNY	卡尼金融储蓄
+KTCC	Key Tronic
+KTEC	核心技术
+KTOS	克瑞拓斯安全防卫
+KTWO	K2m Group Holdings
+KURA	Kura Oncology
+KVHI	KVH通信
+KWEB	海外中国互联网指数
+LABL	全彩服务
+LAKE	雷克兰医疗工业
+LALT	多策略替代投资组合
+LAMR	拉马尔户外广告
+LANC	兰卡斯特食品
+LAND	格莱斯顿田野
+LARK	兰德马克银行
+LAUR	Laureate Education
+LAWS	劳森产品
+LAYN	莱尼-克里斯滕森工程
+LBAI	拉扎德银行
+LBRDA	Liberty Broadband A
+LBRDK	Liberty Broadband C
+LBTYA	自由全球
+LBTYB	自由全球B类普通
+LBTYK	自由全球C类普通
+LCUT	生活时光品牌家具
+LDRI	0-5年美元公司债券
+LECO	林肯电气控股
+LENS	Presbia
+LEXEA	Liberty Expedia A
+LEXEB	Liberty Expedia B
+LFUS	美国力特保险丝
+LGCY	Legacy Reserves
+LGCYO	Legacy Reserves优先B
+LGCYP	Legacy Reserves优先A
+LGIH	LGI Homes
+LGND	Ligand
+LHCG	LHC集团
+LIFE	aTyr制药
+LILA	Liberty LiLAC A
+LILAK	Liberty LiLAC C
+LINC	林肯教育服务
+LION	富达南方银行
+LITE	Lumentum控股
+LIVN	LivaNova
+LKFN	莱克兰金融
+LKOR	信用评级美国长期债券
+LKQ	LKQ汽配
+LLNW	烛光网络
+LMAT	勒梅特微管医疗
+LMBS	基金短期机会ETF
+LMNR	Limoneira
+LMNX	路明克斯
+LMOS	Lumos网络
+LMRK	Landmark Partners
+LMRKP	Landmark优先A
+LNCE	兰斯
+LNDC	Landec
+LNGR	Indxx全球长寿主题
+LNTH	Lantheus控股
+LOB	Live Oak Bancshares
+LOCO	El Pollo Loco
+LOGI	罗技
+LOGM	大家来网络
+LONE	美国龙星资源
+LOPE	大峡谷教育
+LORL	劳拉空间与通信
+LOXO	Loxo Oncology
+LPLA	LPL投资控股
+LPNT	LifePoint Health
+LPSN	LivePerson
+LPTX	Leap Therapeutics
+LQDT	流动性服务
+LRCX	林氏研究
+LRGE	大盘增长ESG
+LSBK	莱克肖尔万通金控
+LSCC	莱迪思半导体
+LSTR	莱帝土地星
+LSXMA	Liberty SiriusXM A
+LSXMB	Liberty SiriusXM B
+LSXMK	Liberty SiriusXM C
+LTRPA	Liberty Holdings  A
+LTRPB	Liberty Holdings B
+LTXB	LegacyTexas金融集团
+LULU	露露柠檬运动成衣
+LVHD	低波动性高股息指数
+LVNTA	自由互动
+LVNTB	自由互动
+LWAY	来福威食品
+LXRX	莱斯康制药
+LYTS	LSI设备
+MACK	Merrimack制药
+MAGS	马加尔安全系统
+MANH	曼哈顿联合软件
+MANT	美泰科技
+MAR	万豪国际酒店
+MASI	麦斯莫医疗
+MAT	美泰玩具
+MATR	Mattersight
+MATW	马修国际
+MB	Mindbody
+MBB	巴克莱美国MBS指数
+MBFI	MB金融
+MBSD	期限美国抵押支持证券
+MBTF	MBT金融
+MBUU	Malibu Boats
+MBWM	莫肯特尔银行
+MCBC	麦克塔瓦银行
+MCEF	市政基金收入机会ETF
+MCEP	Mid-con能源合作伙伴
+MCFT	Mcbc Holdings
+MCHI	MSCI中国指数ETF
+MCHP	微芯科技
+MCHX	马可营销
+MCRB	赛里斯治疗
+MCRI	莫纳克赌场度假村
+MDCA	MDC合作伙伴
+MDCO	麦迪逊医药
+MDIV	资产多元化收入指数
+MDLZ	亿滋国际
+MDRX	麦赛斯医药
+MDSO	深思信息服务
+MDWD	Mediwound
+MEDP	Medpace控股
+MELI	拉美商业服务
+MEOH	梅思恩
+MERC	美世国际
+MESO	Mesoblast
+METC	Ramaco Resources
+MFIN	梅达莲信贷
+MFSF	第一互惠银行
+MGEE	MGE能源
+MGI	速汇金国际
+MGIC	魔力软件企业集团
+MGLN	麦哲伦健康服务
+MGNX	Macrogenics
+MGPI	MGP材料
+MGRC	麦格拉思租赁
+MGYR	马扎尔银行
+MHLD	梅登控股
+MIDD	米德尔机械
+MIK	The Michaels
+MILN	Indxx千禧主题指数
+MIME	Mimecast
+MIND	米奇汗姆租赁
+MINDP	米奇汗姆租赁A类优先
+MINI	迷你汽车
+MIRN	Mirna Therapeutics
+MITL	Mitel网络
+MKSI	MKS Instruments
+MKTX	爱克森斯控股
+MLAB	梅萨医疗
+MLCO	新濠博亚娱乐
+MLHR	赫尔曼米勒
+MLNK	ModusLink Global
+MLNX	迈勒罗斯科技
+MLVF	Malvern Bancorp
+MMLP	马丁油气
+MMSI	美好医疗系统
+MMYT	MakeMyTrip
+MNDO	思维终端科技
+MNKD	曼恩凯德生物医疗
+MNOV	美第奇新星生物技术
+MNRO	Monro Muffler Brake
+MNST	怪物饮料
+MNTA	摩蒙塔制药
+MOBL	MobileIron
+MOFG	西部第一银行
+MOMO	陌陌
+MORN	晨星信息
+MPAA	美国汽车配件
+MPB	宾州中部银行
+MPCT	ACWI可持续影响指数
+MPVD	Mountain Province
+MPWR	芯源系统
+MRAM	Everspin
+MRCC	Monroe Capital
+MRCY	Mercury Systems
+MRLN	马琳商务服务
+MRNS	Marinus制药
+MRSN	Mersana Therapeutics
+MRTN	马尔登运输
+MRUS	Merus
+MRVL	迈威尔科技
+MSBF	MSB金融
+MSBI	Midland States
+MSCC	美高森美
+MSEX	米德尔赛克斯水务公司
+MSFG	主源银行
+MSFT	微软
+MSON	迷松尼斯医疗器械
+MSTR	微策投资
+MTCH	Match Group
+MTEX	寰泰生技
+MTGE	MTGE Investment
+MTGEP	MTGE Investment
+MTLS	Materialise
+MTRX	美佳工程
+MTSC	MTS系统科技
+MTSI	MACOM Technology
+MU	美光科技
+MVIS	维视图像
+MXIM	美信集成产品
+MXPT	Maxpoint互动
+MXWL	麦克斯威科技
+MYGN	万基遗传
+MYL	麦兰医药
+MYOK	Myokardia
+MYRG	MYR集团
+MZOR	Mazor机器人
+NAII	天然替代品
+NANO	耐诺
+NATH	纳森连锁餐饮
+NATI	美国国家仪器
+NAUH	美国大学国家控股
+NAVG	领航者
+NAVI	Navient
+NBIX	神经分泌生物科学
+NBN	东北银行
+NBRV	Nabriva Therapeutics
+NBTB	NBT合众银行
+NCIT	NCI信息系统
+NCLH	挪威游轮控股
+NCMI	国际影像传媒
+NCOM	国家商务
+NCSM	NCS Multistage
+NCTY	第九城市
+NDAQ	纳斯达克
+NDLS	Noodles & Company
+NDRM	Neuroderm
+NDSN	Nordson
+NEOG	纽尔真检测
+NEOS	Neos治疗
+NERV	米勒娃科学
+NEWS	新星金融
+NEWT	Newtek Business
+NFBK	Northfield Bancorp
+NFLX	奈飞
+NGHC	国民通用控股
+NGHCN	国民通用控股C类优先
+NGHCP	国民通用控股A类优先
+NH	NantHealth
+NICE	NICE
+NICK	Nicholas金融
+NIHD	国家信息基础设施控股
+NK	NantKwest
+NKTR	内克塔治疗
+NLNK	Newlink Genetics
+NMIH	NMI Holdings
+NMRX	纳姆热斯通信
+NNBR	NN
+NOVN	Novan
+NOVT	Novanta
+NRCIA	国家研究A类普通
+NRCIB	国家研究
+NRIM	北沿合众银行
+NSEC	国民保障集团
+NSIT	洞察企业
+NSSC	纳普科安全技术
+NSTG	Nanostring科技
+NTAP	网络器械
+NTCT	网侦系统
+NTES	网易
+NTGR	网络齿轮通信
+NTIC	北方科技国际
+NTLA	Intellia
+NTNX	路坦力
+NTRA	Natera
+NTRI	营养系统
+NTRS	北方信托
+NUAN	纽昂斯通讯
+NUTR	营养保健国际
+NUVA	纽瓦索器材
+NVAX	诺瓦瓦克斯医药
+NVCR	Novocure
+NVDA	英伟达
+NVDQ	Novadaq Technologies
+NVFY	Nova lifestyle
+NVIV	Invivo治疗控股
+NVLN	Novelion
+NVMI	新星测量仪器
+NVTR	Nuvectra
+NWBI	西北银行
+NWFL	诺伍德金融
+NWLI	国家西方人寿保险
+NWPX	西北管道
+NWS	新闻集团B
+NWSA	新闻集团
+NXPI	恩智浦
+NXST	耐思星传媒集团
+NXTM	耐思齐医疗
+NYMT	纽约抵押信托
+NYMTP	纽约抵押信托B类优先
+NYNY	帝国度假村
+OBAS	奥贝斯
+OBLN	Obalon Therapeutics
+OBSV	ObsEva SA
+OCC	光缆
+OCFC	海洋第一金融
+OCLR	明睛光通信
+OCRX	Ocera医疗
+OCUL	Ocular Therapeutix
+ODFL	统领货运线
+ODP	欧迪办公
+OFIX	奥菲斯国际
+OFLX	欧美佳福莱克斯
+OFS	Ofs Capital
+OHAI	OHA投资公司
+OIIM	凹凸科技
+OKSB	Southwest Bancorp
+OKTA	Okta
+OLD	长期护理指数ETF
+OLED	通用显示器
+OLLI	奥利廉价出口控股
+OMAB	北方中心机场
+OMCL	全细胞医护科技
+OMED	Oncomed制药
+OMER	奥麦罗制药
+ON	安森美半导体
+ONB	欧德国家银行
+ONCE	星火治疗
+ONEQ	纳斯达克综合指数ETF
+ONS	Oncobiologics
+ONVO	Organovo Holdings
+OPB	Opus Bank
+OPHT	爱眼科技
+OPK	OPKO保健
+ORBC	ORBCOMM轨道通讯系统
+ORBK	奥宝科技
+OREX	奥西珍医疗
+ORG	Solactive有机物指数
+ORIG	Ocean Rig Udw
+ORIT	奥瑞塔尼金融
+ORLY	欧莱利汽车
+OSBC	欧德第二银行
+OSIS	OSI系统
+OSTK	Overstock.com
+OSUR	奥瑞许科技
+OTEX	Open Text
+OTIC	Otonomy
+OTTR	奥特泰尔
+OVAS	OvaScience
+OVBC	俄亥俄河谷银行
+OVID	Ovid Therapeutics
+OXFD	Oxford Immunotec
+OZRK	欧扎克银行
+PAAS	泛美白银
+PACB	太平洋生物科学
+PACW	西太平洋合众银行
+PAGG	OMX全球农业指数
+PAHC	Phibro Animal Health
+PATI	爱国者交通控股
+PATK	帕特里克工业
+PAYX	沛齐
+PBCT	人民联合储蓄银行
+PBIP	Prudential Bancorp
+PBMD	Prima BioMed
+PBPB	Potbelly
+PBYI	彪马生物技术
+PCAR	帕卡
+PCBK	太平洋大陆
+PCH	波特拉奇
+PCLN	普利斯林
+PCMI	PCM
+PCRX	PACIRA制药
+PCTI	PCTEL
+PCTY	Paylocity Holding
+PDBC	最佳产量商品战略投资
+PDCE	PDC能源
+PDCO	帕特森
+PDFS	PDF方案
+PDLI	PDL生物制药
+PDP	动态组合ETF
+PEBK	北加利福尼亚国民银行
+PEBO	人民合众银行
+PEGA	佩格系统
+PEGI	Pattern Energy Group
+PENN	佩恩国民博彩
+PERI	Perion网络
+PERY	佩里埃利斯国际
+PETQ	PetIQ
+PETS	佩特美德快送
+PETX	Aratana Therapeutics
+PEY	高收益股利ETF
+PEZ	消费周期动态组合ETF
+PFBC	保富银行
+PFBI	PREMIER金融银行
+PFF	美国优先股ETF
+PFI	金融动态投资组合
+PFIN	P&F工业
+PFIS	人民金融服务
+PFLT	PennantPark
+PFM	高股利ETF
+PFMT	Performant Financial
+PFPT	Proofpoint
+PGC	皮帕克格拉德斯通金融
+PGJ	中国ETF-Gldn Drago
+PGLC	潘兴黄金
+PGNX	普罗基尼克斯制药
+PHII	PHI
+PHIIK	PHI
+PHO	水资源投资组合
+PI	Impinj
+PICO	PICO控股
+PID	国际高股利ETF
+PIE	新兴市场动态投资组合
+PIH	1347 Property
+PINC	Premier
+PIO	全球水资源组合
+PIZ	发达市场动态组合
+PKOH	帕克俄亥俄控股
+PKW	股票回购ETF
+PLAB	福尼克斯
+PLAY	戴夫和巴斯特娱乐
+PLCE	儿童之家
+PLPC	预制管线产品
+PLUS	正羽科技
+PLW	1-30年期阶梯债券
+PLXS	Plexus
+PLYA	Playa Hotels
+PMBC	太平洋商业合众银行
+PMPT	iSectors后MPT生长ETF
+PMTS	Cpi卡集团
+PNBK	爱国者国家合众银行
+PNFP	顶尖金融
+PNK	Pinnacle
+PNNT	PennantPark投资
+PNQI	纳斯达克互联网指数
+PODD	银休特
+POOL	普尔
+POWI	帕沃英蒂格盛
+POWL	鲍威尔工业
+PPBI	太平洋第一合众银行
+PPC	皮尔格林普拉德
+PPH	MVIS上市药业25指数
+PPIH	Perma-Pipe
+PRAA	PRA Group
+PRAH	PRA健康科学
+PRCP	Perceptron
+PRFT	Perficient
+PRFZ	RAFI美国1500中小指数
+PRGS	Progress Software
+PRGX	PRGX全球
+PRIM	Primoris服务
+PRMW	Primo自来水
+PRN	Dwa工业动力投资组合
+PROV	Provident
+PRQR	ProQR Therapeutics
+PRSC	普罗维登斯保健
+PRSS	CafePress
+PRTA	Prothena
+PRTK	Paratek生物制药
+PRTO	Proteon治疗
+PRTS	美国汽车零部件网络
+PRXL	Parexel
+PSAU	全球黄金和贵金属指数
+PSC	美国小盘股指数ETF
+PSCC	标普小盘必需消费品
+PSCD	小盘600非必需消费品
+PSCE	标普小盘600能源股
+PSCF	标普小盘600金融股
+PSCH	标普小盘600保健股
+PSCI	标普小盘600工业股
+PSCM	标普小盘600材料
+PSCT	标普小盘600信息技术
+PSCU	标普小盘600公用事业
+PSDO	Presidio
+PSDV	Psivida
+PSEC	Prospect Capital
+PSET	纳斯达克美国价格指数
+PSL	必需品投资组合
+PSMT	普尔斯玛特
+PSTB	Park Sterling
+PTC	PTC
+PTCT	Ptc Therapeutics
+PTEN	Patterson-UTI能源
+PTF	科技动态组合ETF
+PTGX	Protagonist
+PTH	医疗保健动态组合
+PTI	Proteostasis
+PTIE	疼痛治疗
+PTLA	波尔图制药
+PTNR	合作通信
+PTSI	P.A.M.运输服务
+PTX	Pernix疗法控股
+PUI	公用事业动态组合
+PULM	Pulmatrix
+PVAC	宾维吉尼亚
+PWOD	彭斯-伍茨银行
+PXI	能源动态组合ETF
+PXLW	像素科技
+PY	纳斯达克美国股东收益
+PYPL	贝宝
+PYZ	基础材料动态组合
+PZZA	棒约翰
+QABA	纳斯达克社区银行指数
+QADA	QAD A
+QADB	QAD
+QAT	MSCI卡塔尔限制指数
+QCLN	纳斯达克清洁绿色能源
+QCOM	高通
+QCRH	QCR控股
+QDEL	窥得儿医药
+QGEN	凯杰医药
+QINC	伯恩斯坦质量收益指数
+QIWI	Qiwi
+QLC	美国质量盘指数ETF
+QLYS	科力斯
+QNST	QuinStreet
+QQEW	NASDAQ100市值加权
+QQQ	NASDAQ100指数
+QQQC	OMX中国技术指数ETF
+QQXT	NASDAQ100科技指数
+QRVO	Qorvo
+QSII	品质系统
+QTEC	NASDAQ100技术指数
+QTNA	Quantenna
+QTNT	Quotient
+QTRH	Quarterhill
+QUIK	快辑半导体
+QUMU	Qumu
+QURE	uniQure
+QVCA	自由互动
+QVCB	自由互动
+QYLD	NASDAQ100指数ETF
+RAIL	FreightCar America
+RARE	Ultragenyx药业
+RARX	Ra Pharmaceuticals
+RAVN	雷文工业
+RBB	RBB
+RBCAA	共和银行
+RBPAA	宾夕法尼亚皇家银行
+RCII	Rent-A-Center
+RCKY	洛奇品牌
+RCMT	RCM科技
+RDFN	Redfin
+RDNT	雷网
+RDUS	Radius Health
+RDVY	纳斯达克股利增长指数
+RDWR	Radware
+RECN	资源联合
+REGI	Renewable能源
+REGN	雷杰纳荣制药
+REIS	雷斯
+RELL	理查森电子
+RELY	Real Industry
+RETA	Reata制药
+RFAP	河滨动态亚太ETF
+RFDI	河滨动态发达国际ETF
+RFEM	第一信托动态新兴市场
+RFEU	河滨动态欧洲ETF
+RFIL	RF工业
+RGCO	RGC资源
+RGEN	雷普里根
+RGLD	皇族黄金
+RGLS	Regulus Therapeutics
+RGNX	Regenxbio
+RICK	RCI Hospitality控股
+RIGL	里格尔制药
+RILY	B. Riley Financial
+RING	黄金矿业指数ETF
+RMBS	蓝博士半导体
+RMCF	洛矶山巧克力工厂
+RMTI	罗克韦尔医药
+RNDB	Randolph Bancorp
+RNDM	开发国际股权选择
+RNDV	美国股票红利选择ETF
+RNEM	新兴市场股票选择ETF
+RNET	RigNet
+RNLC	大盘股美国股票选择
+RNMC	中档美国股票选择ETF
+RNSC	美国小盘股票选择ETF
+RNST	瑞纳萨塔银行
+RNWK	瑞尔网路
+ROBO	全球机器人自动化指数
+ROCK	直布罗陀工业
+ROIC	零售成长投资
+ROKA	Roka Bioscience
+ROLL	RBC轴承
+ROST	罗斯百货
+RP	RealPage
+RPD	Rapid7
+RPXC	保时达快递
+RRGB	红罗宾汉堡连琐店
+RRR	Red Rock Resorts
+RSYS	锐德世
+RTIX	RTI医疗设备
+RTRX	Retrophin
+RUN	Sunrun
+RUSHA	拉什企业A
+RUSHB	拉什企业B
+RUTH	鲁斯集团
+RVNC	Revance Therapeutics
+RVSB	里佛维尤银行
+RYAAY	瑞安航空
+SABR	Sabre
+SAFM	桑德森农场
+SAFT	Safety Insurance
+SAGE	Sage Therapeutics
+SAIA	Saia
+SALM	塞勒姆传媒集团
+SAMG	Silvercrest资产管理
+SANM	新美亚电子
+SASR	桑德斯普林银行
+SATS	回声星
+SAVE	Spirit航空
+SBAC	SBA通信
+SBBP	Strongbridge
+SBBX	苏塞克斯银行
+SBCF	佛罗里达海岸线银行
+SBGI	辛克莱广播集团
+SBLK	星散海运
+SBNY	Signature银行
+SBRA	Sabra保健
+SBRAP	Sabra保健优先A
+SBSI	南方银行
+SBUX	星巴克
+SCHL	学乐集团
+SCHN	史尼泽钢铁
+SCLN	赛生制药
+SCMP	苏卡波制药
+SCSC	数码扫描
+SCSS	舒心家具
+SCVL	嘉年华鞋业
+SCWX	SecureWorks
+SCYX	Scynexis
+SCZ	欧澳远东小盘指数ETF
+SEAC	海易国际
+SEDG	SolarEdge技术
+SEED	奥瑞金种业
+SEIC	SEI投资
+SELB	Selecta生物科学
+SENEA	塞内卡食品A
+SENEB	塞内卡食品B
+SFBS	Servisfirst银行
+SFLY	快飞影像
+SFM	豆芽农贸市场
+SFNC	西蒙斯第一国民银行
+SFST	南方第一银行
+SGBK	Stonegate Bank
+SGC	高级制服服装集团
+SGEN	西雅图遗传学
+SGH	SMART Global
+SGMO	Sangamo Therapeutics
+SGMS	美彩科技
+SGQI	SGI全球质量收益指数
+SGRY	Surgery Partners
+SGYP	协同制药
+SHBI	Shore Bancshares
+SHEN	谢南多厄电讯
+SHLD	西尔斯
+SHLM	阿舒尔曼
+SHLO	夏伊洛工业
+SHOO	史蒂夫·马登
+SHOR	Shoretel
+SHPG	Shire
+SHV	美国国债短期债券指数
+SHY	美国国债债券指数
+SIEN	Sientra
+SIFI	SI金融集团
+SIGI	选择性保险
+SIGM	西格玛设计
+SILC	矽晶电信
+SIMO	慧荣科技
+SINA	新浪
+SIR	Select Income
+SIRI	Sirius XM Holdings
+SIVB	硅谷银行
+SKIS	山顶度假村
+SKOR	信用评级美国公司债券
+SKYW	西空航空
+SKYY	云计算ETF
+SLAB	芯科实验室
+SLCT	Select Bancorp
+SLGN	Silgan控股
+SLIM	Solactive肥胖指数
+SLM	SLM信贷
+SLMBP	SLM信贷B类优先
+SLQD	美元流动投资等级指数
+SLRC	太阳能资本
+SLVO	纳斯达克银备兑106
+SMBC	Southern Missouri
+SMCI	超微电脑
+SMCP	积极管理小盘股ETF
+SMMT	Summit Therapeutics
+SMRT	Stein Mart
+SMTC	先科电子
+SMTX	Smtc
+SNAK	Inventure食品
+SNBC	Sun银行
+SNC	State National
+SNCR	Synchronoss科技
+SND	Smart Sand
+SNDE	Sundance Energy
+SNDX	Syndax制药
+SNFCA	国民金融抵押
+SNH	高级房屋财产
+SNHY	美国橡达
+SNI	斯克里普斯网络互动
+SNLN	高级贷款ETF
+SNMX	塞诺米克斯
+SNNA	Sienna
+SNPS	新思科技
+SNSR	全球物联网主题指数
+SOCL	社交媒体指数ETF
+SODA	Sodastream国际
+SOHO	Sotherly Hotels
+SOHU	搜狐
+SONA	Southern National
+SONC	索尼克
+SONS	圣思网络
+SORL	瑞立集团
+SOXX	费城半导体行业指数
+SP	SP Plus
+SPAR	斯巴坦汽车
+SPI	SPI绿能宝
+SPIL	矽品
+SPKE	Spark Energy
+SPKEP	Spark Energy优先
+SPLK	Splunk
+SPLS	史泰博
+SPNC	The Spectranetics
+SPNE	SeaSpine控股
+SPOK	Spok Holdings
+SPPI	光谱制药
+SPSC	SPS商贸
+SPTN	SpartanNash
+SPWH	型男仓库控股
+SPWR	SunPower
+SQLV	美盛小盘质量价值ETF
+SQQQ	NASDAQ100三倍做空
+SQZZ	有效奥斯反向指数ETF
+SRCE	第一源银行
+SRCL	适力环保
+SRDX	苏尔医疗诊断
+SRET	超级股息REIT指数ETF
+SREV	Servicesource国际
+SRPT	Sarepta医疗
+SRRA	Sierra Oncology
+SSB	South State
+SSBI	萨米特州立银行
+SSNC	SS&C技术控股
+SSRM	SSR Mining
+SSYS	Stratasys
+STAA	斯达外科手术
+STB	Student
+STBA	S&T银行
+STDY	SteadyMed
+STFC	国家汽车金融
+STKL	SunOpta食业
+STLD	钢铁动力
+STLY	斯坦利家具
+STMP	斯坦普斯网站
+STPP	巴克莱美国财政储备
+STRA	斯特雷耶教育
+STRL	斯特林建筑
+STRS	Stratus Properties
+STRT	Strattec Security
+STX	希捷科技
+SUNS	Solar Senior Capital
+SUPN	Supernus制药
+SUSB	iShares ESG企业债券
+SUSC	iShares ESG公司债券
+SVA	科兴生物
+SWIN	美国行业动量指数ETF
+SWIR	希拉无线
+SWKS	Skyworks Solutions
+SYBT	Stock Yards Bancorp
+SYKE	赛科斯企业
+SYMC	赛门铁克
+SYNA	Synaptics
+SYNC	Synacor
+SYNL	Synalloy钢铁
+SYNT	辛特尔
+SYPR	Sypris科技
+SYRS	Syros
+TA	Travelcenters
+TACT	Transact技术
+TAPR	美国国债期货做空
+TAST	卡罗尔斯饭店
+TATT	TAT科技
+TAX	Liberty Tax
+TBBK	The Bancorp
+TBK	Triumph Bancorp
+TBNK	Territorial银行
+TBPH	Theravance生物制药
+TCBI	德州资本银行
+TCBIP	德州资本银行优先
+TCBK	特里科银行
+TCMD	Tactile Systems
+TCON	Tracon制药
+TCPC	TCP Capital
+TCRD	Thl信贷
+TDIV	纳斯达克技术股息指数
+TEAM	Atlassian
+TECD	美国技术数据公司
+TECH	Bio-Techne
+TEDU	达内科技
+TERP	Terraform Power
+TESO	特易购
+TESS	特斯科技术
+TFSL	TFS金融
+TGA	环球能源
+THFF	第一财务
+THRM	Gentherm
+TICC	Ticc资本投资
+TIG	TiGenix
+TILE	界面
+TITN	泰坦机械
+TIVO	TiVo
+TLF	坦迪皮革
+TLGT	Teligent
+TLND	拓蓝
+TLT	国债20年以上债券指数
+TMUS	T-Mobile US
+TMUSP	T-Mobile US优先
+TNAV	Telenav
+TNDM	糖尿病保健
+TNTR	Tintri
+TNXP	Tonix医药控股
+TOCA	Tocagen
+TOUR	途牛
+TOWN	唐恩银行
+TPIC	TPI复合材料
+TQQQ	NASDAQ100三倍做多
+TRCB	Two River
+TREE	LendingTree
+TRHC	Tabula Rasa
+TRIB	三一生物科技
+TRIP	TripAdvisor
+TRMB	Trimble
+TRMK	Trustmark银行
+TRNC	tronc
+TRNS	特斯卡
+TROW	罗派斯集团
+TRS	瑞奇包装系统
+TRST	梅隆银行
+TRUE	Truecar
+TRUP	Trupanion
+TRVG	Trivago
+TRVN	Trevena
+TSBK	天木蓝银行
+TSC	三态资本控股
+TSCO	牵引机供销
+TSEM	Tower半导体
+TSG	The Stars Group
+TSLA	特斯拉
+TSRO	Tesaro
+TTD	The Trade Desk
+TTEC	TeleTech控股
+TTEK	德照科技
+TTGT	Techtarget旅游
+TTMI	TTM科技
+TTOO	T2 Biosystems
+TTPH	Tetraphase制药
+TTS	Tile Shop Holdings
+TTWO	双互动软件
+TUES	Tuesday Morning
+TUR	土耳其投资市场指数
+TURN	180 Degree Capital
+TUSA	阿尔法美股综合市场
+TUSK	Mammoth Energy
+TUTI	战术管理多策略收入
+TUTT	战术管理美国核心ETF
+TVIA	TerraVia Holdings
+TVIX	短期期货2倍做多
+TVIZ	中期期货恐慌两倍做多
+TVTY	Tivity Health
+TWIN	双环
+TWMC	环球娱乐音像店
+TWOU	2u
+TXN	德州仪器
+TXRH	德州公路酒吧
+TYPE	蒙泰图像
+TZOO	旅行动物园
+UAE	阿联酋限制指数ETF
+UBFO	联合安全银行
+UBIO	生物技术指数三倍做多
+UBND	资产无约束债券基金
+UBNK	联合金融
+UBNT	Ubiquiti网络
+UBOH	联合货币中心银行
+UBSH	Union Bankshares
+UBSI	联合银行
+UCBA	联合社区银行
+UCBI	美国社区银行
+UCFC	联合社区金融集团
+UCTT	超科林半导体
+UDBI	美国多元化指数ETF
+UEIC	统一电子
+UEPS	UEPS科技
+UFCS	联合火险
+UFPI	环球木业
+UG	守护者联盟
+UGLD	黄金指数ER三倍做多
+UHAL	爱美可
+ULBI	Ultralife
+ULH	环球物流控股
+ULTA	犹他美容
+ULTI	终极软件
+UMBF	UMB金融
+UMPQ	Umpqua控股
+UNAM	尤尼柯北美保险
+UNB	联合银行（东北部）
+UNFI	联合原生态食品
+UNIT	Uniti Group
+UNTY	联合银行集团
+UPL	Ultra Petroleum
+UPLD	Upland Software
+URBN	都市户外
+URGN	乌龙制药
+USAK	美国卡车
+USAP	环球不锈钢
+USAT	全美科技
+USATP	全美科技优先
+USLB	罗素1000低贝塔ETF
+USLM	美国灰矿建材
+USLV	GSCI银指数三倍做多
+USOI	X-Links原油股份ETN
+UTHR	联合治疗
+UTMD	犹他医疗产品
+UTSI	UT斯达康
+UVSP	宾夕法尼亚裕益银行
+VALX	市场传奇指数-Validea
+VBLT	Vascular Biogenics
+VBND	美国债券策略基金指数
+VBTX	Veritex
+VCIT	彭博巴克莱企业债券
+VCLT	彭博巴克莱企业债券
+VCSH	美国1-5年企业债券
+VCYT	Veracyte
+VDTH	Videocon d2h
+VECO	维易科精密仪器
+VEON	VEON
+VERI	Veritone
+VGIT	彭博巴克莱政府债券
+VGLT	彭博巴克莱政府债券
+VGSH	美国1-3年政府浮动
+VIA	维亚康姆
+VIAB	维亚康姆B类普通
+VIAV	Viavi Solutions
+VICR	Vicor电子
+VIDI	核心国际股票指数
+VIGI	纳斯达克高股利ETF
+VIIX	波动率短期期货
+VIIZ	波动率中期期货
+VIRC	Virco制造
+VIRT	Virtu Financial
+VIVO	美鼎生物
+VLGEA	Village Super Market
+VMBS	彭博巴克莱美国浮动
+VNDA	万达生物制药
+VNET	世纪互联
+VNOM	Viper Energy
+VNQI	标普全球房价指数ETF
+VOD	沃达丰
+VONE	罗素1000指数ETF
+VONG	罗素1000增长指数ETF
+VONV	罗素1000价值指数ETF
+VOXX	奥迪富斯
+VRA	Vera Bradley
+VRAY	Viewray
+VREX	Varex Imaging
+VRIG	可变利率投资组合
+VRNA	维罗纳制药
+VRNS	Varonis Systems
+VRNT	Verint系统
+VRSK	Verisk分析
+VRSN	威瑞信
+VRTS	维德思投资
+VRTSP	维德思投资优先
+VRTU	Virtusa
+VRTX	福泰制药
+VSAR	Versartis
+VSAT	卫讯公司
+VSDA	股利加速器ETF
+VSEC	VSE技术服务
+VSMV	美国多因素最小波动率
+VSTM	Verastem
+VTHR	罗素3000指数ETF
+VTIP	美国国债TIPS 0-5年
+VTL	生命治疗
+VTVT	vTv Therapeutics
+VTWG	罗素2000增长指数ETF
+VTWO	罗素2000指数ETF
+VTWV	罗素2000价值指数ETF
+VUSE	核心美国股票指数ETF
+VVUS	VIVUS
+VWOB	彭博政府上限指数ETF
+VWR	VWR
+VXUS	除美国外全球全市值
+VYGR	Voyager Therapeutics
+VYMI	新华富时高股息率ETF
+WABC	西美银行
+WAFD	华盛顿联邦储蓄
+WASH	华盛顿信托银行
+WAYN	韦恩储蓄银行
+WB	微博
+WBA	沃尔格林长靴联盟
+WBMD	韦伯麦德医疗网
+WDC	西部数据
+WDFC	WD-40
+WEB	Web.com集团
+WEN	温迪
+WERN	沃纳企业
+WETF	WisdomTree投资
+WEYS	韦科鞋业
+WFM	健康食品超市
+WHF	WhiteHorse Finance
+WIFI	Boingo无线网
+WIN	气流通讯
+WINA	威玛克工贸
+WING	Wingstop
+WIRE	Encore电气线路
+WIX	Wix.com
+WLB	威斯特摩兰煤炭
+WLDN	Willdan集团
+WLFC	威利斯金融租赁
+WLTW	Willis Towers Watson
+WMAR	西洋
+WMGI	Wright医疗
+WNEB	Western New England
+WOOD	全球木材及林业指数
+WOOF	VCA
+WPPGY	WPP
+WPRT	西港燃料
+WRLD	环球验收
+WSBC	韦斯银行
+WSBF	沃特财务
+WSFS	WSFS金融
+WSTC	West
+WSTG	赛德科技
+WTBA	West Bancorporation
+WTFC	信达金融
+WVE	Wave Life Sciences
+WVFC	Wvs金融
+WWD	伍德沃德
+WYNN	永利度假村
+XBIT	Xbiotech
+XBKS	Xenith银行
+XCRA	Xcerra
+XELB	Xcel Brands
+XENE	Xenon制药
+XENT	Intersect Ent
+XIV	反向波动率短期期货
+XLNX	赛灵思
+XLRN	Acceleron制药
+XNCR	Xencor
+XNET	迅雷
+XOG	Extraction Oil & Gas
+XOMA	标记临床研究
+XONE	The Exone
+XPER	Xperi
+XRAY	登士柏国际
+XT	晨星指数技术指数
+YDIV	资产多元化收入指数
+YIN	银科控股
+YLCO	富时中国3倍做多ETF
+YLDE	股利策略ESG
+YNDX	Yandex
+YORW	The York Water
+YRCW	耶路全球
+YY	欢聚时代
+Z	Zillow Group C
+ZAGG	ZAGG
+ZBIO	生物技术指数三倍做空
+ZBRA	Zebra Technologies
+ZEAL	Zealand Pharma
+ZEUS	奥林匹克钢铁
+ZFGN	Zafgen
+ZG	Zillow Group A
+ZGNX	Zogenix
+ZION	齐昂银行
+ZIV	中期期货恐慌指数做空
+ZIXI	Zix
+ZN	锡安石油和天然气
+ZNGA	Zynga
+ZUMZ	Zumiez
+ZYNE	Zynerba制药
+AAMC	Altisource资产管理
+AAU	Almaden矿业
+ACU	Acme联合
+ACY	Aerocentury
+ADK	AdCare保健系统
+ADKpA	AdCare保健系统优先A
+AE	Adams能源
+AINC	Ashford
+AIRI	航空工业集团
+AKG	Asanko黄金
+ALN	美国绿润
+ALO	Alio黄金
+AMPE	Ampio制药
+AMS	美国共享医院服务
+APHB	Ampliphi生物科学
+APT	阿尔法科技
+ARNCp	Arconic优先
+ASM	Avino银及金矿
+AST	海星生物治疗
+ATNM	Actinium
+AUG	Auryn Resources
+AUMN	黄金矿产
+AUXO	Auxilio
+AWX	Avalon控股
+AXN	河北奥星
+AXU	Alexco资源
+BAA	Banro
+BDL	Flanigan's企业
+BDR	Blonder Tongue实验室
+BGI	Birks Group
+BGSF	Bg Staffing
+BHB	Bar Harbor
+BKJ	新泽西银行
+BPMX	Biopharmx
+BRG	Bluerock Residential
+BRGpA	Bluerock 优先A
+BRGpC	Bluerock 优先
+BRGpD	Bluerock 优先D
+BRN	Barnwell工业
+BTG	B2gold
+BTN	Ballantyne Strong
+BTUP	皮博迪能源优先A
+BTX	BioTime
+BVX	Bovie Medical
+BWL.A	Bowl America
+CANF	灿菲特生物制药
+CAW	CCA工业
+CCF	Chase
+CDOR	Condor Hospitality
+CEI	Camber能源
+CIX	CompX国际
+CKX	CKX Lands
+CMCL	Caledonia Mining
+CMT	Core Molding科技
+CPHI	惠普森医药
+CQH	钱尼尔能源
+CQP	Cheniere能源合作伙伴
+CRHM	Crh Medical
+CRMD	Cormedix
+CRVP	Crystal Rock控股
+CTO	Consolidated-Tomoka
+CUO	Continental材料
+CVM	CEL-SCI
+CVR	芝加哥机械
+CVRS	Corindus Vascular
+CVU	CPI航空
+DGSE	Dgse Companies
+DIT	AMCON Distributing
+DLA	Delta服饰
+DNN	丹尼森矿业
+DPW	Digital电力
+DSS	Document安全系统
+DXR	Daxor
+EGI	Entree能源
+ELLO	Ellomay Capital
+ELMD	Electromed
+EMAN	eMagin
+EMX	EMX Royalty
+ENRJ	Enerjex
+ENSV	Enservco
+EPM	Evolution Petroleum
+ERN	Erin能源
+ESNC	EnSync
+ESP	Espey
+EVBN	埃文斯万通金控
+EVI	EnviroStar
+FPP	Fieldpoint油气
+FRD	Friedman工业
+FSI	Flexible Solutions
+FSP	Franklin Street
+GBR	新概念能源
+GDP	古德里奇
+GLOW	Glowpoint
+GMO	General Moly
+GORO	黄金资源
+GPL	Great Panther银矿
+GSAT	全球星
+GSB	GlobalSCAPE
+GSS	Golden Star资源
+GST	Gastar勘探
+GSTpA	Gastar勘探A类优先
+GSTpB	Gastar勘探B类优先
+GSV	Gold Standard
+GTE	Gran Tierra能源
+GV	The Goldfield
+GVP	GSE系统
+HCAC	Hennessy Capital III
+HEB	Hemispherx Biopharma
+HLTH	Nobilis Health
+HMG	HMG/Courtland
+HTM	美国地热
+HUSA	休斯敦能源
+IBIO	iBio
+IDN	Intellicheck
+IEC	Iec电子
+IFMI	Institutional金融
+IGC	India全球化资本
+IMH	Impac抵押控股
+IMO	帝国石油
+IMUC	ImmunoCellular
+INFU	Infusystem
+INS	Intelligent系统
+INTT	Intest
+INUV	Inuvo
+IOR	Income Opportunity
+ISDR	Issuer Direct
+ISR	IsoRay
+JOB	GEE Group
+JRJR	JRjr33
+KIQ	凯尔索科技
+KLDX	Klondex矿业
+LBY	Libbey
+LEU	Centrus Energy
+LGL	The LGL Group
+LIQT	Liqtech国际
+LLEX	Lilis Energy
+LNG	Cheniere能源
+LODE	Comstock Mining
+LOV	SPARK网络
+LTS	Ladenburg
+LTSpA	Ladenburg优先A
+MAG	MAG银矿
+MCF	Contango油气
+MHH	Mastech Digital
+MICR	Micron Solutions
+MJCO	Majesco
+MLSS	里程碑科技
+MOC	Command安保
+MSN	Emerson Radio
+MTNB	Matinas Biopharma
+MXC	Mexco Energy
+MYO	Myomo
+NAK	北方王朝矿业
+NAVB	Navidea生物制药
+NBY	Novabay制药
+NEN	新英格兰地产顾问
+NG	NOVAGOLD资源
+NGD	新黄金
+NHC	National医疗
+NNVC	Nanoviricides
+NOG	Northern石油天然气
+NSPR	InspireMD
+NSU	Nevsun资源
+NTIP	网络技术
+NTN	NTN Buzztime
+NXE	Nexgen能源
+OCX	Oncocyte
+OGEN	Oragenics
+ONP	东方纸业
+ORM	欧文斯不动产按揭
+PARR	Par Pacific
+PCGpA	太平洋煤气电力优先A
+PCGpB	太平洋煤气电力优先B
+PCGpC	太平洋煤气电力优先C
+PCGpD	太平洋煤气电力优先D
+PCGpE	太平洋煤气电力优先E
+PCGpG	太平洋煤气电力优先G
+PCGpH	太平洋煤气电力优先H
+PCGpI	太平洋煤气电力优先I
+PED	PEDEVCO
+PFNX	Pfenex
+PLG	铂族金属
+PLM	Polymet矿业
+PLX	PROTALIX生物疗法
+PLYM	Plymouth Industrial
+PRK	Park National
+PTN	PALATIN技术
+PW	Power房地产投资信托
+PWpA	Power房地产优先A
+PZG	派拉蒙黄金内华达
+REED	Reeds饮料
+REI	环能源
+RLGT	Radiant物流
+RLGTpA	Radiant物流优先A
+RNN	Rexahn制药
+ROX	Castle Brands
+RVP	Retractable技术
+RWC	Relm无线
+SACH	Sachem Capital
+SAND	沙尘暴黄金
+SCEpB	Southern优先B
+SCEpC	Southern优先C
+SCEpD	Southern优先D
+SCEpE	Southern优先E
+SDPI	高级钻井产品
+SEB	Seaboard
+SENS	Senseonics控股
+SGA	SAGA通信
+SGB	西南乔治亚金融
+SIF	Sifco工业
+SIM	Group Simec
+SKY	地平线住宅
+SMTS	Sierra Metals
+SNMP	Sanchez Midstream
+SRCI	SRC Energy
+SSN	Samson Oil & Gas
+SSY	SunLink卫生系统
+STRP	Straight Path通信
+STS	Supreme Industries
+SVM	希尔威
+SVT	Servotronics
+SYN	Synthetic Biologics
+TAT	大西洋石油
+TEUM	Pareteum
+TGB	Taseko矿业
+TGC	Tengasco
+THM	国际塔山
+TIK	Tel-Instrument电子
+TIS	Orchids纸制品
+TKAT	香港大公文交所
+TMP	汤普金斯金融
+TMQ	Trilogy Metals
+TPHS	三一广场控股
+TRT	Trio-Tech国际
+TRX	坦桑尼亚皇家勘探
+TRXC	Transenterix
+TXMD	Therapeuticsmd
+UAMY	美国锑
+UEC	Uranium Energy
+UFAB	Unique Fabricating
+UQM	UQM技术
+URG	Ur-能源
+USAS	Americas Silver
+UUU	通用安全仪器
+UUUU	Energy Fuels
+UWN	内华达黄金赌场
+VGZ	Vista黄金
+VHC	Virnetx控股
+VII	Vicon工业
+VISI	伏特资讯科学
+VNRX	Volitionrx
+VSR	Versar
+WRN	西方铜金
+WTT	Wireless电信
+WYY	Widepoint
+XPL	Solitario Zinc
+XTNT	Xtant医控股
+XXII	22nd Century
+YUMA	Yuma Energy
+ZDGE	Zedge
+A	安捷伦科技
+AA	美国铝业
+AAC	AAC Holdings
+AAN	Aaron'S
+AAP	领先汽车配件
+AAT	美国资产信托
+AAV	领先石油和天然气
+AB	联博控股
+ABB	ABB
+ABBV	艾伯维
+ABC	美源伯根
+ABEV	安贝夫啤酒
+ABG	阿斯伯里汽车集团
+ABM	反导工业
+ABR	阿伯房地产信托
+ABRpA	阿伯房地产信托优先A
+ABRpB	阿伯房地产信托优先B
+ABRpC	阿伯房地产信托优先C
+ABT	雅培
+ABX	巴里克黄金
+AC	Associated Capital
+ACC	美国校园REITs
+ACCO	阿科品牌
+ACH	中国铝业
+ACM	AECOM
+ACN	埃森哲
+ACRE	阿瑞斯商业地产
+ADC	艾格里不动产
+ADM	阿彻丹尼尔斯米德兰
+ADNT	Adient
+ADS	联合数据系统
+ADSW	Advanced Disposal
+AEE	阿曼瑞恩
+AEG	荷兰全球保险
+AEL	美国股票投资寿险
+AEM	伊格尔矿业
+AEO	美国鹰
+AEP	美国电力
+AER	Aercap飞机租赁
+AES	爱依斯电力
+AET	安泰保险
+AF	阿斯托里亚金融
+AFG	美国金融
+AFI	阿姆斯特朗地板
+AFL	美国家庭人寿保险
+AFSIpA	AFSI保险A类优先
+AFSIpB	AFSI保险B类优先
+AFSIpC	AFSI保险C类优先
+AFSIpF	AFSI保险F类优先
+AG	First Majestic银矿
+AGCO	爱科集团
+AGI	Alamos Gold
+AGM	联邦农业抵押贷款C
+AGM.A	联邦农业抵押A
+AGMpA	联邦农业抵押优先A
+AGMpB	联邦农业抵押优先B
+AGMpC	联邦农业抵押优先C
+AGN	艾尔建医疗
+AGO	保证担保
+AGR	Avangrid
+AGRO	Adecoagro
+AGU	艾格瑞
+AGX	Argan
+AHC	AH贝罗
+AHH	Armada Hoffler
+AHL	阿斯彭保险控股
+AHLpC	阿斯彭保险C类优先
+AHLpD	阿斯彭保险D类优先
+AHP	阿什福德酒店
+AHPpB	阿什福德酒店优先B
+AHT	阿什福德管理信托
+AHTpA	阿什福德信托A类优先
+AHTpD	阿什福德信托D类优先
+AHTpF	阿什福德信托F类优先
+AHTpG	阿什福德信托G类优先
+AI	阿灵顿资产投资
+AIG	美国国际集团
+AIN	奥巴尼国际
+AIR	AAR
+AIT	应用工业技术
+AIV	公寓投资管理
+AIVpA	公寓投资管理A类优先
+AIZ	艾斯兰
+AJG	亚瑟加拉格尔
+AJRD	Aerojet Rocketdyne
+AJX	Great Ajax
+AKO.A	Andina饮料A
+AKO.B	Andina饮料B
+AKR	阿卡迪亚不动产信托
+AKS	AK钢铁控股
+AL	航空租赁
+ALB	雅宝
+ALDW	阿龙美国合作
+ALE	阿里特
+ALEX	亚历山大&鲍德温
+ALG	阿拉莫
+ALK	阿拉斯加航空
+ALL	好事达保险
+ALLE	Allegion Public
+ALLpA	好事达保险存托优先A
+ALLpC	好事达保险存托优先C
+ALLpE	好事达保险存托优先E
+ALPpO	Alabama电力优先O
+ALR	阿勒尔
+ALRpB	Alere B类优先
+ALSN	艾里逊变速箱
+ALV	奥托立夫
+ALX	亚历山大
+AM	美国贺卡
+AMBR	Amber Road
+AMC	AMC院线
+AME	阿美特克
+AMFW	Amec Foster Wheeler
+AMG	AMG资管
+AMGP	Antero Midstream
+AMH	American Homes 4
+AMHpA	美国家庭 4 Rent优先A
+AMHpB	美国家庭 4 Rent优先B
+AMHpC	美国家庭 4 Rent优先C
+AMHpD	美国家庭 4 Rent优先D
+AMHpE	美国家庭 4 Rent优先E
+AMHpF	美国家庭 4 Rent优先F
+AMHpG	美国家庭 4 Rent优先G
+AMID	American Midstream
+AMN	AMN医疗服务
+AMOV	美洲移动普通存托A
+AMP	阿默普莱斯金融
+AMRC	阿梅雷斯克
+AMT	美国电塔
+AMX	美洲移动
+AN	全美汽车租赁
+ANDV	Andeavor
+ANDX	Andeavor Logistics
+ANET	Arista Networks
+ANF	阿贝克隆比 & 费奇
+ANFI	阿米拉天然食品
+ANH	安沃思抵押
+ANHpA	安沃思A类优先
+ANHpB	安沃思B类优先
+ANHpC	安沃思C类优先
+ANTM	Anthem
+ANW	爱琴海海洋汽油
+AOI	联一国际
+AON	怡安
+AOS	A.O.史密斯
+AP	安博科-匹兹堡
+APA	阿帕契
+APAM	Artisan合伙资产管理
+APC	阿纳达科石油
+APD	空气化工
+APH	安诺电子
+APLE	Apple Hospitality
+APO	阿波罗全球管理
+APOpA	阿波罗全球管理优先A
+APRN	Blue Apron Holdings
+APTS	优选公寓社区
+APU	美国气业
+AQN	Algonquin Power
+AR	Antero资源
+ARA	American Renal
+ARC	美国图文
+ARCH	阿齐煤炭
+ARCO	Arcos Dorados
+ARCX	电弧物流
+ARD	Ardagh Group
+ARE	亚历山大房地产
+ARES	Ares Management
+ARHpC	艾奇资本C类优先
+ARI	阿波罗房地产金融
+ARIpC	阿波罗房地产优先C
+ARL	美国房地产投资
+ARMK	爱玛客
+ARNC	Arconic
+ARNCpB	Arconic存托优先B
+AROC	Archrock
+ARR	Armour住宅房产
+ARRpA	Armour住宅房产优先
+ARRpB	Armour住宅房产优先B
+ARW	艾睿电子
+ASB	Associated Banc
+ASBpC	Associated Banc优先C
+ASBpD	Associated Banc优先D
+ASC	阿德莫尔海运
+ASGN	盎塞
+ASH	亚什兰
+ASIX	AdvanSix
+ASPN	Aspen Aerogels
+ASR	东南亚机场集团
+ASX	日月光半导体
+AT	大西洋电力
+ATEN	A10 Networks
+ATGE	Adtalem Global
+ATH	Athene Holding
+ATHM	汽车之家
+ATI	阿勒格尼
+ATKR	Atkore International
+ATO	ATMOS能源
+ATR	阿普达集团
+ATTO	Atento
+ATU	实用动力
+ATUS	Altice USA
+ATV	橡果国际
+ATW	艾特伍德
+AU	盎格鲁黄金
+AUO	友达光电
+AUY	亚马纳黄金
+AVA	阿维斯塔
+AVAL	Aval存优
+AVB	艾芙隆海湾社区
+AVD	美国先锋
+AVH	哥伦比亚航空
+AVP	雅芳
+AVT	安富利
+AVX	AVX
+AVY	艾利丹尼森
+AWI	阿姆斯特朗
+AWK	美国水业
+AWR	美洲国家水务
+AXE	艾利斯特国际
+AXL	美国车桥
+AXON	Axovant Sciences
+AXP	美国运通
+AXR	安美瑞普
+AXS	埃克斯资本
+AXSpD	埃克斯资本D类优先
+AXSpE	埃克斯资本E类优先
+AXTA	Axalta涂层系统
+AYI	敏锐品牌
+AYR	爱卡索
+AYX	Alteryx
+AZN	阿斯利康
+AZO	汽车地带
+AZRE	蔚蓝动力全球
+AZUL	Azul
+AZZ	AZZ
+B	巴恩斯
+BA	波音
+BABA	阿里巴巴
+BAC	美国银行
+BACpA	美国银行EE类存托优先
+BACpD	美国银行存托优先
+BACpE	美国银行存托优先E
+BACpI	美国银行I类存托优先
+BACpL	美国银行L类优先
+BACpW	美国银行W类优先
+BAH	博思艾伦咨询
+BAK	Braskem优先存托
+BAM	布鲁克菲尔德资产管理
+BANC	加州银行
+BANCpC	加州银行优先
+BANCpD	加州银行优先
+BAP	Credicorp
+BAS	基本能源服务
+BAX	百特国际
+BBD	布拉德斯科银行优先
+BBDO	布拉德斯科银行
+BBG	比尔巴雷特
+BBL	必和必拓
+BBT	BB&T银行
+BBTpD	BBT银行D类存托优先
+BBTpE	BBT银行E类存托优先
+BBTpF	BBT银行F类存托优先
+BBTpG	BBT银行G类存托优先
+BBU	Brookfield Business
+BBVA	Bank Bilbao Vizcaya
+BBW	Build-A-Bear
+BBX	BBX Capital
+BBY	百思买
+BC	布朗斯威克
+BCC	Boise Cascade
+BCE	加拿大贝尔
+BCEI	富矿溪能源
+BCH	智利银行
+BCO	布林克斯
+BCR	华润巴德
+BCRH	蓝色资本再保险
+BCS	巴克莱银行
+BCSpD	巴克莱银行优先存托5
+BDC	百通
+BDN	布兰迪维因房地产信托
+BDX	碧迪医疗
+BDXA	碧迪医疗存托优先
+BEDU	博实乐
+BEL	Belmond
+BEN	富兰克林资源
+BEP	布鲁克菲尔德可再生
+BERY	Berry Global Group
+BETR	Amplify Snack Brands
+BF.A	布朗-福曼A
+BFAM	Bright Horizons
+BF.B	布朗-福曼B
+BFR	Bbva法国银行
+BFS	索尔中心
+BFSpC	索尔中心C类存托优先
+BG	邦吉
+BGC	通用电缆
+BGG	百力通
+BGS	B&G食品
+BH	Biglari控股
+BHE	基准电子
+BHGE	贝克休斯通用能源
+BHLB	伯克希尔山银行
+BHP	必和必拓
+BHVN	生物医药控股
+BID	苏富比
+BIG	必乐透
+BIO	Bio Rad实验室A
+BIOA	BioAmber
+BIOB	Bio Rad实验室B
+BIP	布鲁克菲尔德公共建设
+BITA	易车
+BK	纽约梅隆银行
+BKD	布鲁克代尔高级护理
+BKE	巴克尔
+BKFS	黑骑士金融服务
+BKH	黑山
+BKS	巴诺
+BKU	BankUnited
+BLD	Topbuild
+BLK	贝莱德
+BLL	鲍尔包装
+BLX	拉丁美洲出口银行
+BMA	Macro银行
+BMI	Badger Meter
+BMLpG	美国银行G类存托优先
+BMLpH	美国银行存托优先H
+BMLpI	美国银行存托优先I
+BMLpJ	美国银行存托凭证优先
+BMLpL	美国银行存托凭证优先
+BMO	蒙特利尔银行
+BMS	比米斯
+BMY	百时美施贵宝
+BNED	巴诺教育
+BNS	加拿大丰业银行
+BOH	夏威夷银行
+BOOT	Boot Barn
+BORN	博润
+BOX	Box
+BP	英国石油
+BPI	Bridgepoint教育
+BPL	巴克艾
+BPY	Brookfield
+BR	布罗德里奇
+BRC	布雷迪
+BRFS	BRF
+BRK.A	伯克希尔哈撒韦 A
+BRK.B	伯克希尔哈撒韦 B
+BRO	布朗保险经纪
+BRS	布里斯托
+BRSS	全球黄紫铜
+BRT	BRT房地产信托
+BRX	Brixmor Property
+BSAC	桑坦德银行（智利）
+BSBR	桑坦德银行(巴西)
+BSM	Black Stone Minerals
+BSMX	桑坦德墨西哥金融集团
+BSX	波士顿科学
+BT	英国电信
+BTE	Baytex能源信托
+BTI	英美烟草
+BTU	皮博迪能源
+BUD	百威英博
+BURL	伯灵顿百货
+BVN	布埃纳文图拉开采
+BW	布拉什
+BWA	博格华纳
+BWP	木板路管线
+BWXT	BWX Technologies
+BX	黑石集团
+BXC	布鲁林克斯
+BXE	贝拉特里克斯勘探
+BXMT	黑石抵押信托
+BXP	波士顿地产
+BXPpB	波士顿优先存托B类
+BXS	BancorpSouth银行
+BY	Byline Bancorp
+BYD	博伊德赌场
+BZH	贝哲房屋
+C	花旗
+CAA	CalAtlantic Group
+CAB	卡贝尔拉斯
+CABO	Cable One
+CACI	CACI国际
+CADE	Cadence
+CAE	CAE
+CAG	康尼格拉
+CAH	卡地纳健康
+CAI	CAI国际
+CAJ	佳能
+CAL	大陆航空
+CALX	Calix
+CAPL	CrossAmerica
+CARS	Cars.com
+CAT	卡特彼勒
+CATO	加图商场
+CB	丘博保险
+CBB	辛辛那提贝尔
+CBBpB	辛辛那提贝尔B类优先
+CBD	巴西人零售存托优先
+CBG	世邦魏理仕
+CBI	西比埃
+CBK	克里斯托弗·班克斯
+CBL	CBL金融
+CBLpD	CBL金融D类存托优先
+CBLpE	CBL金融E类存托优先
+CBM	凯姆布雷克斯
+CBPX	Continental Building
+CBS	哥伦比亚广播
+CBS.A	哥伦比亚广播A类普通
+CBT	卡博特
+CBU	社区银行系统
+CBZ	CBIZ
+CC	The Chemours
+CCC	卡尔冈炭素
+CCE	Coca-cola European
+CCI	冠城国际
+CCIpA	冠城国际A类优先
+CCJ	加拿大铀矿
+CCK	皇冠控股
+CCL	嘉年华邮轮
+CCM	泰和诚医疗
+CCO	清晰频道户外控股
+CCP	Care Capital
+CCS	Century Communities
+CCU	清晰频道
+CDE	科尔黛伦矿业
+CDI	CDI
+CDR	雪松房地产信托
+CE	塞拉尼斯
+CEA	东方航空
+CEL	以色列塞康
+CELP	Cypress Energy
+CEO	中海油
+CEQP	Crestwood Equity
+CF	CF实业
+CFG	Citizens Financial
+CFR	库伦佛寺银行
+CFRpA	库伦佛寺银行优先
+CFX	科尔法克斯
+CGA	中国绿色农业
+CGG	CGG
+CGI	萨拉东
+CHA	中国电信
+CHCT	社区医疗保健信托
+CHD	丘奇＆德怀特
+CHE	Chemed
+CHGG	Chegg
+CHH	精选国际酒店
+CHK	切萨皮克能源
+CHKR	Chesapeake Granite
+CHL	中国移动
+CHMI	樱桃山抵押贷款投资
+CHS	Chico's FAS
+CHSP	Chesapeake Lodging
+CHT	中华电信
+CHU	中国联通香港
+CI	信诺保险
+CIA	公民保险
+CIB	哥伦比亚银行优先存托
+CIE	科博尔特能源
+CIEN	Ciena科技
+CIG	Energy优先存托
+CIG.C	Energy
+CIM	奇美拉投资
+CIMpA	奇美拉投资A类优先
+CIMpB	奇美拉投资优先
+CINR	Ciner Resources
+CIO	City Office Reit
+CIOpA	City Office优先A
+CIR	Circor国际
+CISN	Cision
+CIT	CIT Group
+CIVI	Civitas Solutions
+CJ	C&J Energy Services
+CKH	海科控股
+CL	高露洁
+CLB	核心实验室
+CLD	Cloud Peak Energy
+CLDR	Cloudera
+CLDT	Chatham Lodging信托
+CLF	克利夫斯自然资源
+CLGX	CoreLogic
+CLH	清洁海港
+CLI	麦克凯利房地产
+CLNS	Colony NorthStar
+CLNSpB	Colony 优先B
+CLNSpC	Colony 优先C
+CLNSpD	Colony 优先D
+CLNSpE	Colony 优先E
+CLNSpG	Colony 优先G
+CLNSpH	Colony 优先H
+CLNSpI	Colony 优先I
+CLPR	Clipper Realty
+CLR	大陆能源
+CLS	天弘科技
+CLW	克利尔沃特纸业
+CLX	高乐氏
+CM	加拿大帝国商业银行
+CMA	联信银行
+CMC	美国工商五金
+CMCM	猎豹移动
+CMD	Cantel Medical
+CMG	墨式烧烤
+CMI	康明斯
+CMO	卡帕史丹抵押
+CMOpE	卡帕史丹抵押B类优先
+CMP	罗盘矿物
+CMRE	Costamare
+CMREpB	Costamare B类优先
+CMREpC	Costamare C类优先
+CMREpD	Costamare D类优先
+CMS	CMS能源
+CMSpB	CMS能源B类优先
+CNA	CAN金融
+CNC	康西哥
+CNCO	桑科萨
+CNDT	Conduent
+CNHI	CNH Industrial
+CNI	加拿大国家铁路
+CNK	喜满客影城
+CNNX	Cone Midstream
+CNO	康塞科
+CNP	中点能源
+CNQ	加拿大自然资源
+CNS	科恩-斯蒂尔斯金融
+CNX	康索尔能源
+CNXC	Cnx煤炭资源
+CO	中国脐带血库
+CODI	罗盘多元化金融控股
+CODIpA	罗盘多元化优先A
+COE	51talk
+COF	第一资本金融
+COFpD	第一资本金融优先D
+COFpG	第一资本金融优先G
+COFpH	第一资本金融优先H
+COFpP	第一资本金融优先
+COG	卡波特油气
+COH	蔻驰
+COL	罗克韦尔柯林斯
+COO	库珀医疗
+COP	康菲石油
+COR	科塞特不动产
+CORpA	CoreSite房产A类优先
+COT	考特
+COTV	Cotiviti Holdings
+COTY	科蒂
+CP	加拿大太平洋铁路
+CPA	科帕控股
+CPAC	Pacasmayo水泥
+CPB	康宝浓汤
+CPE	卡隆石油
+CPEpA	卡隆石油A类优先
+CPF	中央太平洋银行
+CPG	Crescent Point
+CPK	花旗K类优先
+CPL	CPFL能源
+CPN	卡尔派电业
+CPS	库珀标准控股
+CPT	卡姆登物业信托
+CR	Crane
+CRC	加州资源
+CRCM	Care.com
+CRD.A	克劳福德A
+CRD.B	克劳福德B
+CRH	CRH水泥
+CRI	卡特
+CRK	康斯托克能源
+CRL	查尔斯河
+CRM	赛富时公司
+CRR	卡波陶瓷
+CRS	卡朋特科技
+CRY	CryoLife
+CS	瑞士信贷
+CSL	卡莱尔伙伴
+CSLT	Castlight Health
+CSRA	CSRA
+CSS	CSS工业
+CSTM	Constellium
+CSU	品味生活资本
+CSV	运输服务
+CTB	库珀轮胎与橡胶
+CTL	世纪电信
+CTLT	Catalent
+CTS	CTS
+CTT	Catchmark木材信托
+CUB	立方
+CUBE	CubeSmart
+CUBI	客户合众银行
+CUBIpC	客户合众优先C
+CUBIpE	客户合众优先E
+CUBIpF	客户合众优先F
+CUDA	梭子鱼网络
+CUK	嘉年华
+CULP	卡尔普纺织
+CUZ	卡津斯不动产
+CVA	卡万塔控股
+CVE	Cenovus能源
+CVEO	Civeo
+CVG	肯沃基
+CVI	CVR能源
+CVNA	Carvana
+CVRR	Cvr Refining
+CVS	西维斯
+CVX	雪佛龙
+CW	寇蒂斯莱特
+CWH	露营世界控股
+CWT	加州水务
+CX	西麦斯
+CXO	康休
+CXP	哥伦比亚房地产信托
+CXW	CoreCivic
+CYD	玉柴国际
+CYH	社区保健医院
+CYS	赛普拉斯投资
+CYSpA	赛普拉斯投资A类优先
+CYSpB	赛普拉斯投资B类优先
+CZZ	科桑
+D	道明尼能源
+DAC	达那俄斯
+DAL	达美航空
+DAN	达纳
+DAR	美国达尔令国际
+DATA	Tableau软件
+DB	德意志银行
+DBD	迪堡金融设备
+DCI	唐纳森
+DCM	NTT道康姆
+DCO	杜科蒙
+DCP	DCP Midstream
+DCT	DCT工业信托
+DD	杜邦
+DDC	自治领钻石
+DDD	3D系统
+DDE	多佛唐斯娱乐
+DDR	DDR
+DE	迪尔
+DEA	东风政府物业
+DECK	戴克斯户外
+DEI	道格拉斯艾美特
+DEL	代尔提克木材
+DEO	帝亚吉欧
+DF	迪恩食品
+DFIN	Donnelley Financial
+DFS	发现金融
+DFT	Dupont Fabros科技
+DFTpC	Dupont Fabros优先C
+DG	达乐
+DGI	Digitalglobe
+DGX	奎斯特诊疗
+DHI	霍顿房屋
+DHR	丹纳赫
+DHT	DHT控股
+DHX	戴斯控股
+DIN	DineEquity
+DIS	迪士尼
+DK	Delek Us控股
+DKL	Delek Logistics
+DKS	迪克体育用品
+DL	正保远程教育
+DLB	杜比实验室
+DLNG	Dynagas Lng
+DLNGpA	Dynagas Lng A类优先
+DLPH	德尔福汽车
+DLR	Digital Realty Trust
+DLRpG	数码地产信托优先G
+DLRpH	数码地产信托优先H
+DLRpI	数码地产信托优先I
+DLX	豪华
+DM	多兰传媒
+DNB	邓白氏
+DNOW	Now
+DNR	丹博里原油
+DO	戴蒙德海底钻探
+DOC	Physicians Realty
+DOOR	美森特
+DOV	都福
+DOW	陶氏化学
+DPLO	Diplomat Pharmacy
+DPS	澎泉思蓝宝
+DPZ	达美乐比萨
+DQ	大全新能源
+DRD	DRDGOLD
+DRE	杜克房地产
+DRH	Diamondrock
+DRI	达登饭店
+DRQ	Dril-Quip
+DS	Drive Shack
+DST	DST系统
+DSW	DSW鞋类专卖
+DSX	黛安娜船舶
+DTE	DTE能源
+DUK	杜克能源
+DVA	达维塔保健
+DVD	多佛赛车
+DVMT	戴尔科技
+DVN	戴文能源
+DX	德尼克斯投资
+DXC	DXC Technology
+DXpB	德尼克斯投资B类优先
+DY	戴康工业
+DYN	戴纳基
+DYNpA	戴纳基优先股
+E	埃尼石油
+EARN	Ellington
+EAT	布林克国际
+EBF	恩尼斯
+EBR	巴西电力
+EBR.B	巴西电力优先存托
+EBS	Emergent
+EC	哥伦比亚国家石油
+ECA	加拿大能源
+ECL	艺康
+ECOM	Channeladvisor
+ECR	Eclipse Resources
+ED	爱迪生联合电气
+EDN	恩普雷萨电力
+EDR	教育房地产信托
+EDU	新东方
+EE	阿尔帕索电力
+EEP	安桥能源合作伙伴
+EEQ	安桥能源管理
+EEX	翡翠展览会
+EFC	Ellington投资
+EFX	艾可菲
+EGL	Engility控股
+EGN	爱内珍
+EGO	埃尔拉多黄金
+EGP	EastGroup Properties
+EGY	瓦可能源
+EHIC	一嗨租车
+EIG	Employers控股
+EIX	爱迪生国际
+EL	雅诗兰黛
+ELF	e.l.f.美容
+ELLI	Ellie Mae
+ELP	帕拉纳能源优先存托
+ELS	宜居生活资产信托
+ELSpC	宜居生活资产优先C
+ELVT	Elevate Credit
+ELY	卡罗韦高尔夫
+EME	埃姆科
+EMES	Emerge Energy
+EMN	伊士曼化工
+EMR	艾默生电气
+ENB	安桥
+ENBL	Enable Midstream
+ENHpC	耐力特集团C类优先
+ENIA	奈尔西斯
+ENIC	Enel Chile
+ENLC	Enlink Midstream
+ENLK	EnLink Midstream
+ENR	劲量控股
+ENS	艾诺斯
+ENV	Envestnet
+ENVA	易诺华国际
+ENZ	恩佐生化
+EOCC	Enel Generacion
+EOG	EOG能源
+EPAM	Epam系统
+EPC	Edgewell个人护理用品
+EPD	企业产品伙伴
+EPE	EP能源
+EPR	娱乐房地产依托
+EPRpC	EPR地产C类优先
+EPRpE	EPR地产E类优先
+EPRpF	EPR地产F类优先
+EQC	Equity Commonwealth
+EQCpD	Equity优先D
+EQGP	EQT GP Holdings
+EQM	EQT Midstream
+EQR	公平住屋
+EQT	EQT能源
+ERA	Era集团
+ERF	艾诺加能源基金
+ERJ	ERJ航空
+EROS	Eros国际
+ES	能源方案
+ESE	ESCO科技
+ESL	埃斯特林科技
+ESNT	Essent Group
+ESRT	帝国房产信托
+ESS	埃塞克斯信托
+ESTE	Earthstone能源
+ESV	恩斯克国际
+ETE	能源转换
+ETH	伊森艾伦室内装饰
+ETM	安德康传播
+ETN	伊顿
+ETP	Energy Transfer
+ETR	安特吉
+EURN	Euronav
+EV	伊顿万斯
+EVA	Enviva合作伙伴
+EVC	超视野传播
+EVH	Evolent Health
+EVHC	Envision Healthcare
+EVHCp	Envision医疗优先A-1
+EVR	永核伙伴
+EVRI	Everi Holdings
+EVTC	Evertec
+EW	爱德华兹生命科学
+EXC	爱克斯龙
+EXK	Endeavour Silver
+EXP	老鹰材料
+EXPR	Express
+EXR	外太空储蓄
+EXTN	Exterran
+F	福特汽车
+FAC	第一汇票承兑
+FAF	第一美国
+FBC	弗拉格斯塔万通金控
+FBHS	Fortune Brands
+FBK	FB金融
+FBM	Foundation Building
+FBP	第一万能金控
+FBR	Fibria Celulose纸业
+FC	富兰克林柯维
+FCAU	菲亚特克莱斯勒汽车
+FCB	FCB Financial
+FCE.A	Forest City A
+FCF	第一联邦金融
+FCFS	第一富金融服务
+FCH	费尔科寄宿信托
+FCHpA	费尔科寄宿信托优先A
+FCN	FTI咨询
+FCPT	四角财产信托
+FCX	Freeport-McMoRan
+FDC	第一数据
+FDP	戴尔蒙特新鲜制造
+FDS	辉盛研究系统
+FDX	联邦快递
+FE	第一能源
+FELP	Foresight能源
+FENG	凤凰新媒体
+FET	Forum能源科技
+FF	Futurefuel
+FFG	FBL金融
+FGL	富达担保人寿
+FGP	法瑞加合作伙伴
+FHN	第一地平线
+FHNpA	第一地平线存托优先A
+FI	弗兰克国际
+FICO	Fair Isaac
+FIG	Fortress投资
+FII	联邦投资
+FIS	富达国民信息服务
+FIT	Fitbit
+FIX	舒适系统美国公司
+FL	富乐客
+FLO	花苑食品
+FLOW	弗洛国际
+FLR	福陆
+FLS	福斯
+FLT	FleetCor科技
+FLY	巴布科克和布朗航空
+FMC	FMC
+FMS	费森尤斯医疗
+FMSA	Fairmount Santrol
+FMX	墨西哥经济开发
+FN	Fabrinet
+FNB	F.N.B.
+FNBpE	F.N.B.优先存托
+FND	地板装饰控股
+FNF	富达国民金融A
+FNFV	富达国民金融
+FNV	弗兰科-内华达
+FOE	费罗
+FOR	福里斯特
+FPH	五点控股
+FPI	Farmland
+FPO	FPO信托
+FR	第一工业地产
+FRAC	Keane Group
+FRC	First Republic Bank
+FRCpC	第一共和银行优先C
+FRCpD	第一共和银行优先D
+FRCpF	第一共和银行优先F
+FRCpH	第一共和银行优先H
+FRO	前线海运
+FRT	FRT信托
+FSB	Franklin Financial
+FSIC	Fs Investment
+FSM	Fortuna银矿
+FSS	联邦信号
+FTAI	丰泽运输和基础设施
+FTI	TechnipFMC
+FTK	Flotek工业
+FTS	Fortis
+FTV	Fortive
+FUL	富乐
+FUN	雪松娱乐
+G	简伯特
+GATX	Gatx
+GBL	GAMCO投资
+GBX	格林布赖尔
+GCAP	嘉盛控股
+GCI	甘尼特
+GCO	格涅斯科
+GCP	Gcp应用技术
+GD	通用动力
+GDDY	Godaddy
+GDI	Gardner Denver
+GDOT	Green Dot
+GE	通用电气
+GEF	格瑞夫A
+GEF.B	格瑞夫B
+GEL	Genesis能源
+GEN	创世纪医疗
+GEO	GEO惩教集团
+GES	Guess
+GFA	Gafisa建设
+GFF	格里丰
+GFI	金田
+GG	加拿大黄金
+GGB	盖尔道钢铁优先存托
+GGG	固瑞克
+GGP	GGP
+GGPpA	GGP优先
+GHC	格雷厄姆控股
+GHL	格林希尔事务所
+GHM	Graham
+GIB	CGI集团
+GIL	吉登运动服
+GIMO	Gigamon
+GIS	通用磨坊
+GKOS	Glaukos
+GLOB	Globant
+GLOG	Gaslog
+GLOP	Gaslog Partners
+GLOPpA	Gaslog优先
+GLP	伙伴全球
+GLT	PH格拉特费尔
+GLW	康宁
+GM	通用汽车
+GME	游戏驿站
+GMED	Globus医疗
+GMRE	Global Medical Reit
+GMS	GMS
+GNC	Gnc控股
+GNE	Genie Energy
+GNEpA	Genie电力优先
+GNK	根科船务贸易
+GNL	Global Net Lease
+GNRC	Generac控股
+GNRT	Gener8海运
+GNW	通用金融
+GOL	勒莫国航优先存托
+GOLF	高仕利控股
+GOOS	加拿大鹅
+GPC	通用配件
+GPEpA	Georgia电力优先A
+GPI	汽车一组
+GPK	图形包装
+GPMT	Granite Point信托
+GPN	环汇
+GPRK	地质公园
+GPS	盖普
+GPT	Gramercy Property
+GPX	GP战略教育
+GRA	格雷斯事务所
+GRAM	Grana Y Montero
+GRC	The Gorman-Rupp
+GRUB	Grubhub
+GS	高盛
+GSBD	Goldman Sachs Bdc
+GSH	广深铁路
+GSK	葛兰素史克
+GSL	环球租船
+GSLpB	全球船舶租赁B类优先
+GSpB	高盛B类存托优先
+GSpC	高盛C类存托优先
+GSpD	高盛D类存托优先
+GSpI	高盛I类存托优先
+GSpJ	高盛J类存托优先
+GSpK	高盛K类存托优先
+GTN	格林电视
+GTN.A	格林电视A类普通
+GTS	三S管理
+GTT	GTT Communications
+GTY	格蒂房地产
+GVA	花岗岩建筑
+GWB	Great Western银行
+GWR	杰纳西及怀俄明
+GWRE	Guidewire软件
+GWW	固安捷
+GXP	大平原能源
+GZT	Gazit-globe
+H	凯悦酒店
+HAE	美国血液技术
+HAL	哈里伯顿
+HASI	Hannon Armstrong
+HBI	哈尼斯品牌服装
+HBM	Hudbay矿产
+HCA	HCA健康护理
+HCC	Warrior Met Coal
+HCHC	HC2控股
+HCI	HCI集团
+HCLP	Hi-crush Partners
+HCN	Welltower
+HCNpI	WelltowerI类优先
+HCP	HCP房产信托
+HD	家得宝
+HDB	HDFC银行
+HE	夏威夷电力
+HEI	海科航空
+HEI.A	海科航空A类普通
+HEP	霍利能源
+HES	赫斯材料
+HESM	Hess Midstream
+HF	HFF
+HFC	霍利
+HGV	Hilton Grand
+HHC	The Howard Hughes
+HHS	哈特-汉克斯
+HI	希伦布兰德
+HIFR	Infrareit
+HIG	哈特福德金融服务
+HII	Huntington Ingalls
+HIL	希尔国际管理
+HIVE	Aerohive Networks
+HIW	海伍兹物业
+HK	Halcon能源
+HL	赫克拉矿业
+HLF	康宝莱
+HLI	华利安
+HLS	南方保健
+HLT	希尔顿酒店
+HLX	螺旋能源
+HMC	本田汽车
+HMLP	Hoegh Lng
+HMN	霍勒斯曼恩
+HMY	哈莫尼黄金
+HNI	HNI
+HNP	华能国际
+HOG	哈雷戴维森
+HOME	At Home Group
+HON	霍尼韦尔
+HOS	霍恩贝克离岸服务
+HOV	霍夫纳尼安
+HP	赫尔默里奇和佩恩材料
+HPE	惠普企业
+HPP	哈德森太平洋地产
+HPQ	惠普
+HR	医疗保健房地产信托
+HRB	HR布洛克服务
+HRC	希尔罗控股
+HRG	哈宾格投资
+HRI	Herc Holdings
+HRL	荷美尔食品
+HRS	哈里斯通讯
+HRTG	Heritage Insurance
+HSBC	汇丰控股
+HSBCpA	汇丰控股A类存托优先
+HSC	哈斯科材料
+HST	豪斯特酒店
+HSY	好时
+HT	HT基金
+HTA	美国医疗保健信托
+HTGC	海格投资
+HTH	希尔托普控股
+HUBB	哈贝尔
+HUBS	Hubspot
+HUM	休曼纳
+HUN	亨斯曼材料
+HVT	哈弗蒂家具
+HVT.A	哈弗蒂家具A类普通
+HXL	赫氏
+HY	海斯特-耶鲁物料运输
+HYH	Halyard Health
+HZN	Horizon Global
+HZO	海上麦斯服务
+I	国际通信卫星
+IAG	Iamgold
+IBA	Bachoco Industries
+IBM	IBM
+IBN	印度工业信贷投资银行
+IBP	Installed Building
+ICD	独立钻井合约
+ICE	洲际交易所
+ICL	Israel Chemicals
+IDA	IDACORP
+IDT	万威B
+IEX	IDEX
+IFF	国际香精香料
+IGT	国际游戏科技
+IHC	独立控股
+IHG	洲际酒店集团
+IIPR	Innovative
+IMAX	驰能设备
+INFY	印孚瑟斯
+ING	荷兰国际
+INGR	Ingredion
+INN	峰会酒店置业
+INNpB	峰会酒店置业优先B
+INNpC	峰会酒店置业优先C
+INNpD	峰会酒店置业优先D
+INST	Instructure
+INSW	International
+INT	全球燃料服务
+INVH	Invitation Homes
+INXN	InterXion控股
+IO	离子地球物理
+IP	国际纸业
+IPG	埃培智
+IPHI	Inphi
+IPI	无畏钾肥
+IPLpD	Interstate电光优先D
+IR	英格索兰
+IRET	IRET房产信托
+IRETpB	IRET房产信托B类优先
+IRM	铁山
+IRS	IRSA Investments
+IRT	独立房地产信托
+IT	加特纳
+ITCB	CorpBanca
+ITG	投资科技股份
+ITGR	Integer Holdings
+ITT	ITT
+ITUB	艾涛巴西联合银行
+ITW	伊利诺伊机械
+IVC	英伐凯
+IVR	景顺抵押资本
+IVRpA	景顺抵押资本A类优先
+IVRpB	景顺抵押资本B类优先
+IVZ	景顺投资管理
+IX	欧力士
+JAG	Jagged Peak Energy
+JAX	J亚历山大
+JBGS	Jbg Smith
+JBL	捷普
+JBT	约翰宾技术
+JCAP	Jernigan Capital
+JCI	江森自控
+JCP	彭尼百货
+JE	Just能源
+JEC	雅各布工程
+JELD	Jeld-wen Holding
+JHG	Janus Henderson
+JHX	詹姆斯哈迪
+JILL	J.Jill
+JKS	晶科能源
+JLL	仲量联行
+JMEI	聚美优品
+JMP	JMP集团
+JNJ	强生
+JNPR	瞻博网络
+JOE	圣乔
+JONE	琼斯能源
+JP	钜派投资
+JPM	摩根大通
+JPMpA	摩根大通P类存托优先
+JPMpB	摩根大通T类优先股
+JPMpD	摩根大通O类存托优先
+JPMpE	摩根大通W类优先股
+JPMpF	摩根大通Y类存托优先
+JPMpG	摩根大通AA类优先股
+JPMpH	摩根大通 BB 存托优先
+JW.A	John Wiley & Sons A
+JW.B	John Wiley & Sons B
+JWN	诺德斯特龙
+K	家乐氏
+KAI	凯登纸业
+KAMN	卡曼
+KAR	KAR车行
+KB	韩国国民银行
+KBH	厨卫家
+KBR	KBR科技
+KDMN	Kadmon Holdings
+KEG	克罗
+KEM	KEMET
+KEN	建安集团
+KEP	韩国电力
+KEX	卡比海运
+KEY	美国科凯国际
+KEYS	Keysight技术
+KFNp	KKR金融控股优先
+KFS	汇富金融服务
+KFY	光辉国际咨询顾问
+KGC	金罗斯黄金
+KIM	金克不动产
+KIMpI	金克不动产存托优先I
+KIMpJ	金克不动产J类优先
+KIMpK	金克不动产存托优先K
+KKR	Kkr & Co.
+KKRpA	Kkr & Co.优先
+KKRpB	Kkr & Co.优先B
+KMB	金佰利
+KMG	KMG化工
+KMI	金德尔摩根
+KMIpA	金德尔摩根优先A
+KMPR	Kemper
+KMT	肯纳金属
+KMX	车美仕
+KN	诺尔斯
+KND	金德里德保健
+KNL	海丘
+KNOP	KNOT Offshore
+KNX	骑士运输
+KO	可口可乐
+KODK	柯达
+KOF	可口可乐凡萨瓶装
+KOP	科佩斯控股
+KORS	迈克高仕
+KOS	Kosmos能源
+KR	克罗格
+KRA	科腾制药
+KRC	吉劳埃地产
+KREF	KKR房地产金融信托
+KRG	凯特地产信托
+KRO	康诺斯全球
+KRP	Kimbell Royalty
+KS	KapStone造纸
+KSS	科尔士百货
+KSU	堪萨斯南方铁路
+KSUp	堪萨斯南方铁路优先
+KT	韩国电信
+KW	Kennedy-Wilson控股
+KWR	奎克化学
+KYO	京都陶艺
+L	洛斯保险
+LAD	利西亚车行
+LADR	Ladder Capital
+LAZ	Lazard
+LB	L品牌服装
+LC	Lendingclub
+LCI	Lannett
+LCII	LCI Industries
+LDL	莱德尔
+LDOS	Leidos Holdings
+LDR	蓝道尔信息检索
+LEA	李尔
+LEE	李氏企业
+LEG	礼恩派
+LEJU	乐居
+LEN	莱纳
+LEN.B	莲娜B类普通
+LFC	中国人寿
+LFGR	Leaf Group
+LGF.A	狮门娱乐A
+LGF.B	狮门娱乐B
+LH	美国控股实验室
+LHO	拉萨尔饭店
+LHOpI	拉萨尔饭店I类优先
+LHOpJ	拉萨尔饭店J类优先
+LII	雷诺士
+LITB	兰亭集势
+LKSD	LSC Communications
+LL	Lumber Liquidators
+LLL	L-3通讯控股
+LLY	礼来
+LM	美盛集团
+LMT	洛克希德马丁
+LN	LINE
+LNC	林肯国民
+LND	巴西农业不动产
+LNN	林赛
+LNT	美国联合能源
+LOW	劳氏
+LPG	Dorian LPG
+LPI	Laredo石油
+LPL	LG Display
+LPT	自由财产信托
+LPX	路易斯安那太平洋
+LQ	La Quinta Holdings
+LRN	K12国际学校
+LSI	Life Storage
+LTC	LTC房产
+LTM	LATAM航空
+LUB	卢比
+LUK	露卡迪亚
+LUV	西南航空
+LUX	陆逊梯卡
+LVLT	第三级通讯
+LVS	金沙集团
+LW	Lamb Weston控股
+LXFR	Luxfer控股
+LXFT	Luxoft Holding
+LXP	莱星顿置业信托
+LXPpC	莱星顿置业信托优先C
+LXU	LSB工业材料
+LYB	利安德巴塞尔
+LYG	劳埃德银行
+LYV	现场之国娱乐
+LZB	La-Z-Boy家具
+M	梅西百货
+MA	万事达
+MAA	MAA房产信托
+MAApI	MAA房产信托I类优先
+MAC	马塞里奇房产
+MAIN	主街资本
+MAN	万宝盛华人力资源
+MANU	曼联
+MAS	马斯可木业
+MATX	美森
+MBI	美国城市债券保险
+MBLY	Mobileye
+MBT	移动电信
+MC	Moelis A
+MCC	Medley资本
+MCD	麦当劳
+MCK	麦克森
+MCO	穆迪
+MCRN	Milacron Holdings
+MCS	马库斯
+MCY	默邱利通用
+MD	麦德纳斯服务
+MDC	M.D.C. Holdings
+MDLY	Medley Management
+MDP	梅瑞狄斯
+MDR	迈克德莫特国际
+MDT	美敦力
+MDU	MDU资源
+MED	快验保
+MEI	梅索德电子
+MET	大都会人寿
+METpA	大都会人寿A类优先
+MFA	MFA抵押投资
+MFApB	MFA抵押投资B类优先
+MFC	宏利金融
+MFCB	MFC Bancorp
+MFG	瑞穗金融
+MG	米斯特拉斯集团
+MGA	曼格纳国际
+MGM	美高梅
+MGP	MGM Growth
+MHK	莫霍克工业
+MHO	MI 家居
+MHOpA	MI 家居优先
+MHpA	梅登控股A类优先
+MHpD	梅登控股D类优先
+MIC	麦格里基础设施
+MITT	AG按揭投资信托
+MITTpA	AG按揭投资信托优先A
+MITTpB	AG按揭投资信托优先B
+MIXT	混合远程信息处理
+MKC	味好美
+MKC.V	味好美
+MKL	马克尔保险
+MLI	木勒工业
+MLM	马丁-玛丽埃塔材料
+MLP	毛伊岛菠萝食品
+MLR	米勒汽配
+MMC	威达信
+MMI	Marcus & Millichap
+MMM	3M
+MMP	麦哲伦油气
+MMS	马克西姆斯服务
+MN	Manning & Napier
+MNI	麦克拉奇报业
+MNK	马林克罗制药
+MNR	Monmouth房地产投资
+MNRpC	Monmouth房地产优先C
+MO	奥驰亚集团
+MOD	摩丁制造
+MODN	Model N
+MOG.A	穆格A
+MOG.B	穆格B
+MOH	莫利纳医疗
+MON	孟山都
+MORE	Monogram住宅信托
+MOS	美盛
+MOV	摩凡陀
+MPC	马拉松原油
+MPLX	Mplx
+MPO	Midstates石油
+MPW	医疗不动产基金
+MPX	海洋产品
+MRC	MRC全球
+MRIN	马林软件
+MRK	默克制药
+MRO	马拉松石油
+MRT	MedEquities Realty
+MS	摩根士丹利
+MSA	MSA Safety
+MSCI	Msci
+MSG	麦迪逊花园
+MSGN	麦迪逊广场花园网络
+MSI	摩托罗拉解决方案
+MSL	Midsouth Bancorp
+MSM	MSC工业机械
+MSpA	摩根士丹利A类优先
+MSpG	摩根士丹利G类优先
+MSpI	摩根士丹利优先I
+MSpK	摩根士丹利K类优先
+MT	安赛乐米塔尔
+MTB	美国制商银行
+MTBp	M&T 银行A类优先
+MTBpC	M&T 银行C类优先
+MTD	梅特勒-托利多
+MTDR	Matador能源
+MTG	MGIC投资
+MTH	梅若堤居
+MTL	车里雅宾斯克钢铁
+MTLp	Mechel PAO存托优先
+MTN	Vail Resorts
+MTOR	美驰
+MTRN	Materion
+MTU	三菱日联金融集团
+MTW	马尼托沃克
+MTX	Minerals
+MTZ	马斯科技大型工程
+MULE	MuleSoft
+MUR	墨菲石油
+MUSA	墨菲美国
+MUX	McEwen Mining
+MVC	MVC资本
+MWA	穆勒集团
+MX	海力士半导体
+MXL	Maxlinear
+MYCC	Clubcorp Holdings
+MYE	迈尔斯工业股份
+MYOV	Myovant Sciences
+NADL	北大西洋钻井
+NAO	北欧美国海洋
+NAP	Navios Maritime
+NAT	北欧美国油轮公司
+NAV	纳威司达
+NAVpD	航星国际D类优先
+NBHC	National Bank控股
+NBL	诺贝尔能源
+NBLX	Noble Midstream
+NBR	纳伯斯工业
+NC	纳科工业
+NCI	法维翰咨询
+NCR	NCR
+NCS	NCI建筑系统
+NE	诺布尔钻井
+NEE	新纪元能源
+NEEpQ	新纪元能源优先
+NEFF	Neff
+NEM	纽蒙特矿业
+NEP	Nextera Energy
+NETS	Netshoes
+NEU	纽马克特
+NEWM	新媒体投资集团
+NEWR	New Relic
+NFG	国家燃气
+NFX	新田勘探
+NGG	英国电力
+NGL	Ngl能源合作伙伴
+NGLpB	Ngl能源合作伙伴优先B
+NGS	天然气服务集团
+NGVC	Natural Grocers
+NGVT	Ingevity
+NHI	National Health
+NI	尼索斯
+NJR	新泽西能源
+NKE	耐克
+NL	NL工业
+NLS	鹦鹉螺体育
+NLSN	尼尔森
+NLY	安纳利资本管理
+NLYpC	安纳利资本管理优先C
+NLYpD	安纳利资本管理优先D
+NLYpE	安纳利资本管理优先E
+NLYpF	安纳利资本管理优先F
+NM	Navios海事控股
+NMFC	New Mountain Finance
+NMM	纳维奥斯海运
+NMpG	Navios海事控股优先
+NMpH	Navios海事控股优先H
+NNA	纳维奥斯海上收购
+NNI	尼尔网教育信贷
+NNN	National Retail
+NNNpE	NNN基金E类优先
+NNNpF	NNN基金F类优先
+NOA	北美能源
+NOAH	诺亚财富
+NOC	诺斯罗普·格鲁门
+NOK	诺基亚
+NOMD	Nomad Foods
+NORD	北英格兰教育
+NOV	国民油井华高
+NOW	ServiceNow
+NP	尼拿纸业
+NPK	帕斯托工业
+NPO	恩佩罗工业
+NPTN	新飞通光电
+NQ	网秦
+NR	新园能源
+NRE	欧洲北辰房地产
+NRG	NRG能源
+NRP	天然资源开采
+NRZ	新住宅投资
+NS	纽星能源
+NSA	National Storage
+NSC	诺福克南方铁路
+NSH	努什塔尔控股
+NSM	Nationstar抵押控股
+NSP	Insperity
+NSpA	努什塔尔能源A类优先
+NSpB	努什塔尔能源B类优先
+NTB	The Bank of N.T.
+NTL	北方电信投资优先存托
+NTP	南太投资
+NTZ	纳图兹家具
+NUE	纽柯钢铁
+NUS	如新集团
+NVGS	导航控股
+NVO	诺和诺德
+NVR	NVR
+NVRO	Nevro
+NVS	诺华
+NVTA	Invitae
+NWE	Northwestern
+NWHM	The New Home Company
+NWL	纽威品牌
+NWN	西北天然气
+NWY	纽约
+NX	夸斯建材
+NXRT	Nexpoint住宅信托
+NYCB	纽约社区银行
+NYCBpA	纽约社区银行存托优先
+NYLD	Nrg Yield C
+NYLD.A	Nrg Yield A
+NYRT	New York REIT
+NYT	纽约时报
+O	Realty Income
+OA	Orbital ATK
+OAK	橡树资本
+OAKS	五橡树投资
+OAKSpA	五橡树投资A类优先
+OAS	绿洲石油
+OB	独塔保险集团
+OBE	黑曜石能源
+OC	欧文斯科宁
+OCIP	Oci Partners
+OCN	奥克文货贷
+ODC	美国石油勘探
+OEC	猎户座工程碳
+OFC	Corporate Office
+OFG	东方金融集团
+OFGpA	东方金融集团A类优先
+OFGpB	东方金融集团B类优先
+OFGpD	东方金融集团D类优先
+OGE	OGE能源
+OGS	One Gas
+OHI	Omega Healthcare
+OI	欧文斯伊利诺玻璃
+OIBR.C	OI
+OII	国际海洋工程
+OIS	石油斯特国际
+OKE	欧尼克（万欧卡）
+OLN	欧林
+OLP	OLP房产信托
+OMAM	OM资产管理
+OMC	宏盟集团
+OME	欧米加蛋白食品
+OMF	OneMain Holdings
+OMI	欧麦斯-麦能医疗
+OMN	欧诺瓦化学
+ONDK	On Deck Capital
+OOMA	Ooma
+OPY	奥本海默控股
+OR	Osisko Gold
+ORA	奥玛特科技
+ORAN	Orange
+ORC	Orchid Island
+ORCL	甲骨文
+ORI	欧德共和国际
+ORN	Orion Group Holdings
+OSB	Norbord
+OSG	海外航运集团
+OSK	Oshkosh
+OUT	OUTFRONT Media
+OXM	牛津工业
+OXY	西方石油
+OZM	Och-Ziff资本管理集团
+P	潘多拉媒体
+PAA	全美平地管道
+PAC	太平洋航空
+PACD	Pacific Drilling
+PAG	潘世奇汽车
+PAGP	Plains GP
+PAH	平台专业产品
+PAM	Pampa能源
+PANW	Palo Alto Networks
+PAR	PAR技术
+PAY	惠尔丰控股
+PAYC	Paycom Software
+PB	普罗斯佩里蒂银行
+PBA	Pembina Pipeline
+PBF	PBF能源
+PBFX	Pbf Logistics
+PBH	普雷斯蒂奇
+PBI	必能宝
+PBR	巴西石油
+PBR.A	巴西石油存托优先
+PCG	太平洋煤气和电力
+PDM	Piedmont Realty
+PDS	精测勘探
+PE	Parsley Energy
+PEB	Pebblebrook酒店信托
+PEBpC	Pebblebrook酒店优先C
+PEBpD	Pebblebrook酒店优先D
+PEG	公共服务企业
+PEI	宾夕法尼亚地产
+PEIpA	宾夕法尼亚地产优先A
+PEIpB	宾夕法尼亚地产优先B
+PEIpC	宾夕法尼亚地产优先C
+PEN	Penumbra
+PEP	百事
+PER	Sandridge Permian
+PES	先锋能源服务
+PF	品尼高食品
+PFE	辉瑞
+PFG	信安金融
+PFGC	性能食品集团
+PFS	公积金金融服务
+PFSI	Pennymac金融服务
+PG	宝洁
+PGEM	Ply Gem Holdings
+PGH	彭格娄斯能源信托
+PGR	美国前进保险
+PGRE	Paramount Group
+PGTI	PGT Innovations
+PH	派克汉尼汾
+PHG	飞利浦
+PHH	PHH
+PHI	菲律宾长途电话
+PHM	帕尔迪
+PHX	潘汉德尔油气
+PII	北极星
+PIR	1号码头家具
+PJC	派杰
+PJT	Pjt Partners
+PK	Park Hotels
+PKD	帕克钻井
+PKE	帕克电气化学
+PKG	美国包装
+PKI	珀金埃尔默
+PKX	浦项钢铁
+PKY	百汇
+PLD	普洛斯
+PLNT	星球健身
+PLOW	道格拉斯动力
+PLT	缤特力
+PM	菲利普莫里斯
+PMC	法尔梅加
+PMT	PennyMac Mortgage
+PMTpA	PennyMac优先A
+PMTpB	PennyMac优先B
+PN	爱国者国家
+PNC	PNC金融服务
+PNCpP	PNC金融服务P类优先
+PNCpQ	PNC金融服务Q类优先
+PNM	PNM电力瓦斯
+PNR	滨特尔
+PNW	西帕纳卡资本
+POL	普立万
+POR	波特兰通用电气
+POST	Post Holdings
+POT	加拿大钾肥
+PPG	PPG工业
+PPL	PPL能源
+PPP	Primero Mining
+PPSpA	波斯特房产信托优先A
+PQ	PetroQuest能源
+PRA	Proassurance
+PREpF	帕特纳瑞保险F类优先
+PREpG	帕特纳瑞保险G类优先
+PREpH	帕特纳瑞保险H类优先
+PREpI	帕特纳瑞保险I类优先
+PRGO	培瑞克
+PRI	Primerica
+PRLB	Proto实验室
+PRO	PROS控股
+PRTY	Party City Holdco
+PRU	保德信金融
+PSA	大众仓储
+PSApA	大众仓储优先A
+PSApC	大众仓储优先存托C
+PSApE	大众仓储E类存托优先
+PSApF	大众仓储优先存托F
+PSApT	大众仓储T类存托优先
+PSApU	大众仓储U类存托优先
+PSApW	大众仓储W类存托优先
+PSApX	大众仓储X类存托优先
+PSApY	大众仓储Y类存托优先
+PSB	PS商业园A系列
+PSBpT	PS商业园A系列T类优先
+PSBpV	PS商业园A系列V类优先
+PSBpW	PS商业园A系列W类优先
+PSO	培生
+PSTG	Pure Storage
+PSX	Phillips 66
+PSXP	Phillips 66 Partners
+PTHN	Patheon
+PTR	中石油
+PUK	保诚保险
+PUMP	ProPetro Holding
+PVG	Pretium Resources
+PVH	休森
+PWR	广达
+PX	普莱克斯
+PXD	先锋自然资源
+PZE	巴西石油-阿根廷
+PZN	Pzena投资管理
+Q	昆泰医药
+QCP	Quality Care
+QEP	QEP资源
+QHC	Quorum Health
+QSR	餐饮品牌国际
+QTM	昆腾数据
+QTS	QTS Realty Trust
+QTWO	Q2 Holdings
+QUAD	Quad/Graphics
+QUOT	Quotient Technology
+R	瑞德系统
+RACE	法拉利
+RAD	来德爱
+RAS	RAIT信托
+RASpA	RAIT信托A类优先
+RASpB	RAIT信托B类优先
+RASpC	RAIT信托C类优先
+RATE	银率
+RBA	里奇兄弟拍卖
+RBC	雷勃电气
+RBS	苏格兰皇家银行
+RBSpS	苏格兰皇家银行存优S
+RCI	罗杰斯通信
+RCL	皇家加勒比邮轮
+RDC	罗文
+RDN	瑞迪安集团
+RDS.A	壳牌普通存托A
+RDS.B	壳牌普通存托B
+RDY	如瑞迪博士
+RE	艾弗再险集团
+REG	丽晶中心
+RELX	RELX
+REN	雷索鲁特能量
+RENN	人人
+RENX	RELX
+RES	RPC
+RESI	Altisource
+REV	露华浓
+REVG	REV Group
+REX	雷克斯美国资源
+REXR	雷克斯工业房地产
+REXRpA	雷克斯工业房地产优先
+RF	地区金融
+RFP	Resolute Forest
+RFpB	地区金融B类存托优先
+RGA	美国再保险集团
+RGC	君豪娱乐
+RGR	斯特姆-鲁格
+RGS	里吉斯
+RH	RH
+RHI	罗伯特哈夫
+RHP	莱曼酒店地产
+RHT	红帽
+RIC	Richmont矿业
+RICE	Rice Energy
+RIG	越洋钻探
+RIO	力拓
+RJF	瑞杰金融
+RL	拉夫劳伦
+RLGY	Realogy控股
+RLH	Red Lion Hotels
+RLI	RLI保险
+RLJ	RLJ住房信托
+RM	Regional管理
+RMAX	RE/MAX控股
+RMD	瑞思迈
+RMP	Rice Midstream
+RNG	RingCentral
+RNR	复兴控股
+RNRpC	复兴控股C类优先
+RNRpE	复兴控股E类优先
+ROG	罗杰斯
+ROK	罗克韦尔自动化
+ROL	罗林斯
+ROP	儒博实业
+RPAI	美国零售物业
+RPAIpA	美国零售物业优先A
+RPM	RPM国际
+RPT	Ramco-Gershenson
+RRC	Range资源
+RRD	当纳利
+RRTS	Roadrunner运输
+RS	信实钢铝加工
+RSG	共和废品处理
+RSO	Resource Capital
+RSOpB	资源资本B类优先
+RSPP	RSP Permian
+RST	如师通
+RT	鲁比星期二饭店
+RTEC	鲁道夫技术
+RTN	雷神
+RUBI	The Rubicon Project
+RWT	红木信托
+RXN	莱克斯诺
+RXNpA	莱克斯诺A类优先
+RY	加拿大皇家银行
+RYAM	Rayonier Advanced
+RYAMpA	Rayonier 优先A
+RYI	Ryerson控股
+RYN	雷欧尼尔
+RYpT	加拿大皇家银行优先T
+S	斯普林特
+SA	海桥黄金
+SAFE	Safety Income Growth
+SAH	索尼克汽车
+SAIC	科学应用
+SALT	Scorpio Bulkers
+SAM	波斯顿啤酒
+SAN	桑坦德银行
+SANpA	桑坦德银行A类优先
+SANpB	桑坦德银行B类优先
+SANpC	桑坦德银行C类优先
+SANpI	桑坦德银行I类优先
+SAP	SAP SE
+SAR	Saratoga投资
+SB	安全集装
+SBGL	Sibanye Gold
+SBH	Sally Beauty
+SBOW	SilverBow Resources
+SBpD	安全集装D类优先
+SC	Santander
+SCCO	南方铜业
+SCEpJ	Southern优先J
+SCEpL	Southern优先L
+SCG	斯卡纳
+SCHW	嘉信理财
+SCHWpB	嘉信理财B类优先
+SCHWpC	嘉信理财C类优先
+SCHWpD	嘉信理财D类优先
+SCI	国际服务
+SCL	史提宾
+SCM	Stellus资本投资
+SCS	斯迪凯思
+SCX	施泰力
+SD	桑德里奇能源
+SDLP	Seadrill Partners
+SDRL	Seadrill
+SEAS	海洋世界
+SEE	希悦尔包装
+SEM	精选医疗集团
+SEMG	SemGroup
+SEP	Spectra能源
+SERV	ServiceMaster
+SF	Stifel金融
+SFE	安科投资
+SFL	航运金融国际
+SFpA	Stifel金融 优先A
+SGU	星辰天然气
+SGY	斯通能源
+SHAK	Shake Shack
+SHG	新韩金融
+SHI	上石化
+SHLX	Shell Midstream
+SHO	太阳石酒店投资
+SHOP	Shopify
+SHOpE	太阳石酒店投资优先E
+SHOpF	太阳石酒店投资优先F
+SHW	宣威-威廉姆斯
+SID	巴西国家黑色冶金
+SIG	西格内特珠宝
+SITE	Siteone Landscape
+SIX	六旗娱乐
+SJI	南新州煤气
+SJM	JM斯马克
+SJR	肖氏通信
+SJW	SJW
+SKM	SK电信
+SKT	坦格尔直销中心
+SKX	斯凯奇
+SLB	斯伦贝谢
+SLCA	U.S. Silica控股
+SLD	Sutherland Asset
+SLF	永明金融
+SLG	格林不动产
+SLGpI	格林不动产I类优先
+SM	圣玛丽石油勘测
+SMFG	三井住友金融集团
+SMG	斯科兹物种
+SMHI	SEACOR Marine
+SMI	中芯国际
+SMLP	Summit Midstream
+SMP	Standard Motor
+SN	Sanchez能源
+SNA	实耐宝
+SNAP	Snap
+SNDR	Schneider National
+SNE	索尼
+SNN	史密斯叔侄医疗
+SNP	中石化
+SNR	New Senior投资集团
+SNV	西诺乌斯金融
+SNVpC	西诺乌斯金融C类优先
+SNX	新聚思
+SNY	赛诺菲-安万特
+SO	南方电力
+SOI	Solaris油田基础设施
+SOL	昱辉阳光
+SON	索诺科产品
+SOVpC	桑坦德控股优先C
+SPA	斯巴顿
+SPB	科博控股
+SPG	西蒙地产集团
+SPGI	S&P Global
+SPGpJ	西蒙地产集团J类优先
+SPH	Suburban Propane
+SPLP	Steel Partners控股
+SPLPpA	Steel Partners优先A
+SPN	超级能源
+SPR	Spirit Aerosystems
+SPXC	斯必克
+SQ	Square
+SQM	智利矿业化工
+SQNS	Sequans通信
+SR	Spire
+SRC	Spirit Realty
+SRE	桑普拉能源
+SRG	Seritage Growth
+SRI	斯通里奇
+SRLP	斯普拉格能源
+SRT	StarTek
+SSD	辛普森配件制造
+SSI	舞台服装百货
+SSL	Sasol
+SSNI	思飞信
+SSP	EW史立普斯报业
+SSTK	Shutterstock
+SSW	西斯班
+SSWpD	西斯班航运集团优先D
+SSWpE	西斯班航运集团优先E
+SSWpG	西斯班航运集团优先G
+SSWpH	西斯班航运集团优先H
+ST	Sensata
+STAG	Stag工业
+STAGpB	Stag工业B类优先
+STAGpC	Stag工业C类优先
+STAR	iStar
+STARpD	iStarD类优先
+STARpE	iStarE类优先
+STARpF	iStarF类优先
+STARpG	iStarG类优先
+STARpI	iStarI类优先
+STAY	Extended Stay
+STC	斯图尔特信息服务
+STE	Steris
+STI	太阳信托银行
+STIpA	太阳信托银行A类优先
+STIpE	太阳信托银行E类优先
+STL	纽约公积金合众银行
+STM	意法半导体
+STN	斯坦泰克
+STNG	Scorpio Tankers
+STO	挪威石油
+STON	StoneMor Partners
+STOR	Store Capital
+STT	美国道富
+STTpC	美国道富C类存托优先
+STTpD	美国道富D类存托优先
+STTpE	美国道富优先E
+STTpG	美国道富优先G
+STWD	喜达屋不动产信托
+STZ	星座品牌
+STZ.B	星座品牌B类普通
+SU	森科能源
+SUI	Sun Communities
+SUIpA	SUI房产基金A类优先
+SUM	峰会材料
+SUN	太阳石油
+SUP	超级工业国际
+SUPV	Grupo Supervielle
+SVU	帕维鲁国际
+SWFT	美国转运交通
+SWK	史丹利百得
+SWM	施伟策·摩迪集团
+SWN	西南能源
+SWNC	西南能源存托优先
+SWX	Southwest Gas控股
+SXC	Suncoke能源
+SXCP	Suncoke Energy
+SXE	Southcross能源
+SXI	Standex国际
+SXT	森馨
+SYF	Synchrony Financial
+SYK	史赛克
+SYT	先正达
+SYX	司德麦克斯
+SYY	西斯科
+T	美国电话电报
+TAC	全美阿尔塔电力
+TAHO	Tahoe资源
+TAL	好未来
+TAP	莫尔森库尔斯酿酒B
+TAP.A	莫尔森库尔斯酿酒A
+TARO	塔罗制药工业
+TBI	真蓝
+TCAP	Triangle Capital
+TCF	TCF金融
+TCFpB	TCF金融优先
+TCFpC	TCF金融B类优先
+TCI	洲际地产投资
+TCO	陶布曼中心
+TCOpJ	陶布曼中心J类优先
+TCOpK	陶布曼中心K类优先
+TCP	TC PipeLines
+TCS	容器商店集团
+TD	多伦多道明银行
+TDC	Teradata
+TDG	TransDigm Group
+TDOC	Teladoc
+TDS	电话和数据系统
+TDW	潮水海运
+TDY	泰里达因技术
+TECK	泰克资源
+TEF	西班牙电信
+TEGP	Tallgrass Energy Gp
+TEL	泰科电子
+TEN	天纳克
+TEO	阿根廷电信
+TEP	Tallgrass Energy
+TER	泰瑞达
+TEVA	梯瓦制药
+TEX	特雷克斯
+TFX	泰利福
+TG	特里迪加
+TGH	Textainer控股集团
+TGI	Triumph集团
+TGNA	TEGNA
+TGP	Teekay Lng Partners
+TGPpA	Teekay Lng 优先A
+TGS	南部燃气股份有限公司
+TGT	塔吉特
+THC	泰尼特保健
+THG	汉诺威保险
+THO	Thor Industries
+THR	Thermon控股集团
+THS	树屋食品
+TI	意大利电信普通存托
+TI.A	意大利电信存托A
+TIER	Tier Reit
+TIF	蒂芙尼
+TIME	Time
+TISI	Team
+TJX	TJX零售
+TK	帝凯海运
+TKC	Turkcell
+TKR	铁姆肯
+TLK	印尼电信
+TLP	特斯莫坦油管
+TLRD	Tailored Brands
+TLYS	Tilly's
+TM	丰田汽车
+TMHC	泰勒·莫里森家
+TMK	托马科
+TMO	赛默飞世尔科技
+TMST	Timkensteel
+TNC	坦能
+TNET	Trinet Group
+TNH	特拉制氮化学
+TNK	Teekay油轮
+TNP	查科斯能源海运
+TNPpB	查科斯能源海运优先B
+TNPpC	查科斯能源海运优先C
+TNPpD	查科斯能源海运优先D
+TNPpE	查科斯能源海运优先E
+TOL	托尔兄弟
+TOO	铁凯航运
+TOOpA	铁凯航运A类优先
+TOOpB	铁凯航运优先B
+TOT	道达尔
+TOWR	Tower国际
+TPB	Turning Point Brands
+TPC	Tutor Perini建筑
+TPGE	TPG Pace Energy
+TPH	TRI Pointe Group
+TPRE	Third Point
+TPVG	TriplePoint
+TPX	丹普西利国际
+TR	宝贝卷糖业
+TRC	Tejon牧业
+TRCO	论坛媒体
+TREC	Trecora Resources
+TREX	Trex木业
+TRGP	Targa资源投资
+TRI	汤森路透
+TRK	赛车运动
+TRMR	Tremor Video
+TRN	Trinity Industries
+TRNO	特雷诺房地产
+TROX	Tronox
+TRP	TransCanada
+TRQ	绿松石山资源
+TRTN	特里同国际
+TRTX	TPG RE Finance Trust
+TRU	TransUnion
+TRV	旅行者保险
+TS	泰纳瑞斯钢铁
+TSE	Trinseo
+TSLX	Tpg专业贷款
+TSM	台积电
+TSN	泰森食品
+TSQ	Townsquare Media
+TSS	总系统服务
+TSU	蒂姆控股普通存托
+TTC	托罗配件
+TTI	脂鲤技术
+TTM	塔塔汽车
+TU	泰勒斯
+TUP	特百惠
+TV	墨西哥电视
+TVPT	Travelport Worldwide
+TWI	泰坦国际
+TWLO	Twilio
+TWO	双港投资
+TWOpA	双港投资优先A
+TWOpB	双港投资优先B
+TWTR	Twitter
+TWX	时代华纳
+TX	特尔尼翁钢铁
+TXT	德事隆
+TYL	泰勒科技
+UA	安德玛服装 C
+UAA	安德玛服装
+UAL	联合大陆航空
+UAN	CVR合伙人
+UBA	优士达不动产A
+UBP	优士达不动产
+UBPpF	优士达不动产F类优先
+UBPpG	优士达不动产G类优先
+UBS	瑞银集团
+UDR	UDR不动产信托
+UE	Urban Edge
+UFI	仪化宇辉
+UFS	唐塔
+UGI	UGI公用事业
+UGP	Ultrapar控股普通存托
+UHS	环球保健
+UHT	环球医疗信托
+UIS	优利系统
+UL	联合利华
+UMC	联电
+UMH	UMH地产
+UMHpB	UMH地产B类优先
+UN	荷兰联合利华
+UNF	第一联合
+UNH	联合健康集团
+UNM	尤纳姆
+UNP	联合太平洋
+UNT	尤尼石油
+UNVR	Univar
+UPS	联合包裹服务
+URI	联合租赁
+USAC	USA Compression
+USB	美国合众银行
+USBpA	美国合众银行存优A
+USBpH	美国合众银行存优B
+USBpM	美国合众银行存优F
+USDP	Usd Partners
+USFD	美国食品控股
+USG	美国石绵
+USM	美国无线电话
+USNA	优莎娜
+USPH	美国理疗保健
+UTI	环球技术学院
+UTL	Unitil
+UTX	联合技术
+UVE	万全保险
+UVV	环球烟草
+V	Visa
+VAC	万豪度假环球
+VALE	淡水河谷
+VALE.P	淡水河谷优先存托
+VAR	瓦里安医疗系统
+VC	伟世通
+VCO	智利干露酒庄
+VCRA	Vocera通信
+VEC	Vectrus
+VEDL	Vedanta
+VEEV	Veeva Systems
+VER	Vereit
+VERpF	VEREIT F类优先
+VET	朱砂能源公司
+VFC	VF服装
+VG	Vonage通信
+VGR	Vector烟草集团
+VHI	瓦利化工
+VIPS	唯品会
+VIV	保罗迪圣电讯优先存托
+VJET	Voxeljet
+VLO	瓦莱罗能源
+VLP	Valero Energy
+VLRS	Volaris航空控股
+VLY	硅谷国家银行
+VMC	火神材料
+VMI	维蒙特工业
+VMW	Vmware
+VNCE	文斯控股
+VNO	沃纳多房地产基金
+VNOpG	沃纳多房地产优先G
+VNOpI	沃纳多房地产优先I
+VNOpK	沃纳多房地产优先K
+VNOpL	沃纳多房地产优先L
+VNTR	Venator Materials
+VNTV	Vantiv
+VOYA	Voya Financial
+VPG	Vishay精密集团
+VR	Validus控股
+VRS	Verso
+VRTV	Veritiv
+VRX	凡利亚药品国际
+VSH	威世科技
+VSI	Vitamin Shoppe
+VSLR	Vivint Solar
+VSM	Versum Materials
+VST	Vistra Energy
+VSTO	Vista Outdoor
+VTR	斗牛场不动产投资信托
+VTTI	VTTI Energy Partners
+VVC	埃文斯威市电力
+VVI	Viad
+VVV	胜牌
+VZ	威瑞森通信
+W	Wayfair
+WAAS	AquaVenture Holdings
+WAB	美国西屋制动
+WAC	沃尔特投资管理
+WAGE	Wageworks
+WAIR	韦斯科航空控股
+WAL	阿莱恩斯西部银行
+WAT	沃特世
+WBAI	500彩票网
+WBC	威伯科控股
+WBK	澳洲西太平洋银行
+WBS	韦伯斯特金融
+WBSpE	韦伯斯特金融E类优先
+WBT	Welbilt
+WCC	西科国际
+WCG	WellCare Health
+WCN	Waste Connections
+WD	Walker & Dunlop
+WDAY	Workday
+WDR	瓦德尔-里德金融
+WEC	WEC能源集团
+WES	西部天然气
+WEX	WEX
+WF	友利银行
+WFC	富国银行
+WFCpJ	富国银行J类优先
+WFCpL	富国银行L类优先
+WFCpN	富国银行N类优先
+WFCpO	富国银行O类存托优先
+WFCpP	富国银行P类存托优先
+WFCpQ	富国银行Q类存托优先
+WFCpX	富国银行X类存托优先
+WFCpY	富国银行Y类优先
+WFEpA	富国银行房产投资优先
+WFT	威德福国际
+WG	Willbros集团
+WGL	WGL控股
+WGO	温尼巴格实业
+WGP	Western Gas Equity
+WHG	韦斯特德控股
+WHR	惠而浦
+WIT	Wipro存托
+WK	Workiva
+WLH	威廉里昂家园
+WLK	西湖化学
+WLKP	Westlake Chemical
+WLL	怀丁石油
+WM	美国废物管理
+WMB	威廉姆斯
+WMC	西方资产抵押贷款投资
+WMK	韦斯市场
+WMLP	Westmoreland
+WMS	Advanced Drainage
+WMT	沃尔玛
+WNC	WABASH国立
+WNRL	西部精炼运储
+WNS	WNS控股
+WOR	沃辛顿工业
+WOW	WideOpenWest
+WPC	凯里事务所
+WPG	Washington优先G
+WPGpH	Washington优先H
+WPGpI	Washington优先I
+WPM	Wheaton Precious
+WPX	WPX能源
+WPXP	WPX能源 优先A
+WPZ	Williams Partners
+WR	西星能源
+WRB	WR柏克利
+WRD	Wildhorse Resource
+WRE	WRE基金
+WRI	Weingarten
+WRK	Westrock
+WSM	威廉索诺玛
+WSO	华斯科
+WSO.B	华斯科B类普通
+WSR	Whitestone房地产
+WST	西医服务
+WTI	W&T海底钻探
+WTM	白山保险集团
+WTR	美国水务
+WTS	沃茨水工业
+WTTR	Select Energy
+WTW	国际重量监视
+WU	西联汇款
+WUBA	58同城
+WWE	世界摔角娱乐
+WWW	沃尔弗林集团
+WY	惠好
+WYN	温德姆环球
+X	美国钢铁
+XCO	EXCO资源
+XEC	Cimarex能源
+XEL	埃克西尔能源
+XHR	森雅酒店及度假村
+XIN	鑫苑置业
+XL	XL Group
+XNY	希尼亚
+XOM	埃克森美孚
+XON	Intrexon
+XOXO	XO集团
+XPO	XPO物流
+XRF	信而富
+XRM	Xerium技术
+XRX	施乐
+XYL	赛莱默
+Y	Alleghany保险
+YELP	Yelp
+YEXT	Yext
+YGE	英利绿色能源
+YPF	阿根廷YPF
+YRD	宜人贷
+YUM	百胜餐饮
+YUMC	百胜中国
+YUME	Yume
+ZAYO	Zayo集团控股
+ZBH	齐默巴奥米特控股
+ZBpA	齐昂银行A类存托优先
+ZBpG	齐昂银行G类存托优先
+ZEN	Zendesk
+ZNH	南方航空
+ZOES	Zoe's Kitchen
+ZPIN	智联招聘
+ZTO	中通快递
+ZTS	硕腾
+ZX	正兴集团
+ZYME	Zymeworks

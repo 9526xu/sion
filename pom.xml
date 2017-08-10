@@ -84,6 +84,8 @@
                 <version>2.4</version>
             </dependency>
 
+
+
             <dependency>
                 <groupId>org.mybatis.generator</groupId>
                 <artifactId>mybatis-generator-core</artifactId>

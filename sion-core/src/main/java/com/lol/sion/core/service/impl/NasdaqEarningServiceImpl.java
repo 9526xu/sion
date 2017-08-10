@@ -3,6 +3,7 @@ package com.lol.sion.core.service.impl;
 import com.google.common.collect.Lists;
 import com.lol.sion.core.dao.dataobject.NasdqEarningDO;
 import com.lol.sion.core.dao.intf.NasdqEarningManager;
+import com.lol.sion.core.dao.intf.UsaTickerSymbolManager;
 import com.lol.sion.core.dao.query.NasdqEarningQuery;
 import com.lol.sion.core.pojo.response.NasdaqEarningListResponse;
 import com.lol.sion.core.service.intf.NasdaqEarningService;
@@ -34,6 +35,8 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
 
     @Autowired
     NasdqEarningManager nasdqEarningManager;
+
+
 
 
     @Override
