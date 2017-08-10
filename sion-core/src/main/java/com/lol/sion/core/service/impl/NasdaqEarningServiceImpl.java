@@ -1,10 +1,13 @@
 package com.lol.sion.core.service.impl;
 
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 import com.lol.sion.core.dao.dataobject.NasdqEarningDO;
+import com.lol.sion.core.dao.dataobject.UsaTickerSymbolDO;
 import com.lol.sion.core.dao.intf.NasdqEarningManager;
 import com.lol.sion.core.dao.intf.UsaTickerSymbolManager;
 import com.lol.sion.core.dao.query.NasdqEarningQuery;
+import com.lol.sion.core.dao.query.UsaTickerSymbolQuery;
 import com.lol.sion.core.pojo.response.NasdaqEarningListResponse;
 import com.lol.sion.core.service.intf.NasdaqEarningService;
 import lombok.extern.slf4j.Slf4j;
@@ -21,6 +24,7 @@ import java.text.ParseException;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -36,15 +40,24 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
     @Autowired
     NasdqEarningManager nasdqEarningManager;
 
-
+    @Autowired
+    UsaTickerSymbolManager usaTickerSymbolManager;
 
 
     @Override
     public List<NasdaqEarningListResponse> query() {
         String time = DateFormatUtils.format(new Date(), "M/d/yyyy");
         NasdqEarningQuery query = new NasdqEarningQuery();
-        query.or().andExpectDateEqualTo(time);
+       // query.or().andExpectDateEqualTo(time);
         List<NasdqEarningDO> earningDOS = nasdqEarningManager.selectByQuery(query);
+
+        //查询所有的股票代码
+        List<UsaTickerSymbolDO> symbolDOList=usaTickerSymbolManager.selectByQuery(new UsaTickerSymbolQuery());
+
+        Map<String,String> symbolDOMap= Maps.newHashMap();
+        symbolDOList.forEach(usaTickerSymbolDO -> {
+            symbolDOMap.put(usaTickerSymbolDO.getTickerSymbol().toUpperCase(),usaTickerSymbolDO.getTickerNameCn());
+        });
 
         List<NasdaqEarningListResponse> list = Lists.transform(earningDOS, nasdqEarningDO -> {
             NasdaqEarningListResponse nasdaqEarningListResponse = new NasdaqEarningListResponse();
@@ -81,6 +94,13 @@ public class NasdaqEarningServiceImpl implements NasdaqEarningService {
 
             String report = getReport(nasdqEarningDO);
             nasdaqEarningListResponse.setReportStr(report);
+
+
+            //股票代码转换
+            String symbol = nasdqEarningDO.getCode();
+            String symbolCn=symbolDOMap.getOrDefault(symbol.toUpperCase(),nasdqEarningDO.getCompany());
+
+            nasdaqEarningListResponse.setTickerSymbolCn(symbolCn);
             //财报截止
             return nasdaqEarningListResponse;
         });

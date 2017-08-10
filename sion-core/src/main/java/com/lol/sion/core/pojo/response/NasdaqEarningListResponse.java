@@ -90,4 +90,6 @@ public class NasdaqEarningListResponse {
     private Integer publishTimeType;
 
     private String reportStr;
+
+    private String tickerSymbolCn;
 }
