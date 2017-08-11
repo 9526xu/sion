@@ -13,10 +13,7 @@
     <button id="btn">是否显示预测报告</button>
 
     <!--/*@thymesVar id="list" type="java.util.List"*/-->
-    <h3  th:text="|总数:${list.size()}|"></h3>
-    <h3 th:text="|盘前:${timeMap.before}|"></h3>
-    <h3 th:text="|盘后:${timeMap.after}|">:</h3>
-    <h3 th:text="|未知:${timeMap.unknown}|"></h3>
+    <h3  th:text="'总数:'+${list.size()}+'盘前:'+${timeMap.get('before')}+'盘后:'+${timeMap.get('after')}+'未知:'+${timeMap.get('unknown')}"></h3>
 
 </div>
 
