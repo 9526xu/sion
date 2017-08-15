@@ -68,6 +68,11 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-remote-shell</artifactId>
+        </dependency>
         <dependency>
             <groupId>com.lol</groupId>
             <artifactId>sion-dal</artifactId>
